@@ -1,4 +1,4 @@
-import { Redirect, Route } from 'wouter'
+import { Redirect, Route, Router } from 'wouter'
 
 import EspnNews from '../pages/EspnNews'
 import NyTimesNews from '../pages/NyTimesNews'
@@ -172,7 +172,7 @@ const wired_routes = [
 
 export default () => {
   return (
-    <>
+    <Router>
       <Redirect href="/new-york-times/topstories" />
       {nyt_routes.map((r, i) => (
         <Route key={i} path={r.url}>
@@ -206,7 +206,7 @@ export default () => {
             <EspnNews title={r.title} url={'/api' + r.url} />
           </Route>
         </>
-      ))}{' '}
-    </>
+      ))}
+    </Router>
   )
 }

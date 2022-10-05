@@ -1,0 +1,533 @@
+{
+  "title": ["www.espn.com - TENNIS"],
+  "description": ["Latest TENNIS news from www.espn.com"],
+  "link": ["https://www.espn.com"],
+  "ttl": ["30"],
+  "language": ["en"],
+  "generator": ["ESPN Inc. https://www.espn.com"],
+  "copyright": ["Copyright 2015 ESPN Inc."],
+  "lastBuildDate": ["Tue, 4 Oct 2022 20:57:32 GMT"],
+  "image": [
+    {
+      "url": [
+        "https://a.espncdn.com/i/espn/teamlogos/lrg/trans/espn_dotcom_black.gif"
+      ],
+      "title": ["www.espn.com - TENNIS"],
+      "link": ["https://www.espn.com"],
+      "width": ["110"],
+      "height": ["110"]
+    }
+  ],
+  "item": [
+    {
+      "title": [
+        "Laver Cup: Roger Federer retires from tennis after playing the final match of his career"
+      ],
+      "description": [
+        "On Friday, Roger Federer played the last professional tennis match of his storied career at the Laver Cup. Here's what happened."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0922/r1065588_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34643828/laver-cup-roger-federer-retires-tennis-playing-final-match-career"
+      ],
+      "pubDate": ["Fri, 23 Sep 2022 20:12:34 EST"],
+      "guid": [{ "_": "US-EN-34643828", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Ranking Roger Federer's 20 Grand Slam titles"],
+      "description": [
+        "As the Swiss tennis legend prepares to end his playing career, we rank each of his 20 Grand Slam titles."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0920/r1064810_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34632623/ranking-roger-federer-20-grand-slam-titles"
+      ],
+      "pubDate": ["Thu, 22 Sep 2022 09:27:08 EST"],
+      "guid": [{ "_": "US-EN-34632623", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Evans, Kyrgios through to rd of 16 at Japan Open"],
+      "description": [
+        "Dan Evans and Nick Kyrgios progressed to the round of 16 at the Japan Open, while top-seeded Casper Ruud lost on Tuesday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1004/r1070792_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34724157/dan-evans-nick-kyrgios-win-top-seed-casper-ruud-loses-japan-open"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 09:55:27 EST"],
+      "guid": [{ "_": "US-EN-34724157", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["ITF collab with WTA on 2023 calendar clashes"],
+      "description": [
+        "The International Tennis Federation (ITF) will work with the women's body (WTA) to ensure players can play in WTA and ITF tournaments after Iga Swiatek opted to skip the Billie Jean King Cup, the world tennis governing body said on Tuesday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0830/r1055014_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34723311/itf-work-wta-2023-calendar-iga-swiatek-pulls-billie-jean-king-cup"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 07:01:48 EST"],
+      "guid": [{ "_": "US-EN-34723311", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Kyrgios cites mental health, seeks court dismissal"],
+      "description": [
+        "Australian tennis player Nick Kyrgios is seeking to have his assault charge dismissed on mental health grounds, media reported on Tuesday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1004/r1070701_1296x518_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34721990/nick-kyrgios-seeks-assault-charge-dismissed-mental-health-grounds"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 22:43:32 EST"],
+      "guid": [{ "_": "US-EN-34721990", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Spain's Alcaraz, Nadal make ATP rankings history"],
+      "description": [
+        "Spain's Carlos Alcaraz and Rafael Nadal are the top two ranked men in the world, marking the first time ever that two non-Americans from the same country have held the top two spots in the ATP rankings."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1003/r1070557_600x600_1-1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34719473/carlos-alcaraz-rafael-nadal-put-spain-1-2-atp-rankings-1st"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 15:25:42 EST"],
+      "guid": [{ "_": "US-EN-34719473", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Swiatek out of BJK Cup: scheduling 'not safe'"],
+      "description": [
+        "Top-ranked Iga Swiatek will not play in the Billie Jean King Cup and complained Monday about that event being scheduled to start immediately after the WTA Finals."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0909/r1059318_2_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34719091/iga-swiatek-billie-jean-king-cup-saying-scheduling-not-safe"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 13:37:50 EST"],
+      "guid": [{ "_": "US-EN-34719091", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Norrie out of Japan Open, Tiafoe advances"],
+      "description": [
+        "Cameron Norrie was forced to pull out of the Japan Open after testing positive for Covid-19 while out competing in South Korea. Meanwhile Frances Tiafoe advances to second round."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0930/r1068947_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34717941/cameron-norrie-forced-japan-open-covid-19-frances-tiafoe-advances"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 09:22:57 EST"],
+      "guid": [{ "_": "US-EN-34717941", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Djokovic cruises past Cilic for Tel Aviv Open title"],
+      "description": [
+        "Top seed Novak Djokovic produced a stellar display to sweep aside Croatian Marin Cilic 6-3, 6-4 in the final of the ATP 250 Tel Aviv Open on Sunday and clinch his third title of the season."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1002/r1070200_600x400_3-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34714178/novak-djokovic-cruises-marin-cilic-capture-tel-aviv-open-title"
+      ],
+      "pubDate": ["Sun, 2 Oct 2022 18:22:07 EST"],
+      "guid": [{ "_": "US-EN-34714178", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Way-too-early tennis Grand Slam predictions for 2023"],
+      "description": [
+        "With the Grand Slam season wrapped up, we give our best predictions for the major titles of 2023. Spoiler: Alcaraz and Swiatek aren't going anywhere."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0911/r1060727_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34573597/way-too-early-tennis-grand-slam-predictions-2023"
+      ],
+      "pubDate": ["Mon, 12 Sep 2022 11:18:45 EST"],
+      "guid": [{ "_": "US-EN-34573597", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Inside Serena Williams' final month in tennis"],
+      "description": [
+        "After an epic match, Serena Williams lost in the third round of the US Open Friday night. We take a look at the hoopla of a whirlwind three weeks since she announced she'd be retiring."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0903/r1056628_4_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34512066/inside-serena-williams-final-month-tennis"
+      ],
+      "pubDate": ["Sat, 3 Sep 2022 16:17:30 EST"],
+      "guid": [{ "_": "US-EN-34512066", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Teenage superstar Carlos Alcaraz makes history with his first US Open title -- and it's only the beginning"
+      ],
+      "description": [
+        "Carlos Alcaraz's first Grand Slam title is an ominous sign for his competitors. The 19-year-old is the youngest men's world No. 1 in history. And he is not going anywhere."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0911/r1060821_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34573213/teenage-superstar-carlos-alcaraz-makes-history-first-us-open-title-only-beginning"
+      ],
+      "pubDate": ["Sun, 11 Sep 2022 21:39:07 EST"],
+      "guid": [{ "_": "US-EN-34573213", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Iga Swiatek's US Open victory cements her status as the dominant force in women's tennis"
+      ],
+      "description": [
+        "Her rise over the past two years has seemed unstoppable. Now, with Iga Swiatek's third Grand Slam title win Saturday at the US Open, she has proved she is the best in the sport right now."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0910/r1060106_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34564240/iga-swiatek-us-open-victory-cements-status-dominant-force-women-tennis"
+      ],
+      "pubDate": ["Sat, 10 Sep 2022 20:45:30 EST"],
+      "guid": [{ "_": "US-EN-34564240", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Naomi Osaka releasing her first children's book"],
+      "description": [
+        "Titled \"The Way Champs Play,\" the book is meant to inspire and encourage kids. Osaka joins Serena Williams and Steph Curry as athletes who have recently written children's books."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0119/r963336_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34725233/naomi-osaka-releasing-first-children-book"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 13:00:10 EST"],
+      "guid": [{ "_": "US-EN-34725233", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Nishioka ends dream week with Korea Open win"],
+      "description": [
+        "Japan's Yoshihito Nishioka claimed his second career title after beating fourth seed Denis Shapovalov of Canada 6-4, 7-6 (5) to win the Korean Open on Sunday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1002/r1070107_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34712841/yoshihito-nishioka-lift-korea-open-title-complete-dream-week"
+      ],
+      "pubDate": ["Sun, 2 Oct 2022 16:09:55 EST"],
+      "guid": [{ "_": "US-EN-34712841", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Krejcikova wins Talinn Open amid injury-hit season"],
+      "description": [
+        "Last year's French Open champion Barbora Krejcikova won her first title of an injury-hit season on Sunday at the inaugural Tallinn Open."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1002/r1070102_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34712843/barbora-krejcikova-wins-talinn-open-title-amid-injury-hit-season"
+      ],
+      "pubDate": ["Sun, 2 Oct 2022 16:06:27 EST"],
+      "guid": [{ "_": "US-EN-34712843", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Huesler lifts first ATP title at Sofia Open"],
+      "description": [
+        "Switzerland's Marc-Andrea Huesler won his career-first ATP title at the Sofia Open following a straight-sets win over Holger Rune on Sunday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1002/r1070080_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34712506/marc-andrea-huesler-lifts-first-atp-title-sofia-open"
+      ],
+      "pubDate": ["Sun, 2 Oct 2022 15:49:27 EST"],
+      "guid": [{ "_": "US-EN-34712506", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Shapovalov sets up Korea final clash vs. Nishioka"],
+      "description": [
+        "Canada's Denis Shapovalov will face Japan's Yoshihito Nishioka in the final of the Korea Open in Seoul after he eased to a straight-sets victory over United States' Jenson Brooksby on Saturday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1001/r1069423_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34703116/denis-shapovalov-sets-korea-open-final-yoshihito-nishioka"
+      ],
+      "pubDate": ["Sat, 1 Oct 2022 14:59:37 EST"],
+      "guid": [{ "_": "US-EN-34703116", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Norrie pulls out of Korea QF, Brooksby gets bye"],
+      "description": [
+        "Cameron Norrie withdrew from the Korea Open on Friday due to illness, giving American Jenson Brooksby a bye into the semifinals of the competition in Seoul."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0930/r1068947_1296x518_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34695430/cameron-norrie-withdraws-korea-open-quarterfinal-jenson-brooksby-gets-bye-semis"
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 09:13:15 EST"],
+      "guid": [{ "_": "US-EN-34695430", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Norrie downs Uchida, through to Korea Open QF"],
+      "description": [
+        "British No. 1 Cameron Norrie defeated Kaichi Uchida 6-2, 6-2 on Thursday to reach the last eight at the Korea Open in Seoul."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0929/r1068551_1296x518_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34689527/cameron-norrie-korea-open-quarterfinal-kaichi-uchida-win"
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 09:12:18 EST"],
+      "guid": [{ "_": "US-EN-34689527", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Shapovalov beats Munar to enter Korea Open R2"],
+      "description": [
+        "Canada's Denis Shapovalov, No. 4 seed, defeated Spain's Jaume Munar in straight sets by 7-5, 6-4, in one hour and 49 minutes to advance to the second round of the Korea Open on Wednesday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0928/r1068060_1296x518_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34682705/denis-shapovalov-downs-jaume-munar-advances-korea-open-second-round"
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 07:51:00 EST"],
+      "guid": [{ "_": "US-EN-34682705", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Djokovic wants Federer-style farewell from tennis"],
+      "description": [
+        "Novak Djokovic said he wants his biggest rivals to be by his side when he brings the curtain down on his career, much like Roger Federer's emotional goodbye to the game last week."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0928/r1068015_800x320_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34681280/novak-djokovic-wants-replicate-roger-federer-emotional-farewell"
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 06:35:22 EST"],
+      "guid": [{ "_": "US-EN-34681280", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Serena Williams releases first children's book titled 'The Adventures of Qai Qai'"
+      ],
+      "description": [
+        "Williams can add \"children's book author\" to her legendary résumé."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0927/r1067666_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34677074/serena-williams-releases-first-children-book-titled-adventures-qai-qai"
+      ],
+      "pubDate": ["Tue, 27 Sep 2022 15:01:00 EST"],
+      "guid": [{ "_": "US-EN-34677074", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Nishioka beats Evans in Korea Open R1"],
+      "description": [
+        "British No. 2 Daniel Evans was defeated by Japan's Yoshihito Nishioka 6-2, 7-6 (3) in one hour, 49 minutes in the first round of the Korea Open on Tuesday."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0927/r1067592_1296x518_5-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34676199/dan-evans-defeated-yoshihito-nishioka-korea-open-first-round"
+      ],
+      "pubDate": ["Tue, 27 Sep 2022 11:13:26 EST"],
+      "guid": [{ "_": "US-EN-34676199", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "'Can't pick up water bottle without pain': Sania's retirement plans affected by injury"
+      ],
+      "description": [
+        "Sania Mirza, who is currently ranked 25th in doubles, was on a good run before the injury hit in late August and forced her out of US Open."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2020/0318/r680670_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/tennis/story/_/id/34676137/sania-mirza-retirement-plans-affected-delayed-injury-recovery-indian-tennis"
+      ],
+      "pubDate": ["Tue, 27 Sep 2022 10:55:47 EST"],
+      "guid": [{ "_": "US-EN-34676137", "$": { "isPermaLink": "false" } }]
+    }
+  ]
+}

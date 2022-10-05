@@ -1,0 +1,18 @@
+d4okeefe_auth
+9LV980OnW3kD0kUg
+
+mongodb+srv://cluster0.jdy6d.gcp.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority
+
+
+mongodb+srv://<username>:<password>@cluster0.jdy6d.gcp.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://d4okeefe_auth:9LV980OnW3kD0kUg@cluster0.jdy6d.gcp.mongodb.net/?retryWrites=true&w=majority
+
+
+const { MongoClient, ServerApiVersion } = require('mongodb');
+const uri = "mongodb+srv://<username>:<password>@cluster0.jdy6d.gcp.mongodb.net/?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
+client.connect(err => {
+  const collection = client.db("test").collection("devices");
+  // perform actions on the collection object
+  client.close();
+});

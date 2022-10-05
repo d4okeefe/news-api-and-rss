@@ -1,0 +1,1536 @@
+[
+  {
+    "section": "science",
+    "subsection": "",
+    "title": "Sign Up for the Science Times Newsletter",
+    "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+    "url": "null",
+    "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+    "byline": "",
+    "item_type": "EmbeddedInteractive",
+    "updated_date": "2018-04-07T13:23:25-04:00",
+    "created_date": "2016-02-05T18:18:53-05:00",
+    "published_date": "2016-02-05T18:18:53-05:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1534,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "NASA, via Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+        "format": "mediumThreeByTwo440",
+        "height": 293,
+        "width": 440,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "NASA, via Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "NASA, via Associated Press"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "admin",
+    "subsection": "",
+    "title": "",
+    "abstract": "",
+    "url": "",
+    "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+    "byline": "",
+    "item_type": "EmbeddedInteractive",
+    "updated_date": "2015-07-20T13:45:03-04:00",
+    "created_date": "2015-04-16T14:13:18-04:00",
+    "published_date": "2015-04-16T14:13:18-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": null,
+    "short_url": ""
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Florida’s Leaders Opposed Climate Aid. Now They’re Depending on It.",
+    "abstract": "Before Hurricane Ian, the state’s Republican politicians have rejected federal action to cut greenhouse gas emissions and boost climate resilience.",
+    "url": "https://www.nytimes.com/2022/10/04/climate/florida-republicans-climate-hurricane-ian.html",
+    "uri": "nyt://article/fe64d73e-b525-55d3-a92a-5cf096378dd4",
+    "byline": "By Christopher Flavelle and Jonathan Weisman",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T14:14:59-04:00",
+    "created_date": "2022-10-04T13:02:32-04:00",
+    "published_date": "2022-10-04T13:02:32-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Global Warming",
+      "Greenhouse Gas Emissions",
+      "Hurricane Ian (2022)",
+      "Floods",
+      "Hurricanes and Tropical Storms",
+      "Oceans and Seas"
+    ],
+    "org_facet": [],
+    "per_facet": ["DeSantis, Ron", "Rubio, Marco", "Scott, Richard L"],
+    "geo_facet": ["Florida"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.",
+        "copyright": "Joe Raedle/Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.",
+        "copyright": "Joe Raedle/Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/climate/04cli-florida-politics1/04cli-florida-politics1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Damage to the Sanibel Causeway, the only road in or out of Sanibel Island, in southwest Florida on Sept. 29.",
+        "copyright": "Joe Raedle/Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/3C9k9M1"
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Meet the Band of TV Animals That’s Talking to Preschoolers About Climate",
+    "abstract": "There are few books, shows or other tools to help parents and teachers talk to preschoolers about global warming. “Octonauts: Above and Beyond” is one of the first to try.",
+    "url": "https://www.nytimes.com/2022/10/04/climate/octonauts-climate-change-preschool.html",
+    "uri": "nyt://article/b8f01b14-bd95-5fef-be35-a09f76f1972b",
+    "byline": "By Coral Davenport",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T13:28:42-04:00",
+    "created_date": "2022-10-04T05:00:28-04:00",
+    "published_date": "2022-10-04T05:00:28-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Global Warming",
+      "Greenhouse Gas Emissions",
+      "Television",
+      "Education (Pre-School)",
+      "Octonauts (TV Program)"
+    ],
+    "org_facet": ["British Broadcasting Corp"],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/27/climate/00cli-octonauts-promo/00cli-octonauts-promo-superJumbo-v2.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Brandon Thibodeaux for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/27/climate/00cli-octonauts-promo/00cli-octonauts-promo-threeByTwoSmallAt2X-v3.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Brandon Thibodeaux for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/27/climate/00cli-octonauts-promo/00cli-octonauts-promo-thumbLarge-v3.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Brandon Thibodeaux for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3CvTVVF"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "At Long Last, Can Malaria Be Eradicated?",
+    "abstract": "Two new vaccines may finally turn back an ancient plague. But in unexpected ways, their arrival also complicates the path to ending the disease.",
+    "url": "https://www.nytimes.com/2022/10/04/health/malaria-vaccines.html",
+    "uri": "nyt://article/57a2a075-d413-5d63-8c2a-c774cc8ad9bd",
+    "byline": "By Apoorva Mandavilli and Kang-Chun Cheng",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T09:20:19-04:00",
+    "created_date": "2022-10-04T03:00:22-04:00",
+    "published_date": "2022-10-04T03:00:22-04:00",
+    "material_type_facet": "",
+    "kicker": "Global Health",
+    "des_facet": [
+      "your-feed-science",
+      "Vaccination and Immunization",
+      "Malaria",
+      "Disease Rates",
+      "Children and Childhood",
+      "Mosquitoes",
+      "Drugs (Pharmaceuticals)",
+      "Third World and Developing Countries",
+      "Philanthropy",
+      "Parasites",
+      "Clinical Trials"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Africa", "Kenya", "Kisumu (Kenya)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/00malaria-promo/merlin_199518432_c0fd56a7-f094-4410-aacf-dc100e3b983c-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Kang-Chun Cheng for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/00malaria-promo/00malaria-promo-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Kang-Chun Cheng for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/00malaria-promo/00malaria-promo-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Kang-Chun Cheng for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3C5RTdh"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "For Autistic Mothers, Breastfeeding Is Complicated",
+    "abstract": "Mothers with autism, who are less likely than others to breastfeed, have been hit particularly hard by the baby formula shortage.",
+    "url": "https://www.nytimes.com/2022/10/04/health/formula-shortage-autism-breastfeeding.html",
+    "uri": "nyt://article/3baf87a1-47b1-5ebf-8e45-da32d31981a1",
+    "byline": "By Shafaq Zia",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T08:01:33-04:00",
+    "created_date": "2022-10-04T03:00:08-04:00",
+    "published_date": "2022-10-04T03:00:08-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Breastfeeding",
+      "Autism",
+      "Infant Formulas",
+      "Parenting",
+      "Babies and Infants",
+      "Women and Girls",
+      "your-feed-healthcare"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/science/04-beastfeeding-autism-formula/04-beastfeeding-autism-formula-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1200,
+        "width": 1800,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Charlotte Fu"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/science/04-beastfeeding-autism-formula/04-beastfeeding-autism-formula-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Charlotte Fu"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/science/04-beastfeeding-autism-formula/04-beastfeeding-autism-formula-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Charlotte Fu"
+      }
+    ],
+    "short_url": "https://nyti.ms/3SUYwG4"
+  },
+  {
+    "section": "us",
+    "subsection": "politics",
+    "title": "Russia’s Small Nuclear Arms: A Risky Option for Putin and Ukraine Alike",
+    "abstract": "President Vladimir V. Putin of Russia has 2,000 small nuclear weapons, but their utility on the battlefield may not be worth the longer-term costs.",
+    "url": "https://www.nytimes.com/2022/10/03/us/politics/russia-tactical-nuclear-weapons.html",
+    "uri": "nyt://article/630be712-9168-5757-8e76-cf35893564cb",
+    "byline": "By David E. Sanger and William J. Broad",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T11:07:51-04:00",
+    "created_date": "2022-10-03T19:39:05-04:00",
+    "published_date": "2022-10-03T19:39:05-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Russian Invasion of Ukraine (2022)",
+      "Nuclear Weapons",
+      "Defense and Military Forces",
+      "Radiation"
+    ],
+    "org_facet": [],
+    "per_facet": ["Putin, Vladimir V"],
+    "geo_facet": ["Russia", "Ukraine"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/us/politics/03dc-nuke-1/merlin_214079991_61375fe1-2e85-4009-8d79-f7d1e65c5505-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1367,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The atomic threats of President Vladimir V. Putin of Russia may come as a shock to Americans who have barely thought about nuclear arms in recent decades.",
+        "copyright": "Alexander Nemenov/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/us/politics/03dc-nuke-1/03dc-nuke-1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The atomic threats of President Vladimir V. Putin of Russia may come as a shock to Americans who have barely thought about nuclear arms in recent decades.",
+        "copyright": "Alexander Nemenov/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/us/politics/03dc-nuke-1/03dc-nuke-1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The atomic threats of President Vladimir V. Putin of Russia may come as a shock to Americans who have barely thought about nuclear arms in recent decades.",
+        "copyright": "Alexander Nemenov/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/3RNn5nH"
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Three Ways to Build Back Smarter After Hurricane Ian",
+    "abstract": "Big storms are becoming more common. That makes it crucial to take climate change into account when rebuilding.",
+    "url": "https://www.nytimes.com/2022/10/03/climate/hurricane-ian-rebuilding.html",
+    "uri": "nyt://article/84eebcc9-d965-5108-b29e-30824164534e",
+    "byline": "By Elena Shao",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T11:25:23-04:00",
+    "created_date": "2022-10-03T17:23:35-04:00",
+    "published_date": "2022-10-03T17:23:35-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Global Warming",
+      "Hurricane Ian (2022)",
+      "Floods",
+      "Coast Erosion",
+      "Levees and Dams",
+      "Buildings (Structures)",
+      "Area Planning and Renewal",
+      "Content Type: Service",
+      "Infrastructure (Public Works)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/climate/03cli-rebuild1/03cli-rebuild1-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Destruction from Hurricane Ian in Fort Myers Beach, Fla. ",
+        "copyright": "Johnny Milano for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/climate/03cli-rebuild1/03cli-rebuild1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Destruction from Hurricane Ian in Fort Myers Beach, Fla. ",
+        "copyright": "Johnny Milano for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/climate/03cli-rebuild1/03cli-rebuild1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Destruction from Hurricane Ian in Fort Myers Beach, Fla. ",
+        "copyright": "Johnny Milano for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3M2M8BG"
+  },
+  {
+    "section": "travel",
+    "subsection": "",
+    "title": "Unearthing Everyday Life at an Ancient Site in Greece",
+    "abstract": "Excavations in the Peloponnesian village of Iklaina are yielding rich insights into the lives of the Mycenaean civilization’s general population.",
+    "url": "https://www.nytimes.com/2022/10/03/travel/iklaina-archaeology-greece.html",
+    "uri": "nyt://article/026d2e38-d727-5e18-9d03-1173d4c0f5fa",
+    "byline": "By Matt Stirn",
+    "item_type": "Article",
+    "updated_date": "2022-10-03T14:20:06-04:00",
+    "created_date": "2022-10-03T05:00:28-04:00",
+    "published_date": "2022-10-03T05:00:28-04:00",
+    "material_type_facet": "",
+    "kicker": "The World Through a Lens",
+    "des_facet": [
+      "Greek Civilization",
+      "Archaeology and Anthropology",
+      "Travel and Vacations",
+      "Ceramics and Pottery",
+      "Greek Language"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Greece", "Mediterranean Sea", "Mycenae (Greece)"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/merlin_213938556_1c90c0de-9da0-40f1-83c8-67ad7cd96bd8-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1367,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "An archaeologist carefully unearths a pottery fragment.",
+        "copyright": "Matt Stirn"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/03travel-greece5-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "An archaeologist carefully unearths a pottery fragment.",
+        "copyright": "Matt Stirn"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/travel/03travel-greece-promo/03travel-greece5-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "An archaeologist carefully unearths a pottery fragment.",
+        "copyright": "Matt Stirn"
+      }
+    ],
+    "short_url": "https://nyti.ms/3dVXZoJ"
+  },
+  {
+    "section": "world",
+    "subsection": "africa",
+    "title": "Uganda Races to Contain a Deadly Ebola Outbreak",
+    "abstract": "The outbreak was caused by the Sudan strain of the virus, which has no approved vaccine or drug treatment. Scientists are now rushing to begin clinical trials in the coming weeks.",
+    "url": "https://www.nytimes.com/2022/10/01/world/africa/uganda-ebola-outbreak.html",
+    "uri": "nyt://article/4a360242-553e-5a9f-9323-73ca7faf8310",
+    "byline": "By Abdi Latif Dahir",
+    "item_type": "Article",
+    "updated_date": "2022-10-02T13:24:32-04:00",
+    "created_date": "2022-10-01T12:27:25-04:00",
+    "published_date": "2022-10-01T12:27:25-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": ["Ebola Virus", "Epidemics", "Vaccination and Immunization"],
+    "org_facet": ["World Health Organization"],
+    "per_facet": [],
+    "geo_facet": ["Uganda", "Kampala (Uganda)", "Sudan"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/world/00Uganda-Ebola/merlin_213739467_c547c41e-83d3-4aa7-b5dc-6de02daac221-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1364,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Members of the Ebola treatment unit this past week at Mubende Regional Referral Hospital in Uganda.",
+        "copyright": "Badru Katumba/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/world/00Uganda-Ebola/merlin_213739467_c547c41e-83d3-4aa7-b5dc-6de02daac221-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Members of the Ebola treatment unit this past week at Mubende Regional Referral Hospital in Uganda.",
+        "copyright": "Badru Katumba/Agence France-Presse — Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/world/00Uganda-Ebola/merlin_213739467_c547c41e-83d3-4aa7-b5dc-6de02daac221-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Members of the Ebola treatment unit this past week at Mubende Regional Referral Hospital in Uganda.",
+        "copyright": "Badru Katumba/Agence France-Presse — Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/3y8JsNg"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "Fentanyl Test Strips Highlight Rift in Nation’s Struggle to Combat Drug Deaths",
+    "abstract": "Proponents say the ability to check drugs for the presence of lethal fentanyl may save lives. But critics say the strips enable drug use.",
+    "url": "https://www.nytimes.com/2022/10/01/health/fantanyl-test-strips.html",
+    "uri": "nyt://article/c2352b04-97f9-5749-8068-4cd0fca9f636",
+    "byline": "By Jan Hoffman and Desiree Rios",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T10:38:20-04:00",
+    "created_date": "2022-10-01T05:00:25-04:00",
+    "published_date": "2022-10-01T05:00:25-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "your-feed-science",
+      "Drug Abuse and Traffic",
+      "Tests (Drug Use)",
+      "Opioids and Opiates",
+      "Fentanyl",
+      "Heroin",
+      "States (US)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["Bronx (NYC)", "United States"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/16/science/16fentanyl-teststrips-promo/merlin_211784082_ec3b7447-4214-4700-9d4d-b01b5824d8c3-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Desiree Rios/The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/16/science/16fentanyl-teststrips-promo/16fentanyl-teststrips-promo-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Desiree Rios/The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/16/science/16fentanyl-teststrips-promo/16fentanyl-teststrips-promo-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Desiree Rios/The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3BVTimN"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "Price of New A.L.S. Treatment Will Be $158,000 Per Year, Maker Says",
+    "abstract": "The list price of the therapy, Relyvrio, is much higher than an economic research group recommends, but the company says most patients will pay very little themselves.",
+    "url": "https://www.nytimes.com/2022/09/30/health/relyvrio-price-als-amylyx.html",
+    "uri": "nyt://article/6a428d5d-5f73-50da-8f1b-2b59865e7b6b",
+    "byline": "By Pam Belluck",
+    "item_type": "Article",
+    "updated_date": "2022-10-01T10:35:30-04:00",
+    "created_date": "2022-09-30T16:16:18-04:00",
+    "published_date": "2022-09-30T16:16:18-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Amyotrophic Lateral Sclerosis",
+      "Drugs (Pharmaceuticals)",
+      "Clinical Trials",
+      "Health Insurance and Managed Care",
+      "Prices (Fares, Fees and Rates)"
+    ],
+    "org_facet": ["Amylyx Pharmaceuticals Inc", "Food and Drug Administration"],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/science/30ALS/30ALS-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The new drug, marketed as Relyvrio, has a list price of $158,000 a year.",
+        "copyright": "Amylyx Pharmaceuticals"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/science/30ALS/30ALS-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The new drug, marketed as Relyvrio, has a list price of $158,000 a year.",
+        "copyright": "Amylyx Pharmaceuticals"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/science/30ALS/30ALS-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "The new drug, marketed as Relyvrio, has a list price of $158,000 a year.",
+        "copyright": "Amylyx Pharmaceuticals"
+      }
+    ],
+    "short_url": "https://nyti.ms/3LUd5HR"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "Half of Adults Have Heard Little or Nothing About New Covid Boosters, Survey Finds",
+    "abstract": "The latest shots, which target Omicron and its subvariants, could offer protection against a winter surge in cases. But many people are unsure if they’re eligible.",
+    "url": "https://www.nytimes.com/2022/09/30/health/omicron-booster-covid.html",
+    "uri": "nyt://article/7b515bf2-e765-5501-bac4-28d5b13166af",
+    "byline": "By Jan Hoffman",
+    "item_type": "Article",
+    "updated_date": "2022-10-01T10:38:48-04:00",
+    "created_date": "2022-09-30T15:27:14-04:00",
+    "published_date": "2022-09-30T15:27:14-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Vaccination and Immunization",
+      "Coronavirus Omicron Variant",
+      "Polls and Public Opinion",
+      "your-feed-healthcare",
+      "your-feed-science"
+    ],
+    "org_facet": [
+      "Kaiser Family Foundation",
+      "Moderna Inc",
+      "Pfizer Inc",
+      "BioNTech SE"
+    ],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/science/30virus-booster/merlin_213126123_90988536-7243-4d66-981e-834d0870f8a1-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Preparing a booster shot at a vaccination site in Maywood, Ill., this month.",
+        "copyright": "Jamie Kelter Davis for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/science/30virus-booster/30virus-booster-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Preparing a booster shot at a vaccination site in Maywood, Ill., this month.",
+        "copyright": "Jamie Kelter Davis for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/30/science/30virus-booster/30virus-booster-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Preparing a booster shot at a vaccination site in Maywood, Ill., this month.",
+        "copyright": "Jamie Kelter Davis for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3SJM5wW"
+  },
+  {
+    "section": "science",
+    "subsection": "",
+    "title": "Nick Holonyak Jr., Pioneer of LED Lighting, Is Dead at 93",
+    "abstract": "He invented a visible red-light diode. His 41 patents also included lasers that enabled DVD and CD players.",
+    "url": "https://www.nytimes.com/2022/09/30/science/nick-holonyak-jr-dead.html",
+    "uri": "nyt://article/1441571f-1508-50d8-a153-a3604f38fcf1",
+    "byline": "By Sam Roberts",
+    "item_type": "Article",
+    "updated_date": "2022-10-03T23:24:23-04:00",
+    "created_date": "2022-09-30T11:50:22-04:00",
+    "published_date": "2022-09-30T11:50:22-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Deaths (Obituaries)",
+      "Light-Emitting Diodes",
+      "Lighting",
+      "Inventions and Patents",
+      "Physics",
+      "Innovation",
+      "Laser (Light Amplification by Stimulated Emission of Radiation)",
+      "Nobel Prizes"
+    ],
+    "org_facet": ["University of Illinois, Urbana-Champaign"],
+    "per_facet": ["Holonyak, Nick Jr (1928-2022)"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/obituaries/28Holonyak1/merlin_11153860_0198301b-76f8-4525-9d9f-52d57170c64a-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1369,
+        "width": 2000,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Nick Holonyak Jr. in an undated photo. He was among the first scientists to predict that incandescent bulbs and fluorescent lamps would eventually be replaced by light-emitting diodes.",
+        "copyright": "Bill Wiegand/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/obituaries/28Holonyak1/merlin_11153860_0198301b-76f8-4525-9d9f-52d57170c64a-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Nick Holonyak Jr. in an undated photo. He was among the first scientists to predict that incandescent bulbs and fluorescent lamps would eventually be replaced by light-emitting diodes.",
+        "copyright": "Bill Wiegand/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/obituaries/28Holonyak1/28Holonyak1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Nick Holonyak Jr. in an undated photo. He was among the first scientists to predict that incandescent bulbs and fluorescent lamps would eventually be replaced by light-emitting diodes.",
+        "copyright": "Bill Wiegand/Associated Press"
+      }
+    ],
+    "short_url": "https://nyti.ms/3LXLjtK"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "Can Smartphones Help Predict Suicide?",
+    "abstract": "A unique research project is tracking hundreds of people at risk for suicide, using data from smartphones and wearable biosensors to identify periods of high danger — and intervene.",
+    "url": "https://www.nytimes.com/2022/09/30/health/suicide-predict-smartphone.html",
+    "uri": "nyt://article/fd85690c-2fe5-5cd6-aa94-84646bb41fc9",
+    "byline": "By Ellen Barry",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T09:54:14-04:00",
+    "created_date": "2022-09-30T11:30:09-04:00",
+    "published_date": "2022-09-30T11:30:09-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Suicides and Suicide Attempts",
+      "Smartphones",
+      "Research",
+      "Sensors",
+      "Wearable Computing",
+      "Mental Health and Disorders",
+      "Artificial Intelligence",
+      "Psychiatry and Psychiatrists",
+      "Psychology and Psychologists",
+      "internal-sub-only",
+      "your-feed-science",
+      "your-feed-healthcare",
+      "Innovation"
+    ],
+    "org_facet": ["Harvard University"],
+    "per_facet": ["Nock, Matthew K"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/science/00MACHINELEARNING1/00MACHINELEARNING1-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Katelin Cruz uses a phone and FitBit to submit data about her mood and other metrics to Harvard researchers studying suicidal tendencies. “I think it’s almost easier to tell the truth to a computer,” she said.",
+        "copyright": "Kayana Szymczak for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/science/00MACHINELEARNING1/00MACHINELEARNING1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Katelin Cruz uses a phone and FitBit to submit data about her mood and other metrics to Harvard researchers studying suicidal tendencies. “I think it’s almost easier to tell the truth to a computer,” she said.",
+        "copyright": "Kayana Szymczak for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/04/science/00MACHINELEARNING1/00MACHINELEARNING1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Katelin Cruz uses a phone and FitBit to submit data about her mood and other metrics to Harvard researchers studying suicidal tendencies. “I think it’s almost easier to tell the truth to a computer,” she said.",
+        "copyright": "Kayana Szymczak for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3y6K31P"
+  },
+  {
+    "section": "science",
+    "subsection": "",
+    "title": "NASA May Let Billionaire Astronaut and SpaceX Lift Hubble Telescope",
+    "abstract": "Jared Isaacman, who traveled to orbit on the Inspiration4 mission, is pursuing a private space program in collaboration with Elon Musk’s rocket company.",
+    "url": "https://www.nytimes.com/2022/09/29/science/nasa-hubble-spacex-polaris.html",
+    "uri": "nyt://article/a0160b92-6bdd-5879-9c51-aca33c3d36f1",
+    "byline": "By Kenneth Chang",
+    "item_type": "Article",
+    "updated_date": "2022-09-29T23:03:42-04:00",
+    "created_date": "2022-09-29T20:15:14-04:00",
+    "published_date": "2022-09-29T20:15:14-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Hubble Space Telescope",
+      "Space and Astronomy",
+      "Private Spaceflight",
+      "Rocket Science and Propulsion"
+    ],
+    "org_facet": [
+      "National Aeronautics and Space Administration",
+      "Space Exploration Technologies Corp"
+    ],
+    "per_facet": ["Isaacman, Jared (1983- )"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/29nasa1/29nasa1-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1364,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Jared Isaacman under the cupola of a SpaceX Crew Dragon capsule during the Inspiration4 mission last year.",
+        "copyright": "SpaceX"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/29nasa1/29nasa1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Jared Isaacman under the cupola of a SpaceX Crew Dragon capsule during the Inspiration4 mission last year.",
+        "copyright": "SpaceX"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/29nasa1/29nasa1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Jared Isaacman under the cupola of a SpaceX Crew Dragon capsule during the Inspiration4 mission last year.",
+        "copyright": "SpaceX"
+      }
+    ],
+    "short_url": "https://nyti.ms/3SK8nyt"
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Downpours From Ian Prompt Florida Treatment Plants to Release Waste",
+    "abstract": "Concern turns to industrial sites and huge farms farther north as the storm heads toward South Carolina.",
+    "url": "https://www.nytimes.com/2022/09/29/climate/hurricane-ian-toxic-waste.html",
+    "uri": "nyt://article/ef7b799a-c429-5d47-811b-5e05530d8af4",
+    "byline": "By Winston Choi-Schagrin",
+    "item_type": "Article",
+    "updated_date": "2022-09-30T03:22:48-04:00",
+    "created_date": "2022-09-29T18:48:06-04:00",
+    "published_date": "2022-09-29T18:48:06-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Hurricane Ian (2022)",
+      "Hazardous and Toxic Substances",
+      "Sewers and Sewage",
+      "Global Warming",
+      "Water Pollution",
+      "Waste Materials and Disposal",
+      "Mines and Mining",
+      "Fish and Other Marine Life",
+      "Factory Farming"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/29CLI-TOXIC1/merlin_185966859_ee89e0f0-8046-4c34-82e7-6c178c32a747-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Reservoirs at Piney Point, a phosphate plant in Palmetto, Fla., that is in the process of being shut down.",
+        "copyright": "Drone Base, via Reuters"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/29CLI-TOXIC1/merlin_185966859_ee89e0f0-8046-4c34-82e7-6c178c32a747-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Reservoirs at Piney Point, a phosphate plant in Palmetto, Fla., that is in the process of being shut down.",
+        "copyright": "Drone Base, via Reuters"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/science/29CLI-TOXIC1/29CLI-TOXIC1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Reservoirs at Piney Point, a phosphate plant in Palmetto, Fla., that is in the process of being shut down.",
+        "copyright": "Drone Base, via Reuters"
+      }
+    ],
+    "short_url": "https://nyti.ms/3ClLjko"
+  },
+  {
+    "section": "us",
+    "subsection": "",
+    "title": "Leonard Cole, Who Detailed Secret Army Germ Tests, Dies at 89",
+    "abstract": "A dentist with a parallel career as a political scientist, he drew attention to a program that made millions of Americans unwitting guinea pigs.",
+    "url": "https://www.nytimes.com/2022/09/29/us/leonard-cole-dead.html",
+    "uri": "nyt://article/63ed2cb0-daa7-57e8-bca9-4ba67ab9479b",
+    "byline": "By Ed Shanahan",
+    "item_type": "Article",
+    "updated_date": "2022-10-01T10:30:53-04:00",
+    "created_date": "2022-09-29T18:34:04-04:00",
+    "published_date": "2022-09-29T18:34:04-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Deaths (Obituaries)",
+      "Hazardous and Toxic Substances",
+      "Biological and Chemical Warfare",
+      "United States Defense and Military Forces",
+      "Anthrax",
+      "Writing and Writers",
+      "United States Politics and Government"
+    ],
+    "org_facet": ["United States Army"],
+    "per_facet": ["Cole, Leonard A"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/01/obituaries/28Cole1/merlin_68542730_baec4fc9-c878-4822-9615-01c91dc48288-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 2048,
+        "width": 1521,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Leonard Cole at a House hearing in 2013. He chronicled a secret U.S. Army program that involved spreading bacterial and chemical agents in U.S. cities to test the country’s vulnerability to such attacks.",
+        "copyright": "Mark Wilson/Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/01/obituaries/28Cole1/28Cole1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Leonard Cole at a House hearing in 2013. He chronicled a secret U.S. Army program that involved spreading bacterial and chemical agents in U.S. cities to test the country’s vulnerability to such attacks.",
+        "copyright": "Mark Wilson/Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/01/obituaries/28Cole1/merlin_68542730_baec4fc9-c878-4822-9615-01c91dc48288-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Leonard Cole at a House hearing in 2013. He chronicled a secret U.S. Army program that involved spreading bacterial and chemical agents in U.S. cities to test the country’s vulnerability to such attacks.",
+        "copyright": "Mark Wilson/Getty Images"
+      }
+    ],
+    "short_url": "https://nyti.ms/3SHhpMH"
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Methane Might Be a Bigger Climate Problem Than Thought, Study Finds",
+    "abstract": "Flaring, meant to burn off the planet-warming gas at industrial sites, doesn’t always work as intended, according to researchers.",
+    "url": "https://www.nytimes.com/2022/09/29/climate/gas-flaring-climate-methane.html",
+    "uri": "nyt://article/6aae97c7-7411-5075-95a4-d2497758509c",
+    "byline": "By Henry Fountain",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T13:18:39-04:00",
+    "created_date": "2022-09-29T14:00:09-04:00",
+    "published_date": "2022-09-29T14:00:09-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Methane",
+      "Global Warming",
+      "Greenhouse Gas Emissions",
+      "Natural Gas",
+      "Oil (Petroleum) and Gasoline",
+      "Research"
+    ],
+    "org_facet": ["Science (Journal)"],
+    "per_facet": [],
+    "geo_facet": [
+      "Permian Basin (North America)",
+      "Bakken Shale Field (ND)",
+      "Eagle Ford Shale Field (Texas)"
+    ],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-methane/29cli-methane-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A flare in the Permian Basin in Midland, Texas. Methane is a stronger, though shorter-lived, greenhouse gas than carbon dioxide.",
+        "copyright": "David Goldman/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-methane/29cli-methane-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A flare in the Permian Basin in Midland, Texas. Methane is a stronger, though shorter-lived, greenhouse gas than carbon dioxide.",
+        "copyright": "David Goldman/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-methane/29cli-methane-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A flare in the Permian Basin in Midland, Texas. Methane is a stronger, though shorter-lived, greenhouse gas than carbon dioxide.",
+        "copyright": "David Goldman/Associated Press"
+      }
+    ],
+    "short_url": "https://nyti.ms/3SGDScL"
+  },
+  {
+    "section": "obituaries",
+    "subsection": "",
+    "title": "Overlooked No More: Maria Orosa, Inventor of Banana Ketchup",
+    "abstract": "As a food scientist, she sought to reduce the Philippines’ dependence on imported food, pioneering new ways to use local products. And that was before she became a war hero.",
+    "url": "https://www.nytimes.com/2022/09/29/obituaries/maria-orosa-overlooked.html",
+    "uri": "nyt://article/6b6ac02a-6722-5739-93d1-a3518c741faf",
+    "byline": "By Seth Mydans",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T06:15:30-04:00",
+    "created_date": "2022-09-29T12:37:02-04:00",
+    "published_date": "2022-09-29T12:37:02-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Canning and Preserving",
+      "World War II (1939-45)",
+      "Biographical Information"
+    ],
+    "org_facet": [],
+    "per_facet": ["Orosa, Maria"],
+    "geo_facet": ["Philippines"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/obituaries/26overlooked-orosa3/merlin_213572331_e393da72-7260-4599-aaca-73478027d901-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 889,
+        "width": 652,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Maria Orosa, a food scientist and nationalist, sought to make the Philippines less dependent on imported food. Banana ketchup was one result.",
+        "copyright": "via Orosa family"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/obituaries/26overlooked-orosa3/26overlooked-orosa3-threeByTwoSmallAt2X-v2.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Maria Orosa, a food scientist and nationalist, sought to make the Philippines less dependent on imported food. Banana ketchup was one result.",
+        "copyright": "via Orosa family"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/10/03/obituaries/26overlooked-orosa3/26overlooked-orosa3-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Maria Orosa, a food scientist and nationalist, sought to make the Philippines less dependent on imported food. Banana ketchup was one result.",
+        "copyright": "via Orosa family"
+      }
+    ],
+    "short_url": "https://nyti.ms/3dV0ojo"
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Hurricane Ian’s Toll Is Severe. Lack of Insurance Will Make It Worse.",
+    "abstract": "In Florida’s hardest-hit counties, fewer than 1 in 5 homes have flood insurance. That means communities will struggle to rebuild, experts warn.",
+    "url": "https://www.nytimes.com/2022/09/29/climate/hurricane-ian-flood-insurance.html",
+    "uri": "nyt://article/795f2cad-9051-5fde-b8f2-be54b08f63db",
+    "byline": "By Christopher Flavelle",
+    "item_type": "Article",
+    "updated_date": "2022-09-29T22:43:42-04:00",
+    "created_date": "2022-09-29T10:04:52-04:00",
+    "published_date": "2022-09-29T10:04:52-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Hurricane Ian (2022)",
+      "Global Warming",
+      "Floods",
+      "Homeowners Insurance"
+    ],
+    "org_facet": [
+      "Federal Emergency Management Agency",
+      "National Flood Insurance Program"
+    ],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-floodinsurance/29cli-floodinsurance-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1366,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A flooded area of Fort Myers, Fla., on Wednesday after Hurricane Ian passed through.",
+        "copyright": "Joe Raedle/Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-floodinsurance/29cli-floodinsurance-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A flooded area of Fort Myers, Fla., on Wednesday after Hurricane Ian passed through.",
+        "copyright": "Joe Raedle/Getty Images"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-floodinsurance/29cli-floodinsurance-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "A flooded area of Fort Myers, Fla., on Wednesday after Hurricane Ian passed through.",
+        "copyright": "Joe Raedle/Getty Images"
+      }
+    ],
+    "short_url": ""
+  },
+  {
+    "section": "climate",
+    "subsection": "",
+    "title": "Hospitals in Coastal Cities Risk Flooding Even in ‘Weak’ Hurricanes, Study Finds",
+    "abstract": "In a third of the 78 cities examined on the Atlantic and Gulf coasts, half or more of hospitals were at risk from a Category 2 storm, the researchers said.",
+    "url": "https://www.nytimes.com/2022/09/29/climate/coastal-hospitals-hurricane-flooding.html",
+    "uri": "nyt://article/5bc6963e-f729-55ad-8bd3-d9d34ce9c343",
+    "byline": "By Elena Shao",
+    "item_type": "Article",
+    "updated_date": "2022-09-29T22:45:23-04:00",
+    "created_date": "2022-09-29T09:00:09-04:00",
+    "published_date": "2022-09-29T09:00:09-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Global Warming",
+      "Greenhouse Gas Emissions",
+      "Hospitals",
+      "Floods",
+      "Hurricanes and Tropical Storms",
+      "Urban Areas"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-hospitalflood1/29cli-hospitalflood1-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1364,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Flood barriers were erected in front of Tampa General Hospital in preparation for Hurricane Ian.",
+        "copyright": "Johnny Milano for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-hospitalflood1/29cli-hospitalflood1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Flood barriers were erected in front of Tampa General Hospital in preparation for Hurricane Ian.",
+        "copyright": "Johnny Milano for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/29/climate/29cli-hospitalflood1/29cli-hospitalflood1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Flood barriers were erected in front of Tampa General Hospital in preparation for Hurricane Ian.",
+        "copyright": "Johnny Milano for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3SmuUS5"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "Physician Burnout Has Reached Distressing Levels, New Research Finds",
+    "abstract": "Nearly two-thirds of doctors are experiencing at least one symptom of burnout, a huge increase from before the pandemic. But the situation is not irreparable, researchers say.",
+    "url": "https://www.nytimes.com/2022/09/29/health/doctor-burnout-pandemic.html",
+    "uri": "nyt://article/4ccba894-5a12-5718-aa9a-ae36771f3595",
+    "byline": "By Oliver Whang",
+    "item_type": "Article",
+    "updated_date": "2022-09-29T23:03:09-04:00",
+    "created_date": "2022-09-29T05:00:47-04:00",
+    "published_date": "2022-09-29T05:00:47-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Work-Life Balance",
+      "Research",
+      "Polls and Public Opinion",
+      "Doctors",
+      "Labor and Jobs",
+      "your-feed-healthcare",
+      "Coronavirus (2019-nCoV)"
+    ],
+    "org_facet": [],
+    "per_facet": [],
+    "geo_facet": ["United States"],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/science/28SCI-BURNOUT1/merlin_183627840_27b5d0cb-efd7-4418-8dd7-d627151fc30e-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Burnout, in medical literature, is defined by increased emotional exhaustion, a more distant approach to the job and a declining sense of personal accomplishment.",
+        "copyright": "Charles Rex Arbogast/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/science/28SCI-BURNOUT1/28SCI-BURNOUT1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Burnout, in medical literature, is defined by increased emotional exhaustion, a more distant approach to the job and a declining sense of personal accomplishment.",
+        "copyright": "Charles Rex Arbogast/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/science/28SCI-BURNOUT1/merlin_183627840_27b5d0cb-efd7-4418-8dd7-d627151fc30e-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Burnout, in medical literature, is defined by increased emotional exhaustion, a more distant approach to the job and a declining sense of personal accomplishment.",
+        "copyright": "Charles Rex Arbogast/Associated Press"
+      }
+    ],
+    "short_url": "https://nyti.ms/3RnoTDi"
+  },
+  {
+    "section": "business",
+    "subsection": "",
+    "title": "How McKinsey Got Into the Business of Addiction",
+    "abstract": "The consulting firm’s work with opioid makers is well known, but for decades McKinsey worked with Big Tobacco and has also advised Juul, the e-cigarette company.",
+    "url": "https://www.nytimes.com/2022/09/29/business/mckinsey-tobacco-juul-opioids.html",
+    "uri": "nyt://article/c8b2c825-263f-5d13-94cc-1ae4e400822e",
+    "byline": "By Walt Bogdanich and Michael Forsythe",
+    "item_type": "Article",
+    "updated_date": "2022-10-03T18:37:44-04:00",
+    "created_date": "2022-09-29T05:00:41-04:00",
+    "published_date": "2022-09-29T05:00:41-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Consultants",
+      "Smoking and Tobacco",
+      "E-Cigarettes",
+      "Regulation and Deregulation of Industry",
+      "Consumer Protection",
+      "Liability for Products",
+      "Addiction (Psychology)",
+      "Nicotine",
+      "audio-neutral-immersive"
+    ],
+    "org_facet": [
+      "McKinsey & Co",
+      "Altria Group Inc",
+      "Juul Labs Inc",
+      "Lorillard Tobacco Co",
+      "Food and Drug Administration"
+    ],
+    "per_facet": ["Sternfels, Bob"],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/23/business/00mckinsey-nicotine-1/merlin_205220133_bf5fd8d1-6a9c-4c41-aa50-8a322bf1211c-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1356,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "McKinsey & Company in New York City. The firm’s work with opioid makers is well known, but its work with cigarette and vaping companies has escaped public scrutiny.",
+        "copyright": "John Taggart for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/23/business/00mckinsey-nicotine-1/00mckinsey-nicotine-1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "McKinsey & Company in New York City. The firm’s work with opioid makers is well known, but its work with cigarette and vaping companies has escaped public scrutiny.",
+        "copyright": "John Taggart for The New York Times"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/23/business/00mckinsey-nicotine-1/00mckinsey-nicotine-1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "McKinsey & Company in New York City. The firm’s work with opioid makers is well known, but its work with cigarette and vaping companies has escaped public scrutiny.",
+        "copyright": "John Taggart for The New York Times"
+      }
+    ],
+    "short_url": "https://nyti.ms/3LR3KQR"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "New Infectious Threats Are Coming. The U.S. Probably Won’t Contain Them.",
+    "abstract": "The coronavirus revealed flaws in the nation’s pandemic plans. The spread of monkeypox shows that the problems remain deeply entrenched.",
+    "url": "https://www.nytimes.com/2022/09/29/health/pandemic-preparedness-covid-monkeypox.html",
+    "uri": "nyt://article/7efda443-92b9-5332-9741-4a0b570de1f4",
+    "byline": "By Apoorva Mandavilli",
+    "item_type": "Article",
+    "updated_date": "2022-10-04T08:26:58-04:00",
+    "created_date": "2022-09-29T05:00:28-04:00",
+    "published_date": "2022-09-29T05:00:28-04:00",
+    "material_type_facet": "",
+    "kicker": "News Analysis",
+    "des_facet": [
+      "Epidemics",
+      "Coronavirus (2019-nCoV)",
+      "Monkeypox",
+      "Disease Rates",
+      "Medicine and Health",
+      "States (US)",
+      "Tests (Medical)",
+      "Vaccination and Immunization",
+      "Security and Warning Systems",
+      "Hospitals",
+      "United States Politics and Government",
+      "your-feed-science"
+    ],
+    "org_facet": ["Centers for Disease Control and Prevention"],
+    "per_facet": [],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/16/science/00virus-pandemics1/merlin_197017671_73ca1b0e-a32b-47a2-9a01-1634242c19d8-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Flags representing Americans who died of Covid-19, a work by artist Suzanne Brennan Firstenberg, on the National Mall last year.",
+        "copyright": "Brynn Anderson/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/16/science/00virus-pandemics1/00virus-pandemics1-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Flags representing Americans who died of Covid-19, a work by artist Suzanne Brennan Firstenberg, on the National Mall last year.",
+        "copyright": "Brynn Anderson/Associated Press"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/16/science/00virus-pandemics1/00virus-pandemics1-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "Flags representing Americans who died of Covid-19, a work by artist Suzanne Brennan Firstenberg, on the National Mall last year.",
+        "copyright": "Brynn Anderson/Associated Press"
+      }
+    ],
+    "short_url": "https://nyti.ms/3UIr0Vv"
+  },
+  {
+    "section": "health",
+    "subsection": "",
+    "title": "Lasker Award Honors Development of Noninvasive Prenatal DNA Test",
+    "abstract": "The prestigious medical prizes also recognized the creator of a global Covid dashboard and discoveries of proteins and cell bindings to fight disease.",
+    "url": "https://www.nytimes.com/2022/09/28/health/lasker-award-medical-research.html",
+    "uri": "nyt://article/6b892ffa-cc46-52cb-a30b-fae259114485",
+    "byline": "By Benjamin Mueller",
+    "item_type": "Article",
+    "updated_date": "2022-09-28T23:03:19-04:00",
+    "created_date": "2022-09-28T12:00:52-04:00",
+    "published_date": "2022-09-28T12:00:52-04:00",
+    "material_type_facet": "",
+    "kicker": "",
+    "des_facet": [
+      "Lasker Awards",
+      "Research",
+      "Coronavirus (2019-nCoV)",
+      "Proteins",
+      "Genetics and Heredity",
+      "Prenatal Testing",
+      "Tests (Medical)",
+      "DNA (Deoxyribonucleic Acid)",
+      "Epidemics",
+      "Down Syndrome",
+      "Pregnancy and Childbirth"
+    ],
+    "org_facet": [],
+    "per_facet": [
+      "Lo, Yuk Ming Dennis",
+      "Gardner, Lauren (Scholar)",
+      "Ruoslahti, Erkki",
+      "Springer, Timothy A",
+      "Hynes, Richard O"
+    ],
+    "geo_facet": [],
+    "multimedia": [
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/science/28lasker-promo/28lasker-promo-superJumbo.jpg",
+        "format": "Super Jumbo",
+        "height": 1365,
+        "width": 2048,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Lasker Foundation"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/science/28lasker-promo/28lasker-promo-threeByTwoSmallAt2X.jpg",
+        "format": "threeByTwoSmallAt2X",
+        "height": 400,
+        "width": 600,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Lasker Foundation"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2022/09/28/science/28lasker-promo/28lasker-promo-thumbLarge.jpg",
+        "format": "Large Thumbnail",
+        "height": 150,
+        "width": 150,
+        "type": "image",
+        "subtype": "photo",
+        "caption": "",
+        "copyright": "Lasker Foundation"
+      }
+    ],
+    "short_url": "https://nyti.ms/3CeYFii"
+  }
+]

@@ -1,0 +1,293 @@
+{
+  "title": ["Washington Post"],
+  "description": ["Washington Post News Feed"],
+  "link": ["https://www.washingtonpost.com"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "https://www.washingtonpost.com/arcio/rss/",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    }
+  ],
+  "lastBuildDate": ["Mon, 03 Oct 2022 20:08:27 +0000"],
+  "ttl": ["1"],
+  "sy:updatePeriod": ["hourly"],
+  "sy:updateFrequency": ["1"],
+  "item": [
+    {
+      "title": [
+        "Trump’s origins in a New York world of con men, mobsters and hustlers"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/books/2022/10/03/confidence-man-maggie-haberman-review-trump/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/books/2022/10/03/confidence-man-maggie-haberman-review-trump/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Sean Wilentz"],
+      "pubDate": ["Mon, 03 Oct 2022 20:02:11 +0000"],
+      "description": [
+        "Reporter Maggie Haberman charts the city's social and cultural influences that fueled Donald Trump's personal and political rise. "
+      ]
+    },
+    {
+      "title": [
+        "‘Trip to Bountiful’ at Ford’s Theatre is a journey too far back in time"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/theater-dance/2022/10/03/trip-bountiful-fords-theatre/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/theater-dance/2022/10/03/trip-bountiful-fords-theatre/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Celia Wren"],
+      "pubDate": ["Mon, 03 Oct 2022 18:30:39 +0000"],
+      "description": [
+        "Nostalgia for a bygone America in the 1953 work by Horton Foote lands uneasily today."
+      ]
+    },
+    {
+      "title": ["As ‘Fossora’ makes clear, Björk is an earthling"],
+      "link": [
+        "https://www.washingtonpost.com/music/2022/10/03/bjork-fossora-album-review/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/music/2022/10/03/bjork-fossora-album-review/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Chris Richards"],
+      "pubDate": ["Mon, 03 Oct 2022 17:00:57 +0000"],
+      "description": [
+        "“Fossora” sounds as otherworldly as ever but her music remains rooted in our fragile ecology."
+      ]
+    },
+    {
+      "title": [
+        "In ‘Mr. Wilder and Me,’ Billy Wilder is a character worthy of his films"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/books/2022/10/03/billy-wilder-novel-jonathan-coe/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/books/2022/10/03/billy-wilder-novel-jonathan-coe/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Diane Cole"],
+      "pubDate": ["Mon, 03 Oct 2022 12:00:36 +0000"],
+      "description": [
+        "You don’t have to be a film buff to love acclaimed British author Jonathan Coe’s at once melancholic and laugh-out-loud funny novel."
+      ]
+    },
+    {
+      "title": [
+        "Would you buy a $400 Marvel action figure? Thousands of people can’t wait."
+      ],
+      "link": [
+        "https://www.washingtonpost.com/comics/2022/10/03/galactus-hasbro-marvel-action-figure/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/comics/2022/10/03/galactus-hasbro-marvel-action-figure/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["David Betancourt"],
+      "pubDate": ["Mon, 03 Oct 2022 10:00:17 +0000"],
+      "description": [
+        "Hasbro's monstrous 32-inch-tall Galactus could point the way to the future of plastic superhero toys."
+      ]
+    },
+    {
+      "title": [
+        "Sacheen Littlefeather, who declined Brando’s Oscar, dies at 75"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/obituaries/2022/10/03/oscars-activist-sacheen-littlefeather-dead/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/obituaries/2022/10/03/oscars-activist-sacheen-littlefeather-dead/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Harrison Smith"],
+      "pubDate": ["Mon, 03 Oct 2022 06:55:43 +0000"],
+      "description": [
+        "As the first Native American woman to stand onstage at the Oscars, she called out discrimination and injustice against American Indians."
+      ]
+    },
+    {
+      "title": ["What to watch on Monday: ‘The Good Doctor’ returns to ABC"],
+      "link": [
+        "https://www.washingtonpost.com/tv/2022/10/03/what-watch-monday-good-doctor-returns-abc/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/tv/2022/10/03/what-watch-monday-good-doctor-returns-abc/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Olivia McCormack"],
+      "pubDate": ["Mon, 03 Oct 2022 05:00:00 +0000"],
+      "description": [
+        "Monday, Oct. 3, 2022 | \"A Sinister Halloween Scary Opposites Solar Special\" airs on Hulu."
+      ]
+    },
+    {
+      "title": ["‘House of the Dragon’ recap: The queen and eye"],
+      "link": [
+        "https://www.washingtonpost.com/tv/2022/10/02/house-dragon-recap-episode-7/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/tv/2022/10/02/house-dragon-recap-episode-7/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Omar Gallaga"],
+      "pubDate": ["Mon, 03 Oct 2022 02:03:28 +0000"],
+      "description": [
+        "Here's what you missed from Episode 7 of HBO's \"House of the Dragon,\" entitled \"Driftmark.\""
+      ]
+    },
+    {
+      "title": [
+        "Tom Stoppard’s ‘Leopoldstadt’ on Broadway is simply devastating"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/theater-dance/2022/10/02/tom-stoppard-leopoldstadt/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/theater-dance/2022/10/02/tom-stoppard-leopoldstadt/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Peter Marks"],
+      "pubDate": ["Mon, 03 Oct 2022 02:00:00 +0000"],
+      "description": [
+        "A review of Tom Stoppard's sprawling play about Vienna Jews in the 20th century."
+      ]
+    },
+    {
+      "title": [
+        "Lorde jokes that she’s now a ‘radioactive creature’ after Potomac swim"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/arts-entertainment/2022/10/02/lorde-jokes-that-shes-now-radioactive-creature-after-potomac-swim/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/arts-entertainment/2022/10/02/lorde-jokes-that-shes-now-radioactive-creature-after-potomac-swim/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Olivia McCormack"],
+      "pubDate": ["Sun, 02 Oct 2022 20:10:22 +0000"],
+      "description": [
+        "The singer told a D.C. audience in August she had taken a swim in the Potomac River. At a Maryland music festival this weekend, she laughed it off."
+      ]
+    },
+    {
+      "title": [
+        "‘SNL’ opens 48th season with a meta comment about its current condition"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/arts-entertainment/2022/10/02/snl-recap-season-48-oct-2-miles-teller/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/arts-entertainment/2022/10/02/snl-recap-season-48-oct-2-miles-teller/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Olivia McCormack"],
+      "pubDate": ["Sun, 02 Oct 2022 16:37:46 +0000"],
+      "description": [
+        "A self-conscious sketch kicks off \"Saturday Night Live's\" rebuilding year, minus several beloved cast members."
+      ]
+    },
+    {
+      "title": ["Constance Wu meditates on her mistakes in revealing memoir"],
+      "link": [
+        "https://www.washingtonpost.com/books/2022/10/02/constance-wu-memoir-book-review/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/books/2022/10/02/constance-wu-memoir-book-review/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Thomas Floyd"],
+      "pubDate": ["Sun, 02 Oct 2022 15:31:37 +0000"],
+      "description": [
+        "The \"Crazy Rich Asians\" star isn’t afraid to look bad in \"Making a Scene,\" her introspective collection of essays."
+      ]
+    },
+    {
+      "title": ["Van Gogh through a pinhole"],
+      "link": [
+        "https://www.washingtonpost.com/arts-entertainment/interactive/2022/abelardo-morell-camera-obscura/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/abelardo-morell-camera-obscura/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Sebastian Smee"],
+      "pubDate": ["Sun, 02 Oct 2022 11:00:18 +0000"],
+      "description": [
+        "Acclaimed photographer Abelardo Morell uses a revolutionary camera-obscura technique to create artworks inspired by the great masters."
+      ]
+    },
+    {
+      "title": [
+        "MAD magazine’s oldest active artist still spoofs what makes us human"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/comics/2022/10/02/sergio-aragones-mad-magazine/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/comics/2022/10/02/sergio-aragones-mad-magazine/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Michael Cavna"],
+      "pubDate": ["Sun, 02 Oct 2022 10:00:48 +0000"],
+      "description": [
+        "Sergio Aragonés has drawn for the magazine since he arrived in New York 60 years ago."
+      ]
+    },
+    {
+      "title": ["Biden reinstates arts committee that disbanded under Trump"],
+      "link": [
+        "https://www.washingtonpost.com/arts-entertainment/2022/10/01/biden-reinstates-presidents-committee-on-the-arts-and-humanities/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/arts-entertainment/2022/10/01/biden-reinstates-presidents-committee-on-the-arts-and-humanities/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Kelsey Ables"],
+      "pubDate": ["Sat, 01 Oct 2022 23:23:40 +0000"],
+      "description": [
+        "On Friday, the president signed an executive order reestablishing the President’s Committee on the Arts and Humanities"
+      ]
+    }
+  ]
+}

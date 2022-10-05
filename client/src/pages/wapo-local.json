@@ -1,0 +1,585 @@
+{
+  "title": ["Washington Post"],
+  "description": ["Washington Post News Feed"],
+  "link": ["https://www.washingtonpost.com"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "https://www.washingtonpost.com/arcio/rss/",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    }
+  ],
+  "lastBuildDate": ["Tue, 04 Oct 2022 16:17:28 +0000"],
+  "ttl": ["1"],
+  "sy:updatePeriod": ["hourly"],
+  "sy:updateFrequency": ["1"],
+  "item": [
+    {
+      "title": [
+        "Police: Barricade situation ‘safely resolved’ in Silver Spring area"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/04/shots-fired-barricade-situation-silver-spring/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/04/shots-fired-barricade-situation-silver-spring/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Dana Hedgpeth"],
+      "pubDate": ["Tue, 04 Oct 2022 14:18:47 +0000"],
+      "description": [
+        "Police earlier told Silver Spring residents to shelter in place because of a barricade situation at an apartment complex."
+      ]
+    },
+    {
+      "title": [
+        "Three warnings have been issued for Prince George’s curfew violations"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/prince-georges-curfew-citations-juvenile/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/prince-georges-curfew-citations-juvenile/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Jasmine Hilton, Lateshia Beachum"],
+      "pubDate": ["Tue, 04 Oct 2022 14:15:35 +0000"],
+      "description": [
+        "Prince George’s County police have issued three curfew citations since the start of its enforcement."
+      ]
+    },
+    {
+      "title": ["Maryland woman dies after being struck by car in May"],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/04/pedestrian-dies-maryland/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/04/pedestrian-dies-maryland/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Dana Hedgpeth"],
+      "pubDate": ["Tue, 04 Oct 2022 10:41:13 +0000"],
+      "description": [
+        "The 64-year-old District Heights woman was trying to cross a road in the Morningside area on May 28 when a vehicle struck her."
+      ]
+    },
+    {
+      "title": [
+        "D.C. wants to save at-risk people. Violence, missteps marred the effort."
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/04/people-promise-list-missteps-violence/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/04/people-promise-list-missteps-violence/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Emily Davies, Peter Hermann, Keith L. Alexander"],
+      "pubDate": ["Tue, 04 Oct 2022 10:30:00 +0000"],
+      "description": [
+        "The city has yet to reach about half of those on its “People of Promise” list, and a top official graded the program as a C-plus. "
+      ]
+    },
+    {
+      "title": [
+        "D.C.-area forecast: Raw and occasionally rainy today with improvement on the way "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/weather/2022/10/04/dc-area-forecast-rainy-cloudy-cool/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/weather/2022/10/04/dc-area-forecast-rainy-cloudy-cool/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Matt Rogers"],
+      "pubDate": ["Tue, 04 Oct 2022 09:00:19 +0000"],
+      "description": [
+        "Partial clearing on Wednesday before much nicer weather returns to end the week."
+      ]
+    },
+    {
+      "title": [
+        "This prime minister laughed at the meme she inspired: #DespiteBeingAWoman"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/dvorak-bangladesh-prime-minister-interview/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/dvorak-bangladesh-prime-minister-interview/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Petula Dvorak"],
+      "pubDate": ["Mon, 03 Oct 2022 23:16:08 +0000"],
+      "description": [
+        "Prime minister of Bangladesh Sheikh Hasina was in Virginia for a quiet visit with her grandkids, but word spread among expats, who swarmed the hotel to see her."
+      ]
+    },
+    {
+      "title": [
+        "After Ian, working-class Pine Island braces for extended misery"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/nation/2022/10/03/hurricane-ian-florida-pine-island/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/nation/2022/10/03/hurricane-ian-florida-pine-island/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Dan Lamothe"],
+      "pubDate": ["Mon, 03 Oct 2022 23:08:39 +0000"],
+      "description": [
+        "“We need to get people talking about Pine Island right now,” one resident said. \"That's the most important thing.\""
+      ]
+    },
+    {
+      "title": [
+        "Maryland appeals court hears arguments in toll lanes bid protest"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/transportation/2022/10/03/maryland-toll-lanes-bid-protest/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/transportation/2022/10/03/maryland-toll-lanes-bid-protest/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Katherine Shaver"],
+      "pubDate": ["Mon, 03 Oct 2022 22:49:08 +0000"],
+      "description": [
+        "A bid protest by Spanish firm Cintra alleges Maryland improperly awarded a contract to design toll lanes for the Capital Beltway and I-270 to the Transurban team."
+      ]
+    },
+    {
+      "title": ["Loudoun substitute teacher charged with assaulting student "],
+      "link": [
+        "https://www.washingtonpost.com/education/2022/10/03/loudoun-tuscarora-high-teacher-assault/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/education/2022/10/03/loudoun-tuscarora-high-teacher-assault/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Hannah Natanson"],
+      "pubDate": ["Mon, 03 Oct 2022 22:06:15 +0000"],
+      "description": [
+        "A Loudoun substitute teacher was charged with assaulting a student. "
+      ]
+    },
+    {
+      "title": [
+        "Youngkin slams Virginia plan for wind, solar; calls for nuclear push"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/virginia-youngkin-nuclear-energy-plan/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/virginia-youngkin-nuclear-energy-plan/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Gregory S. Schneider"],
+      "pubDate": ["Mon, 03 Oct 2022 21:55:34 +0000"],
+      "description": [
+        "Virginia Gov. Glenn Youngkin says the state's goal of ending fossil fuels is unrealistic, and proposes a new plan with natural gas and a big effort on nuclear energy."
+      ]
+    },
+    {
+      "title": [
+        "D.C. mayor’s latest goal: 20,000 new Black homeowners by 2030"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/dc-bowser-black-homeownership-strike-force/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/dc-bowser-black-homeownership-strike-force/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Michael Brice-Saddler"],
+      "pubDate": ["Mon, 03 Oct 2022 21:48:56 +0000"],
+      "description": [
+        "Members of the Black Homeownership Strike Force said the goal will help overcome historic, discriminatory housing policies once common throughout the United States that continue to fuel inequitable homeownership rates today."
+      ]
+    },
+    {
+      "title": [
+        "Charges declined for Secret Service officers who fatally shot 19-year-old"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/charges-declined-secret-service-shooting/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/charges-declined-secret-service-shooting/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Keith L. Alexander"],
+      "pubDate": ["Mon, 03 Oct 2022 21:41:36 +0000"],
+      "description": [
+        "Prosecutors say they found “insufficient evidence” the two officers used excessive force in the shooting of Gordon Casey outside the Peruvian ambassador’s home in April. "
+      ]
+    },
+    {
+      "title": [
+        "Jury finds D.C. man guilty of killing girlfriend, whose body was never found "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/olga-ooro-murder-no-body/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/olga-ooro-murder-no-body/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Keith L. Alexander"],
+      "pubDate": ["Mon, 03 Oct 2022 21:27:02 +0000"],
+      "description": [
+        "Prosecutors argued that Darnell Sterling killed Olga Ooro in her D.C. apartment in 2020, then cleaned the crime scene and disposed of her body."
+      ]
+    },
+    {
+      "title": ["PM Update: More chilly rain is on the way through Tuesday"],
+      "link": [
+        "https://www.washingtonpost.com/weather/2022/10/03/dc-area-forecast-forever-rainy/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/weather/2022/10/03/dc-area-forecast-forever-rainy/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Ian Livingston"],
+      "pubDate": ["Mon, 03 Oct 2022 21:15:49 +0000"],
+      "description": [
+        "Another inch or two may fall before it stops midweek. Cool temperatures are also set to continue. "
+      ]
+    },
+    {
+      "title": ["What you need to know about the Oath Keepers trial "],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/oath-keepers-trial-stewart-rhodes-faq/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/oath-keepers-trial-stewart-rhodes-faq/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Rachel Weiner, Spencer Hsu, Tom Jackman"],
+      "pubDate": ["Mon, 03 Oct 2022 20:24:22 +0000"],
+      "description": [
+        "Who are the Oath Keepers? What do we expect or hope to learn from the trial? What connection is there to President Trump? We answer your questions."
+      ]
+    },
+    {
+      "title": [
+        "We predict the coolest and wettest October in 11 years in D.C."
+      ],
+      "link": [
+        "https://www.washingtonpost.com/weather/2022/10/03/dc-october-outlook-2022-cool/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/weather/2022/10/03/dc-october-outlook-2022-cool/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Matt Rogers"],
+      "pubDate": ["Mon, 03 Oct 2022 20:03:15 +0000"],
+      "description": [
+        "It may be hard to come back from this cold and wet start to the month."
+      ]
+    },
+    {
+      "title": [
+        "Who are the Oath Keepers going to trial on seditious conspiracy charges?"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/oath-keepers-trial-defendants-seditious-conspiracy/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/oath-keepers-trial-defendants-seditious-conspiracy/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Rachel Weiner, Spencer Hsu, Tom Jackman"],
+      "pubDate": ["Mon, 03 Oct 2022 19:38:47 +0000"],
+      "description": [
+        "Among those on trial are Stewart Rhodes, who founded the extremist antigovernment group Oath Keepers in 2009. "
+      ]
+    },
+    {
+      "title": ["How to get a monkeypox vaccine in the D.C. region"],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/08/05/monkeypox-vaccine-dc-virginia-maryland/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/08/05/monkeypox-vaccine-dc-virginia-maryland/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Jenna Portnoy"],
+      "pubDate": ["Mon, 03 Oct 2022 19:05:39 +0000"],
+      "description": [
+        "The District has recorded more monkeypox cases per capita than any state, and launched a vaccination effort targeting the at-risk community."
+      ]
+    },
+    {
+      "title": [
+        "The National Theatre marvels at some 200-year-old theater gossip"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/national-theatre-letters/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/national-theatre-letters/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["John Kelly"],
+      "pubDate": ["Mon, 03 Oct 2022 19:01:40 +0000"],
+      "description": [
+        "The National Theatre was \"very handsome and comfortable but has not been so well attended as it ought.\""
+      ]
+    },
+    {
+      "title": [
+        "Police identify 22-year-old man fatally shot Sunday in Northwest D.C."
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/antonio-waller-northwest-dc-shooting/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/antonio-waller-northwest-dc-shooting/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Emily Davies"],
+      "pubDate": ["Mon, 03 Oct 2022 14:15:23 +0000"],
+      "description": ["Antonio Waller, of Northwest D.C., died on the scene."]
+    },
+    {
+      "title": [
+        "More aid but no solutions for owners at crumbling D.C. condo building"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/dc-talbert-street-housing/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/dc-talbert-street-housing/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Marissa Lang, Michael Brice-Saddler"],
+      "pubDate": ["Mon, 03 Oct 2022 12:00:29 +0000"],
+      "description": [
+        "Nearly all of the homeowners at the Anacostia building are Black women and first-time homebuyers who received loans through the city’s Home Purchase Assistance Program. "
+      ]
+    },
+    {
+      "title": [
+        "Coal jobs are almost gone. Could a casino help rescue southwest Virginia?"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/03/bristol-casino-hard-rock-virginia/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/03/bristol-casino-hard-rock-virginia/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Gregory S. Schneider"],
+      "pubDate": ["Mon, 03 Oct 2022 10:00:00 +0000"],
+      "description": [
+        "Virginia's first casino has opened in Bristol, where residents hope money from gambling can help rescue a region down on its luck."
+      ]
+    },
+    {
+      "title": [
+        "D.C.-area forecast: Rainy through Tuesday night, slow clearing after that"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/weather/2022/10/03/dc-forecast-rainy-ian-remnants/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/weather/2022/10/03/dc-forecast-rainy-ian-remnants/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Jason Samenow"],
+      "pubDate": ["Mon, 03 Oct 2022 09:00:50 +0000"],
+      "description": ["Sunny weather dominates Thursday through the weekend"]
+    },
+    {
+      "title": ["Woman killed in Fairfax hit-and-run, police say"],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/02/woman-killed-fairfax-hit-run/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/02/woman-killed-fairfax-hit-run/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Martin Weil"],
+      "pubDate": ["Mon, 03 Oct 2022 03:06:59 +0000"],
+      "description": [
+        " She was struck at Annandale Road and Maple Place in the Annandale area."
+      ]
+    },
+    {
+      "title": ["Boy, 2, is shot and wounded in Prince George’s, police say"],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/02/toddler-shot-prince-georges/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/02/toddler-shot-prince-georges/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Emily Davies"],
+      "pubDate": ["Sun, 02 Oct 2022 23:07:29 +0000"],
+      "description": [
+        "D.C. police found the boy on the 2500 block of Q Street, SE but believe he was shot in Prince George’s."
+      ]
+    },
+    {
+      "title": [
+        "Florida begins cleanup in aftermath of Ian as death toll climbs"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/nation/2022/10/02/florida-ian-death-toll/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/nation/2022/10/02/florida-ian-death-toll/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Tim Craig, Antonio Olivo, Jeanne Whalen"],
+      "pubDate": ["Sun, 02 Oct 2022 22:42:11 +0000"],
+      "description": [
+        "The confirmed death toll from Hurricane Ian is expected to rise in Florida as people file reports of missing loved ones. "
+      ]
+    },
+    {
+      "title": [
+        "At St. Matthew’s 70th Red Mass, a celebration of God and good work "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/02/red-mass-cathedral-matthew-apostle/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/02/red-mass-cathedral-matthew-apostle/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Michael Laris"],
+      "pubDate": ["Sun, 02 Oct 2022 21:43:56 +0000"],
+      "description": [
+        "On the day before the start of a new Supreme Court term in an America wrestling with deep divisions, D.C.’s Catholic leaders reprised a celebration of God and good work that has stretched 70 years."
+      ]
+    },
+    {
+      "title": ["Man fatally shot Sunday morning in Alexandria, police say"],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/02/homicide-october-second-fairfax-county/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/02/homicide-october-second-fairfax-county/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Emily Davies"],
+      "pubDate": ["Sun, 02 Oct 2022 21:35:47 +0000"],
+      "description": [
+        "Fairfax County Police officers said they expect the incident wasn't a random act."
+      ]
+    },
+    {
+      "title": ["PM Update: Showers and cool weather continue for Monday"],
+      "link": [
+        "https://www.washingtonpost.com/weather/2022/10/02/pm-update-showers-cool-weather-continue-monday/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/weather/2022/10/02/pm-update-showers-cool-weather-continue-monday/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Greg Porter"],
+      "pubDate": ["Sun, 02 Oct 2022 20:00:23 +0000"],
+      "description": [
+        "Add in some gusty winds from the north and we are locked in for some dreary conditions."
+      ]
+    },
+    {
+      "title": [
+        "A White House fence’s Black Lives Matter art has been saved for history"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/02/black-lives-matter-fence-art-online/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/02/black-lives-matter-fence-art-online/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Ellie Silverman"],
+      "pubDate": ["Sun, 02 Oct 2022 17:46:02 +0000"],
+      "description": [
+        "More than 1,500 artifacts from the Black Lives Matter Memorial Fence were saved and are now accessible in the D.C. Public Library’s online archive."
+      ]
+    },
+    {
+      "title": ["Two men fatally shot this weekend in Washington"],
+      "link": [
+        "https://www.washingtonpost.com/dc-md-va/2022/10/02/dc-homicide-october-first/"
+      ],
+      "guid": [
+        {
+          "_": "https://www.washingtonpost.com/dc-md-va/2022/10/02/dc-homicide-october-first/",
+          "$": { "isPermaLink": "true" }
+        }
+      ],
+      "dc:creator": ["Emily Davies"],
+      "pubDate": ["Sun, 02 Oct 2022 17:33:14 +0000"],
+      "description": [
+        "Ronald Porter was fatally shot on the 1300 block of Adams Street NE. Another adult male was killed Sunday in Northwest."
+      ]
+    }
+  ]
+}

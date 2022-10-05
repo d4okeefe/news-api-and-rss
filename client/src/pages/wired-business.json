@@ -1,0 +1,617 @@
+{
+  "title": ["Business Latest"],
+  "description": ["Channel Description"],
+  "link": ["https://www.wired.com"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "https://www.wired.com/feed/business/rss",
+        "rel": "self",
+        "type": "application/atom+xml"
+      }
+    }
+  ],
+  "copyright": ["© Condé Nast 2022"],
+  "language": ["en-US"],
+  "lastBuildDate": ["Wed, 05 Oct 2022 00:36:24 +0000"],
+  "item": [
+    {
+      "title": [
+        "Opendoor’s iBuyer Model Is a Canary in the Economic Coal Mine"
+      ],
+      "link": ["https://www.wired.com/story/opendoor-ibuyers-housing-market/"],
+      "guid": [
+        { "_": "633b79b8b1070500c040c678", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 04 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The company is losing huge sums of money on cookie-cutter homes—suggesting a fundamental weakness in the US housing market."
+      ],
+      "category": ["Business", "Business / Artificial Intelligence"],
+      "media:keywords": ["Cities, economics, real estate, algorithms"],
+      "dc:creator": ["Chris Stokel-Walker"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Flipped"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633b79b73ac095ef6ac0cf6a/master/pass/Opendoor-Is-Canary-In-Coalmine-Business-154343349.jpg",
+            "width": "2400",
+            "height": "1706"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Biden's AI Bill of Rights Is Toothless Against Big Tech"],
+      "link": [
+        "https://www.wired.com/story/bidens-ai-bill-of-rights-is-toothless-against-big-tech/"
+      ],
+      "guid": [
+        { "_": "6335f8bac554667379f2da78", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 04 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The draft's tenets include allowing citizens to opt out of algorithmic decisionmaking, which could reshape federal government—but not the private sector."
+      ],
+      "category": ["Business", "Business / Artificial Intelligence", "AI Hub"],
+      "media:keywords": [
+        "artificial intelligence, Joe Biden, algorithms, tech policy"
+      ],
+      "dc:creator": ["Khari Johnson"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["New Rules"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633b7e5ad6cae19406ef41d2/master/pass/AI-Bill-of-Rights-OSTP-Blueprint-Business-1319499046.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Elon Musk’s Half-Baked Robot Is a Clunky First Step"],
+      "link": [
+        "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/"
+      ],
+      "guid": [
+        { "_": "633b0db69149b25103844a45", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 03 Oct 2022 20:56:27 +0000"],
+      "media:content": [""],
+      "description": [
+        "Tesla’s Optimus robot did not dazzle robotics experts and can’t yet walk. But if the project delivers, it could give the company an edge in manufacturing."
+      ],
+      "category": ["Business", "Business / Artificial Intelligence", "AI Hub"],
+      "media:keywords": [
+        "artificial intelligence, robotics, robots, Self-Driving Cars, Elon Musk, Autonomous Vehicles, Tesla"
+      ],
+      "dc:creator": ["Will Knight"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Running Up That Hill"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633b3fa691ba135542e3d5bd/master/pass/Tesla-Optimus-Bot-Event-Business.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["I Uncovered an Army of Fake Men on Hinge"],
+      "link": [
+        "https://www.wired.com/story/i-uncovered-an-army-of-fake-men-on-hinge/"
+      ],
+      "guid": [
+        { "_": "632c39b836c33c0247a2f0bf", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sat, 01 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "They had gleaming teeth, perfect hair, and selfies with baby animals. But could they pass the Turing test?"
+      ],
+      "category": ["Business", "Business / Social Media"],
+      "media:keywords": [
+        "Dating, bots, Social Media, cryptocurrency, Romance, Bots Run the Internet"
+      ],
+      "dc:creator": ["Lauren Goode"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632decbfeecde8c117e7f5d1/master/pass/Bot_Hinge.jpg",
+            "width": "10001",
+            "height": "5626"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Bot Hunting Is All About the Vibes"],
+      "link": [
+        "https://www.wired.com/story/bot-hunting-is-all-about-the-vibes/"
+      ],
+      "guid": [
+        { "_": "632c3710c4d3ebc9237bc686", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 17:38:11 +0000"],
+      "media:content": [""],
+      "description": [
+        "At the heart of every bot-detection tool is a human's gut feeling—and all the messiness that comes with it."
+      ],
+      "category": [
+        "Business",
+        "Business / Artificial Intelligence",
+        "Business / Social Media"
+      ],
+      "media:keywords": [
+        "bots, content moderation, artificial intelligence, machine learning, twitter, Bots Run the Internet"
+      ],
+      "dc:creator": ["Dhruv Mehrotra, Andrew Couts"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632e25c840fe1e8870aa3bab/master/pass/Bot_BotorNot-(1).jpg",
+            "width": "2400",
+            "height": "1350"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Facebook Freeloads Off Newspapers. This Plan Might Stop It"],
+      "link": [
+        "https://www.wired.com/story/facebook-freeloads-off-newspapers-this-plan-might-stop-it/"
+      ],
+      "guid": [
+        { "_": "6335acd51bad6147c3b3a80d", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 13:30:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The Journalism Competition and Protection Act would allow publishers to finally bargain with Meta and Google."
+      ],
+      "category": ["Business", "Business / Social Media"],
+      "media:keywords": ["Media, Newspapers, Antitrust, Google, Facebook"],
+      "dc:creator": ["Benjamin Wofford"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Scooped"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6335df27d90aafbd66b0c6c1/master/pass/newspapers_GettyImages-628126076-biz.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Why Jann Wenner Let WIRED Start the Rolling Stone of Tech"],
+      "link": [
+        "https://www.wired.com/story/plaintext-why-jann-wenner-let-wired-start-the-rolling-stone-of-tech/"
+      ],
+      "guid": [
+        { "_": "6335ce1977d6e939e5938aab", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 13:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Plus: Hackers in paradise, Metaverse fashion victims, and street sharks."
+      ],
+      "category": ["Business", "Business / Tech Culture"],
+      "media:keywords": ["Plaintext, Entrepreneurs, steve jobs, Publishing"],
+      "dc:creator": ["Steven Levy"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Plaintext"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6335f415dd4bc612fd8df162/master/pass/GettyImages-1423517344_biz.jpg",
+            "width": "2398",
+            "height": "1799"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["It's Time to Reframe the Story of Climate Inequity"],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-regina-hall-solutions-project/"
+      ],
+      "guid": [
+        { "_": "6335d09fc554667379f2da76", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 00:24:41 +0000"],
+      "media:content": [""],
+      "description": [
+        "At RE:WIRED Green, actress Regina Hall and Sarah Shanley Hope of The Solutions Project spoke about the work being done by communities hardest hit by crisis."
+      ],
+      "category": ["Business", "Business / National Affairs"],
+      "media:keywords": ["RE:WIRED Green, climate, Cities"],
+      "dc:creator": ["Jason Parham"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63361c6fe0fe4cc825d3a4de/master/pass/ReWired-Green-Regina-Hall-575-2.jpg",
+            "width": "2130",
+            "height": "1598"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["One Solution to the Food Waste Problem: Eat Your Garbage"],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-food-waste-shuggies-trash-pie/"
+      ],
+      "guid": [
+        { "_": "6334dfaed90aafbd66b0c6bd", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 23:51:28 +0000"],
+      "media:content": [""],
+      "description": [
+        "At RE:WIRED Green, San Francisco restaurateur Kayla Abe explained how her kitchen makes enticing meals from ingredients that would otherwise get tossed."
+      ],
+      "category": ["Business", "Business / Startups"],
+      "media:keywords": ["food, climate, environment, farming"],
+      "dc:creator": ["Caitlin Harrington"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Re:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633607bae0fe4cc825d3a4db/master/pass/RE-WIRED-Green-Kayla-Abe-Portrait-Science.jpg",
+            "width": "1600",
+            "height": "2133"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["How Bots Corrupted Advertising"],
+      "link": ["https://www.wired.com/story/bots-online-advertising/"],
+      "guid": [
+        { "_": "632e514400704d14b5ffb9be", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 15:17:38 +0000"],
+      "media:content": [""],
+      "description": [
+        "Botmasters have created a Kafkaesque system where companies are paying huge sums to show their ads to bots. And everyone is fine with this."
+      ],
+      "category": ["Business", "Business / Artificial Intelligence"],
+      "media:keywords": ["bots, Advertising, Commerce, Bots Run the Internet"],
+      "dc:creator": ["Morgan Meaker"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6335b6bd98d5e7918ce82494/master/pass/Bot%20economy%20(1).jpeg",
+            "width": "2400",
+            "height": "1350"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Google Borrows From TikTok to Keep Gen Z Searching"],
+      "link": [
+        "https://www.wired.com/story/google-borrows-from-tiktok-to-keep-gen-z-searching/"
+      ],
+      "guid": [
+        { "_": "6331df25977791160bfcd3a6", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 17:23:13 +0000"],
+      "media:content": [""],
+      "description": [
+        "Younger people seek answers on TikTok and Instagram—Google hopes to lure them back with more visual, infinite scrolling search results."
+      ],
+      "category": ["Business", "Business / Artificial Intelligence", "AI Hub"],
+      "media:keywords": [
+        "artificial intelligence, Search, Social Media, Google, eCommerce"
+      ],
+      "dc:creator": ["Khari Johnson"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Copy Cat"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63339c7636c33c0247a2f108/master/pass/Neighborhood-Vibe-Google-Search-Updates-Business.jpg",
+            "width": "2160",
+            "height": "1440"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Amazon Wants to Cocoon You With ‘Ambient Intelligence’"],
+      "link": [
+        "https://www.wired.com/story/amazon-wants-to-cocoon-you-with-ambient-intelligence/"
+      ],
+      "guid": [
+        { "_": "63332a5d00704d14b5ffba08", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 17:15:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life."
+      ],
+      "category": ["Business", "Business / Computers and Software"],
+      "media:keywords": ["smart home, Alexa, Amazon, voice assistants"],
+      "dc:creator": ["Steven Levy"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Silent Witness"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633481ccc4d3ebc9237bc77d/master/pass/Halo_Rise_Pull-apart_01_RGB_science.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Amazon Wants Its Home Robot to Anticipate Your Every Need"],
+      "link": [
+        "https://www.wired.com/story/amazon-wants-its-home-robot-astro-to-anticipate-your-every-need/"
+      ],
+      "guid": [
+        { "_": "63332c6f40fe1e8870aa3bc3", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 16:45:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The cutesy robot called Astro doesn’t do much now, but the company says it’s a step toward machines that understand your habits."
+      ],
+      "category": [
+        "Business",
+        "Business / Artificial Intelligence",
+        "AI Hub",
+        "AI Hub / Application / Robotics",
+        "AI Hub / Application / Surveillance",
+        "AI Hub / Application / Personal assistant",
+        "AI Hub / End User / Consumer",
+        "AI Hub / Sector / Consumer services",
+        "AI Hub / Source Data / Sensors",
+        "AI Hub / Source Data / Speech",
+        "AI Hub / Technology / Natural language processing",
+        "AI Hub / Technology / Robotics"
+      ],
+      "media:keywords": [
+        "artificial intelligence, smart home, robotics, robots, Amazon, IoT"
+      ],
+      "dc:creator": ["Will Knight"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Home Help"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6333a06b74ce5b82a68ef382/master/pass/Astro-Robot-Pet-Detection-Amazon-Business.jpg",
+            "width": "1620",
+            "height": "1080"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Quest to Find Twitter’s Elusive Bot Team"],
+      "link": [
+        "https://www.wired.com/story/the-quest-to-find-twitters-elusive-bot-team/"
+      ],
+      "guid": [
+        { "_": "632e504974ce5b82a68ef370", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 15:42:43 +0000"],
+      "media:content": [""],
+      "description": [
+        "The social media platform’s process for moderating spam, including bots, has been mired in secrecy—until now."
+      ],
+      "category": ["Business", "Business / Social Media"],
+      "media:keywords": [
+        "content moderation, twitter, bots, Social Media, Bots Run the Internet"
+      ],
+      "dc:creator": ["Morgan Meaker"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632e5049c9bb1af7ef24988c/master/pass/Bot_BotsSupportTwitter.jpg",
+            "width": "10001",
+            "height": "5626"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "This Student’s Side Project Will Help Decide Musk vs. Twitter"
+      ],
+      "link": ["https://www.wired.com/story/musk-twitter-botometer/"],
+      "guid": [
+        { "_": "632e50c862435d269fdbdbf9", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 27 Sep 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "In the battle over Twitter’s future, the number of bots on the platform is a key issue. Problem is, nobody knows how to count them."
+      ],
+      "category": ["Business", "Business / Social Media"],
+      "media:keywords": [
+        "Bots Run the Internet, bots, algorithms, content moderation, twitter, Elon Musk"
+      ],
+      "dc:creator": ["Morgan Meaker"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632e50c874ce5b82a68ef371/master/pass/Bot_Botometer.jpg",
+            "width": "10001",
+            "height": "5626"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Brazil's Far Right Plots Its Own January 6"],
+      "link": [
+        "https://www.wired.com/story/brazils-far-right-plots-its-own-january-6-insurrection/"
+      ],
+      "guid": [
+        { "_": "632afbcbc9bb1af7ef249867", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 27 Sep 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Extreme content is spreading rapidly on social networks in Brazil, sparking fears of a violent uprising."
+      ],
+      "category": ["Business", "Business / Social Media"],
+      "media:keywords": [
+        "Telegram, content moderation, disinformation, censorship, politics, fake news, elections"
+      ],
+      "dc:creator": ["Vittoria Elliott"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Disinformation"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632cb76c8990652479ff399c/master/pass/Bolsenero_biz_GettyImages-1243428750.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["A Sprawling Bot Network Used Fake Porn to Fool Facebook"],
+      "link": ["https://www.wired.com/story/facebook-bots-ddos-attack/"],
+      "guid": [
+        { "_": "6329ea4d40fe1e8870aa3b51", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 26 Sep 2022 15:04:54 +0000"],
+      "media:content": [""],
+      "description": [
+        "An orchestrated attack went after an independent news website and harvested swathes of Facebook user data. And nobody can stop it."
+      ],
+      "category": ["Business", "Business / Social Media"],
+      "media:keywords": [
+        "Bots Run the Internet, phishing, security, ddos, Facebook"
+      ],
+      "dc:creator": ["Vittoria Elliott"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632b595aeecde8c117e7f5ae/master/pass/Bot_Vietnam-(1).jpg",
+            "width": "10001",
+            "height": "5626"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["What’s Next for Ethereum After the Merge"],
+      "link": [
+        "https://www.wired.com/story/whats-next-for-ethereum-after-the-merge/"
+      ],
+      "guid": [
+        { "_": "632ded1600704d14b5ffb9b4", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 26 Sep 2022 12:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The blockchain project’s cofounder Vitalik Buterin says its recent big upgrade lays a path for more technical changes, and greater adoption."
+      ],
+      "category": ["Business", "Business / Blockchain and Cryptocurrency"],
+      "media:keywords": [
+        "bitcoin, Blockchain, cryptocurrency, Finance, money, Regulation, encryption"
+      ],
+      "dc:creator": ["Lauren Goode, Gideon Lichfield"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["WIRED Q&A"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632ea7cf8990652479ff39d3/master/pass/BUTERIN_BIZ_GettyImages-1238606759.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Not All Bots Are Bad, and Twitter Knows It"],
+      "link": ["https://www.wired.com/story/twitter-bots-elon-musk-trial/"],
+      "guid": [
+        { "_": "632e4ebbf2203b5586fac020", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 26 Sep 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Automated accounts are the target of ire and the linchpin of Elon Musk’s attempt to break his deal with the platform. But some are benign—or even helpful."
+      ],
+      "category": ["Business", "Business / Artificial Intelligence"],
+      "media:keywords": ["twitter, bots, Social Media, Bots Run the Internet"],
+      "dc:creator": ["Chris Stokel-Walker"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632e4eba20bc56769c4131ed/master/pass/Bot_GoodBot.jpg",
+            "width": "10001",
+            "height": "5626"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Twitch's Crypto Casino Ban Ignores the Bigger Play"],
+      "link": [
+        "https://www.wired.com/story/twitch-crypto-gambling-sliker-pokimane-devin-nash-boycott/"
+      ],
+      "guid": [
+        { "_": "632ca371995b6da54b57efe1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 23 Sep 2022 15:25:18 +0000"],
+      "media:content": [""],
+      "description": [
+        "The company is going after cryptocurrency gambling—but will that be enough to satisfy concerned streamers?"
+      ],
+      "category": [
+        "Business",
+        "Business / Blockchain and Cryptocurrency",
+        "Business / Social Media",
+        "Business / Tech Culture"
+      ],
+      "media:keywords": ["Twitch, gambling"],
+      "dc:creator": ["Megan Farokhmanesh"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["High Stakes Game"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632cee9d8990652479ff39bf/master/pass/Twitch-Gambling-Business-GettyImages-1395854967.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    }
+  ]
+}

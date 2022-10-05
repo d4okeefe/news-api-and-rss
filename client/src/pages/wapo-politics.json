@@ -1,0 +1,1210 @@
+{
+  "title": ["Politics"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "http://www.washingtonpost.com/pb/politics/?resType=rss",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    }
+  ],
+  "link": ["http://www.washingtonpost.com/pb/politics/"],
+  "description": [
+    "Post Politics from The Washington Post is the source for political news headlines, in-depth politics coverage and political opinion, plus breaking news on the biden administration and White House, Congress, the Supreme Court, elections and more."
+  ],
+  "language": ["en-US"],
+  "sy:updatePeriod": ["hourly"],
+  "sy:updateFrequency": ["1"],
+  "br": ["", "", "", "", "", ""],
+  "item": [
+    {
+      "title": [
+        "Post Politics Now: Biden to mark 100 days since Supreme Court overturned Roe v. Wade"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/04/biden-abortion-roe-wade/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 12:14:21 EDT"],
+      "dc:creator": ["John Wagner"],
+      "description": [
+        "Officials plan to discuss a White House report noting that abortion bans have taken effect in more than a dozen states and close to 30 million women of reproductive age now live in a state with a ban."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAZZCDP7ZGLLS6MV5ADJLZR5YQ.JPG&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAZZCDP7ZGLLS6MV5ADJLZR5YQ.JPG&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAZZCDP7ZGLLS6MV5ADJLZR5YQ.JPG&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAZZCDP7ZGLLS6MV5ADJLZR5YQ.JPG&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/04/biden-abortion-roe-wade/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Christian Walker turns his online influence against his father"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/04/herschel-walker-georgia-senate-son/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 12:11:05 EDT"],
+      "dc:creator": ["Philip Bump"],
+      "description": [
+        "The biggest threat to Herschel Walker’s Senate campaign may be his own son."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMGZZER7OQI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMGZZER7OQI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMGZZER7OQI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AMGZZER7OQI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/04/herschel-walker-georgia-senate-son/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Build a personalized democracy toolkit to get ready for the midterms "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/interactive/2022/democracy-toolkit-midterm-elections-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 10:08:51 EDT"],
+      "dc:creator": ["Washington Post Staff"],
+      "description": [
+        "Just tuning in? Maybe you want a primer on how to vote, who’s on your ballot, or other election basics. We’ve got you covered!"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XXJ5U7A7OZEWDGFPAZWV2GMOY4.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XXJ5U7A7OZEWDGFPAZWV2GMOY4.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XXJ5U7A7OZEWDGFPAZWV2GMOY4.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XXJ5U7A7OZEWDGFPAZWV2GMOY4.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/interactive/2022/democracy-toolkit-midterm-elections-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["What happens next with Herschel Walker"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/04/herschel-walker-abortion-georgia-runoff/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 09:43:51 EDT"],
+      "dc:creator": ["Aaron Blake"],
+      "description": [
+        "The Daily Beast reported Walker paid for a girlfriend's abortion in 2009. What will the GOP do, and what could the story mean for Walker's campaign?"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/04/herschel-walker-abortion-georgia-runoff/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["What are midterm elections and why are they important?"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/what-are-midterm-elections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:23:15 EDT"],
+      "dc:creator": ["Amber Phillips"],
+      "description": [
+        "Who are the candidates I should know about? What are the top issues? How can I vote? We answer your questions about the November elections."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/what-are-midterm-elections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["The issue choice that could decide the 2022 election"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/midterms-issues-choices/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:11:00 EDT"],
+      "dc:creator": ["Aaron Blake"],
+      "description": [
+        "It seems quite possible the battle for Congress will be decided based upon which timely issues Americans vote on more: the economy and inflation (Republicans), or abortion rights and political extremism (Democrats). But which weighs more heavily?"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/midterms-issues-choices/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["What happens next with Herschel Walker"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/04/herschel-walker-abortion-georgia-runoff/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 09:43:51 EDT"],
+      "dc:creator": ["Aaron Blake"],
+      "description": [
+        "The Daily Beast reported Walker paid for a girlfriend's abortion in 2009. What will the GOP do, and what could the story mean for Walker's campaign?"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/04/herschel-walker-abortion-georgia-runoff/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Sheryl Sandberg’s next chapter: Pledging millions to fight abortion bans"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/04/sandberg-facebook-meta-aclu-abortion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 08:58:46 EDT"],
+      "dc:creator": ["Elizabeth Dwoskin"],
+      "description": [
+        "Sandberg's announcement of her donation to the ACLU to fight abortion bans comes just a few days after she leaves Meta."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/04/sandberg-facebook-meta-aclu-abortion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Herschel Walker denies report that he paid for girlfriend’s abortion"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/04/walker-senate-abortion-claim/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 08:57:34 EDT"],
+      "dc:creator": ["Annie Linskey"],
+      "description": [
+        "Walker’s denial came after the Daily Beast published an account from a woman who said Walker encouraged her to have an abortion while they were dating."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-04-2022/t_9c3d83c8cec3483db32e4009433a08c7_name_Screen_Shot_2022_10_04_at_9_42_08_AM.png&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/04/walker-senate-abortion-claim/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Abortion is now banned in these states. See where laws have changed."
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/06/24/abortion-state-laws-criminalization-roe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 08:35:46 EDT"],
+      "dc:creator": ["Caroline Kitchener"],
+      "description": [
+        "Thirteen states had \"trigger bans\" to criminalize abortion when the Supreme Court overturned Roe v. Wade. Several other states are working to enact other laws."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EKGRGF57BDCXBI4YUBFXPDWGU.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EKGRGF57BDCXBI4YUBFXPDWGU.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EKGRGF57BDCXBI4YUBFXPDWGU.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6EKGRGF57BDCXBI4YUBFXPDWGU.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/06/24/abortion-state-laws-criminalization-roe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "As gas prices rise, Democrats scramble to lay blame on Big Oil"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/business/2022/10/04/gas-prices-oil-biden-midterm/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 06:00:02 EDT"],
+      "dc:creator": ["Evan Halper"],
+      "description": [
+        "Fuel costs are up sharply in several states as the midterm elections approach, leading the White House to threaten market interventions and step up rhetoric."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JR3ZVLSDMYI63PQXRHF6NOGAUU.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JR3ZVLSDMYI63PQXRHF6NOGAUU.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JR3ZVLSDMYI63PQXRHF6NOGAUU.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JR3ZVLSDMYI63PQXRHF6NOGAUU.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/business/2022/10/04/gas-prices-oil-biden-midterm/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["Trump sues CNN for defamation, seeks $475 million in damages"],
+      "link": [
+        "https://www.washingtonpost.com/media/2022/10/04/donald-trump-sues-cnn-defamation-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 03:38:37 EDT"],
+      "dc:creator": ["Kelly Kasulis Cho"],
+      "description": [
+        "Former president Donald Trump has a history of being highly litigious against critics in the media, though these lawsuits have had little success."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BXW5KCDLUI63PQXRHF6NOGAUU.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BXW5KCDLUI63PQXRHF6NOGAUU.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BXW5KCDLUI63PQXRHF6NOGAUU.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BXW5KCDLUI63PQXRHF6NOGAUU.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/media/2022/10/04/donald-trump-sues-cnn-defamation-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Laurence Silberman, titan of conservative jurisprudence, dies at 86"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/obituaries/2022/10/03/laurence-silberman-federal-appeals-judge/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 20:44:50 EDT"],
+      "dc:creator": ["Emily Langer"],
+      "description": [
+        "The federal appeals court judge was celebrated among conservatives as a constant if sometimes provocative exponent of judicial restraint"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XPCKN5FJJJGVDC46DH37CS3L4.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XPCKN5FJJJGVDC46DH37CS3L4.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XPCKN5FJJJGVDC46DH37CS3L4.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XPCKN5FJJJGVDC46DH37CS3L4.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/obituaries/2022/10/03/laurence-silberman-federal-appeals-judge/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "David Beckwith, who scooped Supreme Court on Roe v. Wade, dies at 79"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/obituaries/2022/10/03/david-beckwith-dead-supreme-court/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 20:37:52 EDT"],
+      "dc:creator": ["Harrison Smith"],
+      "description": [
+        "After working as a journalist at Time magazine, he became the inaugural editor of the Legal Times in Washington and a spokesman for Dan Quayle."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZOZGKHKGVD6NJYZ7V6IO7Q6OE.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZOZGKHKGVD6NJYZ7V6IO7Q6OE.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZOZGKHKGVD6NJYZ7V6IO7Q6OE.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UZOZGKHKGVD6NJYZ7V6IO7Q6OE.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/obituaries/2022/10/03/david-beckwith-dead-supreme-court/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Biden, seeking contrast to Trump, vows $60 million in Puerto Rico visit"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/biden-puerto-rico-hurricane-funding/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 19:01:47 EDT"],
+      "dc:creator": ["Arelis R. Hernández"],
+      "description": [
+        "The money aims to shore up levees, strengthen flood walls and create a new flood warning system for the U.S. territory."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EE4BXUR2UMI63OFPBICOLXB5WY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EE4BXUR2UMI63OFPBICOLXB5WY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EE4BXUR2UMI63OFPBICOLXB5WY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EE4BXUR2UMI63OFPBICOLXB5WY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/biden-puerto-rico-hurricane-funding/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Trump’s lawyer refused his request in February to say all documents returned"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/national-security/2022/10/03/trump-alex-cannon-documents/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 18:25:24 EDT"],
+      "dc:creator": ["Josh Dawsey"],
+      "description": [
+        "After 15 boxes of government records were sent to the National Archives in January, attorney Alex Cannon thought Donald Trump might have more records at Mar-a-Lago, people familiar with the matter said."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NJFQBBDCD5BSLAIILQ5ES56VGQ.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NJFQBBDCD5BSLAIILQ5ES56VGQ.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NJFQBBDCD5BSLAIILQ5ES56VGQ.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NJFQBBDCD5BSLAIILQ5ES56VGQ.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/national-security/2022/10/03/trump-alex-cannon-documents/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Federal employee health-care premiums to rise 8.7 percent on average"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/federal-employee-health-care-premiums-2023/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:45:30 EDT"],
+      "dc:creator": ["Eric Yoder"],
+      "description": [
+        "Premiums in the health-care program for federal employees and retirees will increase by 8.7 percent on average for 2023 — the largest increase in more than a decade."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3YF4R2SADII63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3YF4R2SADII63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3YF4R2SADII63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3YF4R2SADII63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/federal-employee-health-care-premiums-2023/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["What are midterm elections and why are they important?"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/what-are-midterm-elections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:23:15 EDT"],
+      "dc:creator": ["Amber Phillips"],
+      "description": [
+        "Who are the candidates I should know about? What are the top issues? How can I vote? We answer your questions about the November elections."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2M25NR5WMI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/what-are-midterm-elections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "After vaccines became available, a partisan gap in deaths emerged"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/pandemic-biden-trump-deaths/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:20:37 EDT"],
+      "dc:creator": ["Philip Bump"],
+      "description": [
+        "The link between covid deaths and partisanship gets robust reinforcement."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WXB2KT4SAI6ZDGIW2LFMS5HSY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WXB2KT4SAI6ZDGIW2LFMS5HSY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WXB2KT4SAI6ZDGIW2LFMS5HSY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6WXB2KT4SAI6ZDGIW2LFMS5HSY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/pandemic-biden-trump-deaths/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Tracking Biden’s nominees to fill the top roles in his administration"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:19:48 EDT"],
+      "dc:creator": ["Harry Stevens"],
+      "description": [
+        "Follow the president's progress filling nearly 800 positions, among the 1,200 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F6Q5LK2QPNGNBEIBPBJI53WBOI.png&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F6Q5LK2QPNGNBEIBPBJI53WBOI.png&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F6Q5LK2QPNGNBEIBPBJI53WBOI.png&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F6Q5LK2QPNGNBEIBPBJI53WBOI.png&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["The issue choice that could decide the 2022 election"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/midterms-issues-choices/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 16:11:00 EDT"],
+      "dc:creator": ["Aaron Blake"],
+      "description": [
+        "It seems quite possible the battle for Congress will be decided based upon which timely issues Americans vote on more: the economy and inflation (Republicans), or abortion rights and political extremism (Democrats). But which weighs more heavily?"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Q5OJX7CA3MI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/midterms-issues-choices/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": [
+        "Post Politics Now: Biden praises Puerto Rico’s resilience, vows to deliver every dollar it was promised"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/biden-puerto-rico-hurricane/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 15:47:35 EDT"],
+      "dc:creator": ["John Wagner"],
+      "description": [
+        "Biden to announce more than $60 million in funding to shore up levees, strengthen flood walls and create a new warning system to help Puerto Rico better prepare for storms."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRLDZPSDKII63PQXRHF6NOGAUU.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRLDZPSDKII63PQXRHF6NOGAUU.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRLDZPSDKII63PQXRHF6NOGAUU.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QRLDZPSDKII63PQXRHF6NOGAUU.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/biden-puerto-rico-hurricane/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    },
+    {
+      "title": ["New ad shows Louisiana congressional candidate giving birth"],
+      "link": [
+        "https://www.washingtonpost.com/politics/2022/10/03/louisiana-female-candidate-birth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 15:20:25 EDT"],
+      "dc:creator": ["John Wagner"],
+      "description": [
+        "If you watch until the end of this campaign ad, you’ll see a candidate giving birth."
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/politics/2022/10/03/louisiana-female-candidate-birth/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics"
+      ]
+    }
+  ]
+}

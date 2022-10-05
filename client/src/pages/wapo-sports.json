@@ -1,0 +1,1257 @@
+{
+  "title": ["Washington Post: Breaking News, World, US, DC News & Analysis"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "http://www.washingtonpost.com/homepage/?resType=rss",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    }
+  ],
+  "link": ["http://www.washingtonpost.com/pb/homepage/"],
+  "description": [
+    "\n                Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.\n              "
+  ],
+  "language": ["en-US"],
+  "sy:updatePeriod": ["hourly"],
+  "sy:updateFrequency": ["1"],
+  "item": [
+    {
+      "title": [
+        "\n                        What questions do you have about the Commanders’ slow start? Ask The Post.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/washington-commanders-questions-answers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 04:53 PM EDT"],
+      "description": [
+        "\n                        Barry Svrluga and Sam Fortier answer your questions about the Commanders' loss to the Cowboys and their outlook the rest of the season.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/washington-commanders-questions-answers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        The failed NFL diversity ‘rule’ corporate America loves\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/interactive/2022/rooney-rule-nfl-black-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 11:54 AM EDT"],
+      "dc:creator": [
+        "\n                          Gus Garcia-Roberts\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/interactive/2022/rooney-rule-nfl-black-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Ron Rivera says change won’t happen overnight. He’s 1,006 nights in.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/ron-rivera-commanders-record/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 09:29 AM EDT"],
+      "dc:creator": [
+        "\n                          Barry Svrluga\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/ron-rivera-commanders-record/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Another ‘report’ on abuse in women’s sports. When is enough enough?\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/yates-report-womens-soccer-abuse/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 08:43 PM EDT"],
+      "dc:creator": [
+        "\n                          Sally Jenkins\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/yates-report-womens-soccer-abuse/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        The Bills are learning to live with being the Super Bowl favorite\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/bills-super-bowl-favorites/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 11:36 AM EDT"],
+      "dc:creator": [
+        "\n                          Mark Maske\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/bills-super-bowl-favorites/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        MLB’s new postseason format and wild-card races, explained\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/15/mlb-playoffs-2022-format/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 08:27 AM EDT"],
+      "dc:creator": [
+        "\n                          Matt Bonesteel\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/15/mlb-playoffs-2022-format/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        After 27 seasons, Dave Johnson’s wild run with D.C. United is ending\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/dave-johnson-dc-united-broadcast/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 12:11 PM EDT"],
+      "dc:creator": [
+        "\n                          Steven Goff\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/dave-johnson-dc-united-broadcast/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Victor Wembanyama is coming to America. Here’s where he might land.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/victor-wembanyama-las-vegas-draft/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 07:17 AM EDT"],
+      "dc:creator": [
+        "\n                          Ben Golliver\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/victor-wembanyama-las-vegas-draft/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Facing problems big and small, Commanders are doomed by their own mistakes\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/02/commanders-cowboys-mistakes/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 09:06 PM EDT"],
+      "description": [
+        "\n                        The Commanders are adjusting from week to week, but every time they solve one problem, more mistakes pop up.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/02/commanders-cowboys-mistakes/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        NFL protocols couldn’t protect Tua Tagovailoa from careless humans\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/30/tua-injury/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, October 1, 2022, 11:00 PM EDT"],
+      "dc:creator": [
+        "\n                          Jerry Brewer\n                      "
+      ],
+      "description": [
+        "\n                        Tua Tagovailoa's injury was not just a random moment of football brutality. It was the terrifying result of carelessness.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/30/tua-injury/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        JMU moved to the top level of college football. It hasn’t stopped winning.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/30/jmu-football-fbs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 30, 2022, 09:05 AM EDT"],
+      "dc:creator": [
+        "\n                          Barry Svrluga\n                      "
+      ],
+      "description": [
+        "\n                        James Madison is now rubbing elbows with college football’s most successful programs, bringing both unbridled optimism and unabashedly brash goals.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/30/jmu-football-fbs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Joey Meneses seems too good to be true. What if he’s for real?\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/29/joey-meneses-washington-nationals/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 29, 2022, 07:20 PM EDT"],
+      "dc:creator": [
+        "\n                          Thomas Boswell\n                      "
+      ],
+      "description": [
+        "\n                        The Nationals' 30-year-old rookie came out of nowhere. But he might not be going away.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/29/joey-meneses-washington-nationals/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Tiffany Jackson, who starred at Texas and in the WNBA, dies at 37\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/tiffany-jackson-dies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 08:19 AM EDT"],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/tiffany-jackson-dies/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Which teams does the public love to bet on? Think brand-name winners.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/public-teams-sports-betting/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 11:20 AM EDT"],
+      "dc:creator": [
+        "\n                          Michael Errigo\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/public-teams-sports-betting/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Aliaksei Protas is ‘working to make noise’ with the Capitals\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/aliaksei-protas-capitals-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 07:13 PM EDT"],
+      "dc:creator": [
+        "\n                          Samantha Pell\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/aliaksei-protas-capitals-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        U.S. Soccer ‘failed’ women’s players, report finds, as new abuse claims emerge\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/nwsl-abuse-report-sally-yates/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 08:04 PM EDT"],
+      "dc:creator": [
+        "\n                          Rick Maese\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/nwsl-abuse-report-sally-yates/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Brian Robinson Jr. cleared to practice; Jahan Dotson, Sam Cosmi may miss time\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/brian-robinson-activated-commanders/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 09:58 PM EDT"],
+      "description": [
+        "\n                        Robinson, a rookie running back for the Commanders, was shot twice in the leg in August and has been on the non-football injury list.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/brian-robinson-activated-commanders/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        What to know from NFL Week 4: Bills win close, and John Harbaugh was right\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/nfl-week-4-bills-harbaugh/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 06:53 PM EDT"],
+      "dc:creator": [
+        "\n                          Adam Kilgore\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/nfl-week-4-bills-harbaugh/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        It’s ‘bigger than baseball’: Nelson Cruz is not ready to hang it up\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/nelson-cruz-mlb-future/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 09:20 PM EDT"],
+      "dc:creator": [
+        "\n                          Jesse Dougherty\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/nelson-cruz-mlb-future/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Pickleball is exploding, and it’s getting messy\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/20/pickleball-growth-tennis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, September 20, 2022, 07:41 PM EDT"],
+      "dc:creator": [
+        "\n                          Rick Maese\n                      "
+      ],
+      "description": [
+        "\n                        Pickleball has exploded into a big business with no shortage of deep-pocketed investors and eager opportunists.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/20/pickleball-growth-tennis/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Stephen Strasburg gave his body to baseball. Now his future is a mystery.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/16/stephen-strasburg-injury-recovery/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, September 17, 2022, 05:51 PM EDT"],
+      "dc:creator": [
+        "\n                          Jesse Dougherty\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/16/stephen-strasburg-injury-recovery/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Sportsbooks are sweating their billion-dollar marketing bet\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/27/caesars-fanduel-draftkings-commercials/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 29, 2022, 02:22 PM EDT"],
+      "dc:creator": [
+        "\n                          Danny Funt\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/27/caesars-fanduel-draftkings-commercials/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        How NFL hiring and firing practices disadvantage Black coaches at every turn\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/interactive/2022/nfl-black-head-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 22, 2022, 05:05 PM EDT"],
+      "dc:creator": [
+        "\n                          Dave Sheinin, Michael Lee, Emily Giambalvo, Artur Galocha and Clara Ence Morse\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/interactive/2022/nfl-black-head-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Video: Hear from 16 Black current and former NFL head coaches\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/interactive/2022/black-nfl-coaches-voices/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 22, 2022, 05:05 PM EDT"],
+      "dc:creator": [
+        "\n                          Michael Lee and Jayne Orenstein\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/interactive/2022/black-nfl-coaches-voices/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Perspective: The NFL’s turn toward inequity resonates eight decades later\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/interactive/2022/inequity-nfl-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Wed, September 21, 2022, 10:30 PM EDT"],
+      "dc:creator": [
+        "\n                          Jerry Brewer\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/interactive/2022/inequity-nfl-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        How The Post analyzed coaching data for its series on Black NFL coaches\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/interactive/2022/data-black-nfl-head-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 22, 2022, 05:05 PM EDT"],
+      "dc:creator": [
+        "\n                          Emily Giambalvo and Clara Ence Morse\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/interactive/2022/data-black-nfl-head-coaches/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Home-field advantage is an NFL relic. So is blind faith in home underdogs.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/02/nfl-bets-week-4-lines/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 03:02 PM EDT"],
+      "dc:creator": [
+        "\n                          Neil Greenberg\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/02/nfl-bets-week-4-lines/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        College football best bets: Kentucky can keep pace with Mississippi\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/29/college-football-picks-kentucky-mississippi/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 29, 2022, 02:17 PM EDT"],
+      "dc:creator": [
+        "\n                          Matt Bonesteel\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/29/college-football-picks-kentucky-mississippi/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        NFL best bets for Week 4: Baker Mayfield and the Panthers can do it again\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/28/nfl-picks-odds-best-bets-week-4/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 07:16 AM EDT"],
+      "dc:creator": [
+        "\n                          Neil Greenberg\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/28/nfl-picks-odds-best-bets-week-4/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Hall of Famer Tony La Russa steps down as White Sox manager\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/tony-la-russa-white-sox-manager-steps-down/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 09:30 PM EDT"],
+      "dc:creator": [
+        "\n                          Chelsea Janes\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/tony-la-russa-white-sox-manager-steps-down/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        President Biden salutes Braves’ ‘unstoppable, joyful’ run to 2021 World Series\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/26/braves-white-house-visit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, September 26, 2022, 05:10 PM EDT"],
+      "dc:creator": [
+        "\n                          Matt Bonesteel\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/26/braves-white-house-visit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Cardinals’ Albert Pujols slugs his way into MLB’s 700 home run club\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/23/albert-pujols-home-run-700/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, September 24, 2022, 07:55 AM EDT"],
+      "dc:creator": [
+        "\n                          Chelsea Janes\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/23/albert-pujols-home-run-700/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Nats’ home schedule ends with another clunker from Patrick Corbin\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/02/nationals-phillies-rain-corbin/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 07:45 PM EDT"],
+      "description": [
+        "\n                        Corbin struggles on a dreary day at Nationals Park, as the Phillies hit him hard and win, 8-1, in a game that is called after six innings.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/02/nationals-phillies-rain-corbin/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Nationals put on the hits, put a dent in Phillies’ playoff push\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/01/nationals-put-hits-put-dent-phillies-playoff-push/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 08:21 AM EDT"],
+      "description": [
+        "\n                        Luis García, Joey Meneses and CJ Abrams collect three hits apiece in a 13-4 romp in the first game of a day-night doubleheader.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/01/nationals-put-hits-put-dent-phillies-playoff-push/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        The Nationals, with chance to impact playoff race, show why they’re in last\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/30/nationals-phillies-nl-wild-card/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 30, 2022, 09:04 PM EDT"],
+      "description": [
+        "\n                        A four-game weekend series against the Phillies provides the young Nats with a chance to spoil a rival's postseason hopes.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/30/nationals-phillies-nl-wild-card/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        It’s time for Kenny Pickett to take over at quarterback in Pittsburgh\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/kenny-pickett-pittsburgh-steelers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 09:37 AM EDT"],
+      "dc:creator": [
+        "\n                          Jason La Canfora\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/kenny-pickett-pittsburgh-steelers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Commanders’ play-calling prompts questions about passing game\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/commanders-passing-game-wentz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 09:20 PM EDT"],
+      "description": [
+        "\n                        The team asked less of quarterback Carson Wentz on Sunday. A struggling offensive line might have something to do with that.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/commanders-passing-game-wentz/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        As Japan nears a pandemic turning point, NBA fans can’t help but clap\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/01/nba-japan-pandemic-warriors-wizards/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, October 1, 2022, 06:05 PM EDT"],
+      "description": [
+        "\n                        The clapping was noticeable as the Golden State Warriors and Washington Wizards played the NBA's first game in Japan since 2019.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/01/nba-japan-pandemic-warriors-wizards/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Rachel Nichols lands at Showtime, sounds off about ESPN exit\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/30/rachel-nichols-showtime-espn/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, October 1, 2022, 09:08 AM EDT"],
+      "dc:creator": [
+        "\n                          Ben Strauss\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/30/rachel-nichols-showtime-espn/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Massive blaze destroys NBA announcer Mike Breen’s Long Island home\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/29/mike-breen-house-fire/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 29, 2022, 09:35 PM EDT"],
+      "dc:creator": [
+        "\n                          Des Bieler\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/29/mike-breen-house-fire/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Their Japan games done, the Wizards face a new task: Readjustment\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/02/rui-hachimura-wizards-japan/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 08:39 PM EDT"],
+      "dc:creator": [
+        "\n                          Ava Wallace\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/02/rui-hachimura-wizards-japan/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        For the Wizards, preseason in Japan is a chemistry experiment\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/30/wizards-warriors-japan-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 30, 2022, 09:04 PM EDT"],
+      "description": [
+        "\n                        With an overhauled roster, Washington hopes time together on the road will forge bonds that will last all season.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/30/wizards-warriors-japan-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Rui Hachimura has a complicated relationship with Japan, but he’s happy to be back\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/29/rui-hachimura-japan-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 29, 2022, 07:46 PM EDT"],
+      "description": [
+        "\n                        The 24-year-old’s homecoming marks a year since news broke that Hachimura would be sitting out a portion of last season for mental health purposes and burnout.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/29/rui-hachimura-japan-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Money is having a hard season in college football. Poor money.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/02/oklahoma-texas-college-football-money/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 07:03 PM EDT"],
+      "dc:creator": [
+        "\n                          Chuck Culpepper\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/02/oklahoma-texas-college-football-money/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Oklahoma is in deep trouble (college football winners and losers)\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/01/college-football-winners-losers-week-5/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 09:48 AM EDT"],
+      "dc:creator": [
+        "\n                          Patrick Stevens\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/01/college-football-winners-losers-week-5/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        College football TV schedule: N.C. State-Clemson highlights big week\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/01/college-football-tv-schedule/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, October 1, 2022, 02:00 AM EDT"],
+      "dc:creator": [
+        "\n                          Matt Bonesteel\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/01/college-football-tv-schedule/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Virginia hopes last week’s second-half surge ignites winning stretch\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/28/virginia-football-offense-struggles/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 30, 2022, 09:42 PM EDT"],
+      "dc:creator": [
+        "\n                          Gene Wang\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/28/virginia-football-offense-struggles/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Kansas makes stunning second-half comeback to win national title\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/04/04/kansas-wins-national-championship/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, April 5, 2022, 09:45 AM EDT"],
+      "dc:creator": [
+        "\n                          Chuck Culpepper\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/04/04/kansas-wins-national-championship/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        These Jayhawks weren’t top recruits, but they evolved into champions\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/04/05/kansas-veterans-champs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, April 5, 2022, 07:01 PM EDT"],
+      "dc:creator": [
+        "\n                          Emily Giambalvo\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/04/05/kansas-veterans-champs/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        With Coach K gone, Bill Self could be the new voice of college hoops\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/04/03/with-coach-k-gone-bill-self-could-be-new-voice-college-hoops/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, May 12, 2022, 03:39 PM EDT"],
+      "dc:creator": [
+        "\n                          Barry Svrluga\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/04/03/with-coach-k-gone-bill-self-could-be-new-voice-college-hoops/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Yes, UNC-Duke was epic. No, it wasn’t the final scene of this movie.\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/04/03/yes-unc-duke-was-epic-no-it-wasnt-final-scene-this-movie/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, April 4, 2022, 10:46 AM EDT"],
+      "dc:creator": [
+        "\n                          Chuck Culpepper\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/04/03/yes-unc-duke-was-epic-no-it-wasnt-final-scene-this-movie/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Tear gas use by Indonesian police questioned in wake of mass fatality soccer tragedy\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/world/2022/10/02/tear-gas-use-by-indonesian-police-questioned-wake-mass-fatality-soccer-tragedy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, October 2, 2022, 07:25 PM EDT"],
+      "dc:creator": [
+        "\n                          Sammy Westfall\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/world/2022/10/02/tear-gas-use-by-indonesian-police-questioned-wake-mass-fatality-soccer-tragedy/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Aces cash in with their first WNBA title, topping the Sun in four games\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/18/wnba-finals-las-vegas-aces-connecticut-sun/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sun, September 18, 2022, 11:55 PM EDT"],
+      "dc:creator": [
+        "\n                          Kareem Copeland\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/18/wnba-finals-las-vegas-aces-connecticut-sun/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Life after basketball in the WNBA can go further than coaching\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/17/life-after-basketball-wnba-can-go-further-than-coaching/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, September 17, 2022, 07:57 PM EDT"],
+      "dc:creator": [
+        "\n                          Kareem Copeland\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/17/life-after-basketball-wnba-can-go-further-than-coaching/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        New rule could force players to choose between WNBA, overseas teams\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/16/wnba-prioritization-clause/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 16, 2022, 09:45 PM EDT"],
+      "dc:creator": [
+        "\n                          Kareem Copeland\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/16/wnba-prioritization-clause/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Sun stays alive with one too many runs for the Aces to answer in Game 3\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/15/sun-aces-wnba-finals/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 16, 2022, 05:31 AM EDT"],
+      "dc:creator": [
+        "\n                          Kareem Copeland\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/15/sun-aces-wnba-finals/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Czech government tells NHL teams that Russian players are unwelcome\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/22/nhl-players-banned-from-czech-republic/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Thu, September 22, 2022, 10:23 PM EDT"],
+      "dc:creator": [
+        "\n                          Glynn A. Hill\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/22/nhl-players-banned-from-czech-republic/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        P.K. Subban, Zdeno Chara call it quits on a day of retirements in the NHL\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/20/pk-subban-retirement-zdeno-chara/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, September 20, 2022, 10:27 PM EDT"],
+      "dc:creator": [
+        "\n                          Glynn A. Hill\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/20/pk-subban-retirement-zdeno-chara/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Hockey Canada says it will no longer use fund to settle sexual assault claims\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/07/21/hockey-canada-scandal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, July 23, 2022, 09:09 PM EDT"],
+      "dc:creator": [
+        "\n                          Glynn A. Hill\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/07/21/hockey-canada-scandal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Hockey Canada reopens investigation into alleged 2018 sexual assault\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/07/14/hockey-canada-investigation-sexual-assault/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, July 15, 2022, 08:51 PM EDT"],
+      "dc:creator": [
+        "\n                          Glynn A. Hill\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/07/14/hockey-canada-investigation-sexual-assault/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Prospect Aliaksei Protas continues to shine in Capitals’ preseason loss\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/01/aliaksei-protas-capitals-blue-jackets/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Sat, October 1, 2022, 11:07 PM EDT"],
+      "description": [
+        "\n                        The 21-year-old center, who scored Washington's lone goal in a 2-1 loss to the Blue Jackets, continues to look like a bona fide full-time NHL player.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/01/aliaksei-protas-capitals-blue-jackets/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Capitals get their vets into the preseason mix in a win over Red Wings\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/30/capitals-get-their-vets-into-preseason-mix-win-over-red-wings/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 30, 2022, 11:30 PM EDT"],
+      "description": [
+        "\n                        Darcy Kuemper gets his first action in goal for the Capitals and allows nothing past him in a 2-0 win on the road.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/30/capitals-get-their-vets-into-preseason-mix-win-over-red-wings/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Caps newbies Dylan Strome, Connor Brown spark preseason win over Flyers\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/28/capitals-flyers-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Wed, September 28, 2022, 10:50 PM EDT"],
+      "description": [
+        "\n                        The pair of offseason signings contributed to all three goals in a 3-1 win that also included two strong periods from new goalie Charlie Lindgren.\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/28/capitals-flyers-preseason/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Hail or Fail: Commanders’ penalties, lack of takeaways spell defeat at Dallas\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/commanders-cowboys-highlights-and-lowlights/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 11:19 PM EDT"],
+      "dc:creator": [
+        "\n                          Scott Allen\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/commanders-cowboys-highlights-and-lowlights/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Four takeaways from the Commanders’ 25-10 loss to the Cowboys\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/02/commanders-vs-cowboys/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 11:14 AM EDT"],
+      "dc:creator": [
+        "\n                          Scott Allen\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/02/commanders-vs-cowboys/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        No team digs a 20-point hole like the Commanders under Ron Rivera\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/29/ron-rivera-commanders-slow-starts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Fri, September 30, 2022, 08:17 PM EDT"],
+      "dc:creator": [
+        "\n                          Scott Allen and Neil Greenberg\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/29/ron-rivera-commanders-slow-starts/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Hail or Fail: Carson Wentz and Ron Rivera hold football, challenge flag too long\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/09/26/commanders-eagles-highlights-and-lowlights/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, September 26, 2022, 07:56 PM EDT"],
+      "dc:creator": [
+        "\n                          Scott Allen\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/09/26/commanders-eagles-highlights-and-lowlights/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        As girls’ golf takes off, a Churchill freshman emerges as a champion\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/04/girls-golf-takes-off-churchill-freshman-emerges-champion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Tue, October 4, 2022, 11:00 AM EDT"],
+      "dc:creator": [
+        "\n                          Washington Post Staff\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/04/girls-golf-takes-off-churchill-freshman-emerges-champion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Mock ‘slave auction’ prompts high school to forfeit football season\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/nation/2022/10/03/yuba-city-football-slave-auction/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 01:50 PM EDT"],
+      "dc:creator": [
+        "\n                          Marisa Iati\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/nation/2022/10/03/yuba-city-football-slave-auction/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Seneca Valley adjusts to new coach; Herndon enjoys drastic turnaround\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/seneca-valley-adjusts-new-coach-herndon-enjoys-drastic-turnaround/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 09:25 PM EDT"],
+      "dc:creator": [
+        "\n                          Washington Post Staff\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/seneca-valley-adjusts-new-coach-herndon-enjoys-drastic-turnaround/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    },
+    {
+      "title": [
+        "\n                        Football Top 20: Good Counsel retakes No. 1 ranking as WCAC play begins\n                      "
+      ],
+      "link": [
+        "\n                      https://www.washingtonpost.com/sports/2022/10/03/football-top-20-good-counsel-retakes-no-1-ranking-wcac-play-begins/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ],
+      "pubDate": ["Mon, October 3, 2022, 05:31 PM EDT"],
+      "dc:creator": [
+        "\n                          Kyle Melnick and Washington Post Staff\n                      "
+      ],
+      "description": [
+        "\n                        Read more\n                    "
+      ],
+      "guid": [
+        "\n                        https://www.washingtonpost.com/sports/2022/10/03/football-top-20-good-counsel-retakes-no-1-ranking-wcac-play-begins/?utm_source=rss&utm_medium=referral&utm_campaign=wp_homepage\n                    "
+      ]
+    }
+  ]
+}

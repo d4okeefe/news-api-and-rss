@@ -1,0 +1,599 @@
+{
+  "title": ["Science Latest"],
+  "description": ["Channel Description"],
+  "link": ["https://www.wired.com"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "https://www.wired.com/feed/category/science/latest/rss",
+        "rel": "self",
+        "type": "application/atom+xml"
+      }
+    }
+  ],
+  "copyright": ["© Condé Nast 2022"],
+  "language": ["en-US"],
+  "lastBuildDate": ["Wed, 05 Oct 2022 00:37:28 +0000"],
+  "item": [
+    {
+      "title": ["Scientists Have Discovered a New Set of Blood Groups"],
+      "link": ["https://www.wired.com/story/new-blood-types/"],
+      "guid": [
+        { "_": "633b72b6dc2b0a44046db8a2", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 04 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The ‘Er’ grouping could help doctors identify and treat some rare cases of blood incompatibility, including between pregnant mothers and fetuses."
+      ],
+      "category": ["Science", "Science / Health"],
+      "media:keywords": ["medicine, health, healthcare"],
+      "dc:creator": ["Chris Baraniuk"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["In That Vein"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633b72b696368716e310306d/master/pass/Bloodtype_donation_Science_GettyImages-85757277-(1).jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "The Mediterranean Sea Is So Hot, It’s Forming Carbonate Crystals"
+      ],
+      "link": [
+        "https://www.wired.com/story/the-mediterranean-sea-is-so-hot-its-forming-carbonate-crystals/"
+      ],
+      "guid": [
+        { "_": "6335f490c554667379f2da77", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 04 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "In the rapidly warming Eastern Mediterranean, water stratifies into layers, like a cake. That’s allowing carbon-spewing crystals to form."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["climate change, oceans, Chemistry"],
+      "dc:creator": ["Matt Simon"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Climate Change"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633b11f8e7146c84f3a19cfc/master/pass/MedSea_Calcium_Heated_Science_GettyImages-1314826199.jpg",
+            "width": "2400",
+            "height": "1599"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["A Huge New Data Set Pushes the Limits of Neuroscience"],
+      "link": [
+        "https://www.wired.com/story/a-huge-new-data-set-pushes-the-limits-of-neuroscience/"
+      ],
+      "guid": [
+        { "_": "63334e06f1e5c40d2b1bc768", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 03 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The Allen Institute’s release includes recordings from a whopping 300,000 mouse neurons. Now the challenge is figuring out what to do with all that data."
+      ],
+      "category": ["Science", "Science / Psychology and Neuroscience"],
+      "media:keywords": [
+        "Neuroscience, neural networks, Brains and Behavior, brains, Biology, animal behavior, big data"
+      ],
+      "dc:creator": ["Grace Huckins"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Neurons"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63374830a546819a4885f46e/master/pass/Science_GettyImages-1128676458.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["US Cities Are Recycling Trees and Poop to Make Compost"],
+      "link": [
+        "https://www.wired.com/story/crowdsourced-compost-tree-waste-poop/"
+      ],
+      "guid": [
+        { "_": "63376c44d90aafbd66b0c6d7", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 03 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Wood and biosolids from water treatment plants can be used to improve the soil—and keep remaining trees healthy."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["environment, Cities, climate change, Infrastructure"],
+      "dc:creator": ["Bryn Nelson"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Crowdsourced"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63376c4477d6e939e5938aee/master/pass/tree_recycling_miami_GettyImages-846813784-(1).jpg",
+            "width": "2400",
+            "height": "1590"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Self-Taught AI May Have a Lot in Common With the Human Brain"],
+      "link": [
+        "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/"
+      ],
+      "guid": [
+        { "_": "6331e992995b6da54b57f049", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 02 Oct 2022 12:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same."
+      ],
+      "category": ["Science", "Science / Physics and Math"],
+      "media:keywords": [
+        "Quanta Magazine, artificial intelligence, neural networks, machine learning, Neuroscience, Brains and Behavior"
+      ],
+      "dc:creator": ["Anil Ananthaswamy"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Neuroscience"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/master/pass/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
+            "width": "2400",
+            "height": "1350"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "The Drying Up of Europe’s Great Rivers Could Be the New Normal"
+      ],
+      "link": [
+        "https://www.wired.com/story/the-drying-up-of-europes-great-rivers-could-be-the-new-normal/"
+      ],
+      "guid": [
+        { "_": "6331e926f1e5c40d2b1bc764", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sat, 01 Oct 2022 12:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "From the Danube to the Loire, these lifelines for the continent’s economy are running low after five months of brutal drought and years of dry weather."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": [
+        "Climate Desk, climate change, climate, water, rivers, environment, Ecology, drought"
+      ],
+      "dc:creator": ["Paul Hockenos"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Running Low"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63370070949d90a54850f103/master/pass/science_GettyImages-1242816028.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Problem With Mental Health Bots"],
+      "link": ["https://www.wired.com/story/mental-health-chatbots/"],
+      "guid": [
+        { "_": "632e515220bc56769c4131ee", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sat, 01 Oct 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "With human therapists in short supply, AI chatbots are trying to plug the gap—but it’s not clear how well they work."
+      ],
+      "category": ["Science", "Science / Health"],
+      "media:keywords": [
+        "mental health, psychology, artificial intelligence, bots, Apps, Bots Run the Internet"
+      ],
+      "dc:creator": ["Grace Browne"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Bots Run the Web"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/632e615a74ce5b82a68ef375/master/pass/Bot_BotTeam.jpg",
+            "width": "2400",
+            "height": "1350"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Sofia, the Airplane-Borne Telescope, Lands for the Last Time"],
+      "link": [
+        "https://www.wired.com/story/sofia-the-historic-airplane-borne-telescope-lands-for-the-last-time/"
+      ],
+      "guid": [
+        { "_": "63334d0ed884b4dcc9416581", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Astronomers mourn the end of an infrared observatory that flew aboard a jumbo jet. It was expensive, but it saw what Earth-based telescopes can’t."
+      ],
+      "category": ["Science", "Science / Space"],
+      "media:keywords": [
+        "NASA, Astronomy, Aircraft, telescopes, space, Hubble, James Webb Space Telescope"
+      ],
+      "dc:creator": ["Ramin Skibba"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["You’re Grounded"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6335bdb0f089af1e9dc445ad/master/pass/SOFIA_flying_observatory_Science.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "The Future of Climate Activism Is Intergenerational—and on TikTok"
+      ],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-gideon-lichfield-sylvia-earle-sophia-kianni/"
+      ],
+      "guid": [
+        { "_": "6335d288e0fe4cc825d3a4d2", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 00:36:30 +0000"],
+      "media:content": [""],
+      "description": [
+        "At RE:WIRED Green, scientist Sylvia Earle and climate activist Sophia Kianni discussed ways younger and older generations can work together to face the crisis."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["RE:WIRED Green, science, climate"],
+      "dc:creator": ["Angela Watercutter"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63362e82caf695a6c58d3367/master/pass/Gideon-Lichfield-Sylvia-Earle-Sophia-Kianni-RE-WIRED-2022-Science.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Colette Pichon Battle’s Plea for Climate Justice From the US Gulf"
+      ],
+      "link": [
+        "https://www.wired.com/story/rewired-green-2022-colette-pichon-battle-climate-justice/"
+      ],
+      "guid": [
+        { "_": "6335d07a010e2be68af5d43b", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 00:25:23 +0000"],
+      "media:content": [""],
+      "description": [
+        "In the closing session of Re:WIRED GREEN, the Louisiana lawyer urged the audience to join the front lines of climate activism."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["RE:WIRED Green, climate change, climate, activism"],
+      "dc:creator": ["Kate Knibbs"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633604a777d6e939e5938ab7/master/pass/RE-Wired-Green-Colette-Pinchon-Business.jpg",
+            "width": "1600",
+            "height": "2133"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Alan Ahn Says Nuclear Is Still the Carbon-Free Fuel of the Future"
+      ],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-future-nuclear-energy/"
+      ],
+      "guid": [
+        { "_": "63356848e9c6bcf59ec4c646", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 23:56:47 +0000"],
+      "media:content": [""],
+      "description": [
+        "The RE:WIRED Green speaker explains how smaller, more efficient reactors will be the bedrock of energy independence."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["RE:WIRED Green, Energy, nuclear power"],
+      "dc:creator": ["Gregory Barber"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6335dc40e0fe4cc825d3a4d4/master/pass/ReWired-Green-Alan-Ahn-530.jpg",
+            "width": "1513",
+            "height": "2269"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Patricia Hidalgo-Gonzalez Wants to Strengthen the Grid"],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-patricia-hidalgo-gonzalez-fix-the-grid/"
+      ],
+      "guid": [
+        { "_": "6335924339b9899e1205b18b", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 23:55:32 +0000"],
+      "media:content": [""],
+      "description": [
+        "The UC San Diego researcher spoke at RE:WIRED Green about ways to use advanced control theory and machine learning to maximize sustainable energy sources."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["RE:WIRED Green, science, Energy"],
+      "dc:creator": ["Max G. Levy"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63360a0e77d6e939e5938ab9/master/pass/ReWired-Green-Patricia-Hidalgo-487.jpg",
+            "width": "1625",
+            "height": "2167"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Stephen Palumbi Says ‘Super Reefs’ Can Help Save Dying Coral"],
+      "link": ["https://www.wired.com/story/rewired-2022-super-reefs/"],
+      "guid": [
+        { "_": "6335680dae9b082f81054143", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 23:49:13 +0000"],
+      "media:content": [""],
+      "description": [
+        "The marine biologist told RE:WIRED Green about his team’s work to breed heat-resistant coral that can continue to support vibrant aquatic ecosystems."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["RE:WIRED Green, oceans, environment, Corals"],
+      "dc:creator": ["Gregory Barber"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6335f8d6e9c6bcf59ec4c648/master/pass/RE-Wired-Green-2022-Steve-Palumbi-Portrait-Science.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Hurricane Ian Is a Warning From the Future"],
+      "link": ["https://www.wired.com/story/hurricane-ian/"],
+      "guid": [
+        { "_": "6334a4f3c554667379f2d9f6", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 23:00:30 +0000"],
+      "media:content": [""],
+      "description": [
+        "Tropical storms are increasingly likely to batter the US as oceans warm—and will continue to wreak havoc so long as climate change remains unaddressed."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["climate, environment, hurricanes, weather"],
+      "dc:creator": ["Meghan Herbst"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Climate Change"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6334d87dd90aafbd66b0c6bc/master/pass/Science_GettyImages-1243577594-(1).jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Era of Fast, Cheap Genome Sequencing Is Here"],
+      "link": [
+        "https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/"
+      ],
+      "guid": [
+        { "_": "6331ad62c9bb1af7ef2498ca", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 17:05:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Illumina just announced a machine that can crack genomes twice as fast as its current version—and drive the cost down to $200 a pop."
+      ],
+      "category": ["Science", "Science / Biotech"],
+      "media:keywords": [
+        "DNA, whole-genome sequencing, Genomics, genetics, personal genomics, biotech, Biology, health"
+      ],
+      "dc:creator": ["Emily Mullin"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Speed Read"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/633459a4036b54662b51064e/master/pass/Wide-Front-Apollo-01_science.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Climate Change Is Burying Archaeological Sites Under Tons of Sand"
+      ],
+      "link": ["https://www.wired.com/story/drought-destroying-ancient-ruins/"],
+      "guid": [
+        { "_": "6334d5f9f089af1e9dc44569", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Desertification can wear down ancient ruins or hide them under dunes—leaving researchers scrambling to keep track of where they’re buried."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["archaeology, climate change, environment"],
+      "dc:creator": ["Charlie Metcalfe"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["Hide and Seek"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6334d5f9c554667379f2d9fa/master/pass/archeologicalsite_science_DSC_5349---Copy-(1).jpg",
+            "width": "2400",
+            "height": "1799"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Climate Justice Is Possible—Just Look Beyond Technology"],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-technology-climate-justice-community-policy/"
+      ],
+      "guid": [
+        { "_": "6334cb28a546819a4885f450", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 04:06:08 +0000"],
+      "media:content": [""],
+      "description": [
+        "At RE:WIRED Green, technologists, hackers, and activists explained how green tech must be combined with bold policy and bring people together."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": ["RE:WIRED Green, climate, recycling, sustainability"],
+      "dc:creator": ["Gregory Barber"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63350edbdd4bc612fd8df15e/master/pass/Jim-McBride-RE-WIRED-Green-2022-Science.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "The Sustainable Future of Food Must Bring Everyone to the Table"
+      ],
+      "link": [
+        "https://www.wired.com/story/rewired-2022-food-insecurity-sustainability/"
+      ],
+      "guid": [
+        { "_": "6334d8e1e0fe4cc825d3a4d1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 03:08:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "At this year’s RE:WIRED Green event, food scientists and environmental justice activists mapped out how we can end world hunger and preserve our planet."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": [
+        "RE:WIRED Green, food, environment, climate change, agriculture"
+      ],
+      "dc:creator": ["Max G. Levy"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/63363d42af6115289c0e5f6f/master/pass/Re-Wired-Green-2022-Sustainable-Food-Panelists-Science.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["‘We Are the Asteroid’: The Case for Hope Amid Climate Fears"],
+      "link": ["https://www.wired.com/story/rewired-2022-climate-action-hope/"],
+      "guid": [
+        { "_": "6334ba05ae9b082f81054142", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 00:39:14 +0000"],
+      "media:content": [""],
+      "description": [
+        "During the first session of Re:WIRED GREEN, experts laid out their vision for maintaining hope in the face of unprecedented challenges to our planet."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": [
+        "climate change, oceans, Geology, marine science, environment, RE:WIRED Green"
+      ],
+      "dc:creator": ["Justin Pot"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6334d71ea546819a4885f452/master/pass/Kenneth-Lacovara-RE-WIRED-2022-Overview-Science.jpg",
+            "width": "2400",
+            "height": "1800"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "At RE:WIRED Green, We’re Innovating to Fight the Climate Crisis"
+      ],
+      "link": ["https://www.wired.com/story/re-wired-green-2022/"],
+      "guid": [
+        { "_": "63322dc036c33c0247a2f101", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Wed, 28 Sep 2022 11:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Our San Francisco event brings together scientists, entrepreneurs, and more to spotlight ways that human ingenuity can save the planet."
+      ],
+      "category": ["Science", "Science / Environment"],
+      "media:keywords": [
+        "RE:WIRED Green, climate change, environment, sustainability, climate"
+      ],
+      "dc:creator": ["Alan Henry"],
+      "dc:publisher": ["Condé Nast"],
+      "dc:subject": ["RE:WIRED Green"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.wired.com/photos/6334b08fac1e13577068c07f/master/pass/RE-WIRED-GREEN-2022.jpg",
+            "width": "2400",
+            "height": "1600"
+          }
+        }
+      ]
+    }
+  ]
+}

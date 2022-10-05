@@ -173,7 +173,7 @@ const wired_routes = [
 export default () => {
   return (
     <Router>
-      <Redirect href="/new-york-times/topstories" />
+      {/* <Redirect href="/new-york-times/topstories" /> */}
       {nyt_routes.map((r, i) => (
         <Route key={i} path={r.url}>
           <NyTimesNews title={r.title} url={'/api' + r.url} />

@@ -18,10 +18,10 @@ app.get('/api', (req, res) => {
   res.json({ message: 'Hello from server!' })
 })
 
-app.use((req, res, next) => {
-  res.status(404)
-  res.type('txt').send('Not found')
-})
+// app.use((req, res, next) => {
+//   res.status(404)
+//   res.type('txt').send('Not found')
+// })
 
 app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, '../client/build', 'index.html'))

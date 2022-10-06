@@ -5,7 +5,7 @@ import NewsCard from '../utils/NewsCard'
 import Row from 'react-bootstrap/Row'
 import { format_date } from '../utils/FormatDate'
 
-export default (props) => {
+export default function NyTimesNews(props) {
   const [data, setData] = useState([])
 
   const nyt_url = props.url

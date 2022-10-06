@@ -14,7 +14,7 @@ const parseDate = function (d) {
   }
 }
 
-export default (props) => {
+export default function EspnNews(props) {
   const [data, setData] = useState(null)
 
   const espn_url = props.url

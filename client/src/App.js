@@ -6,7 +6,6 @@ import {
   NyerData,
   NytData,
   SciAmData,
-  WapoData,
   WiredData,
 } from './Data/NewsData'
 
@@ -14,7 +13,11 @@ import Container from 'react-bootstrap/Container'
 import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/Navbar'
 import NewsNavDropDown from './utils/NewsNavDropDown'
+import NewsNavDropdown2 from './utils/NewsNavDropDown2'
 import Routes from './components/Routes'
+import { WapoData } from './Data/WapoData'
+
+// import { useTracking } from 'react-tracking'
 
 function App() {
   return (
@@ -26,12 +29,15 @@ function App() {
             <Navbar.Toggle aria-controls="responsive-navbar-nav"></Navbar.Toggle>
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="me-auto">
-                <NewsNavDropDown title={NytData.newsdropdown.title} items={NytData.newsdropdown.items} />
+                <NewsNavDropDown
+                  title={NytData.newsdropdown.title}
+                  items={NytData.newsdropdown.items}
+                />
               </Nav>
               <Nav className="me-auto">
-                <NewsNavDropDown
-                  title={WapoData.newsdropdown.title}
-                  items={WapoData.newsdropdown.items}
+                <NewsNavDropdown2
+                  newspaper_title={WapoData.newspaper_title}
+                  sections={WapoData.sections}
                 />
               </Nav>
               <Nav className="me-auto">

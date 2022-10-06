@@ -10,7 +10,7 @@ const parseDate = function (d) {
   return format(date, 'd MMM yyyy')
 }
 
-export default (props) => {
+export default function ScientificAmericanRss(props) {
   const [data, setData] = useState(null)
 
   const wired_url = props.url

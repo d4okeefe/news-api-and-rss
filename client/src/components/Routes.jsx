@@ -1,8 +1,11 @@
 import { Redirect, Route, Router } from 'wouter'
 
 import EspnNews from '../pages/EspnNews'
+import NewYorkerRss from '../pages/NewYorkerRss'
 import NyTimesNews from '../pages/NyTimesNews'
+import { Suspense } from 'react'
 import WaPoNews from '../pages/WaPoNews'
+import WiredRss from '../pages/WiredRss'
 
 const wapo_routes = [
   {
@@ -176,34 +179,44 @@ export default () => {
       {/* <Redirect href="/new-york-times/topstories" /> */}
       {nyt_routes.map((r, i) => (
         <Route key={i} path={r.url}>
-          <NyTimesNews title={r.title} url={'/api' + r.url} />
+          <Suspense fallback={<h3>Loading...</h3>}>
+            <NyTimesNews title={r.title} url={'/api' + r.url} />
+          </Suspense>
         </Route>
       ))}
       {wapo_routes.map((r, i) => (
         <>
           <Route key={i} path={r.url}>
-            <WaPoNews title={r.title} url={'/api' + r.url} />
+            <Suspense fallback={<h3>Loading...</h3>}>
+              <WaPoNews title={r.title} url={'/api' + r.url} />
+            </Suspense>
           </Route>
         </>
       ))}
       {nyer_routes.map((r, i) => (
         <>
           <Route key={i} path={r.url}>
-            <WaPoNews title={r.title} url={'/api' + r.url} />
+            <Suspense fallback={<h3>Loading...</h3>}>
+              <NewYorkerRss title={r.title} url={'/api' + r.url} />
+            </Suspense>
           </Route>
         </>
       ))}
       {espn_routes.map((r, i) => (
         <>
           <Route key={i} path={r.url}>
-            <EspnNews title={r.title} url={'/api' + r.url} />
+            <Suspense fallback={<h3>Loading...</h3>}>
+              <EspnNews title={r.title} url={'/api' + r.url} />
+            </Suspense>
           </Route>
         </>
       ))}
       {wired_routes.map((r, i) => (
         <>
           <Route key={i} path={r.url}>
-            <EspnNews title={r.title} url={'/api' + r.url} />
+            <Suspense fallback={<h3>Loading...</h3>}>
+              <WiredRss title={r.title} url={'/api' + r.url} />
+            </Suspense>
           </Route>
         </>
       ))}

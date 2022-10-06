@@ -1,0 +1,862 @@
+{
+  "title": ["Scientific American: Mind & Brain"],
+  "link": ["http://www.scientificamerican.com"],
+  "description": [""],
+  "image": [
+    {
+      "url": [
+        "https://static.scientificamerican.com/sciam/assets/Image/newsletter/salogo.png"
+      ],
+      "title": ["Scientific American"],
+      "link": ["http://www.scientificamerican.com"]
+    }
+  ],
+  "pubDate": ["Wed, 05 Oct 2022 15:50:14 GMT"],
+  "language": ["en-us"],
+  "copyright": [
+    "Scientific American, a Division of Springer Nature America, Inc."
+  ],
+  "itunes:author": ["Scientific American"],
+  "xhtml:meta": [
+    {
+      "$": {
+        "content": "noindex",
+        "name": "robots",
+        "xmlns:xhtml": "http://www.w3.org/1999/xhtml"
+      }
+    }
+  ],
+  "item": [
+    {
+      "title": [
+        "How People Rate Pizza, Jobs and Relationships Is Surprisingly Predictive of Their Behavior"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/how-people-rate-pizza-jobs-and-relationships-is-surprisingly-predictive-of-their-behavior/"
+      ],
+      "guid": [
+        {
+          "_": "85682C05-6DDC-4774-8D4704E7F0A438F2",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 03 Oct 2022 19:00:00 GMT"],
+      "description": [
+        "<p>Researchers are perplexed as to why inner feelings about life and love predict our actions better than the best social science</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "2673866",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/0D7A8ADA-18A4-44B5-94512718DA11A8F7_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["MicroStockHub/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Sara Novak"],
+      "category": ["Mind & Brain", "Psychology"]
+    },
+    {
+      "title": ["How Much People Write Can Reveal Racial Biases"],
+      "link": [
+        "https://www.scientificamerican.com/article/how-much-people-write-can-reveal-racial-biases/"
+      ],
+      "guid": [
+        {
+          "_": "28BF6143-2033-438E-A5F4E423FD9D9F0C",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 14:00:00 GMT"],
+      "description": [
+        "<p>Society&rsquo;s stereotypes can slip into communication in subtle ways</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "2791359",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/50D3A7F2-B743-4D41-97C9007D38753429_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Ekaterina Abramova/EyeEm/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Ayelet Fishbach"],
+      "category": ["Mind & Brain", "Psychology"]
+    },
+    {
+      "title": [
+        "Alzheimer's Drug Slows Mental Decline in Trial--But Is It a Breakthrough?"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/alzheimers-drug-slows-mental-decline-in-trial-but-is-it-a-breakthrough/"
+      ],
+      "guid": [
+        {
+          "_": "BAF8F1CF-ACC4-46DB-B97174567D5F9E15",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 30 Sep 2022 13:00:00 GMT"],
+      "description": [
+        "<p>Researchers are cautiously optimistic following companies&rsquo; announcement of positive results for lecanemab</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "2873334",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/4F007FBB-E91B-47E3-9B2D9CEB3F66F28C_source.jpg",
+            "width": "790"
+          },
+          "media:description": [
+            {
+              "_": "One target of the Alzheimer&rsquo;s drug lecnanemab is amyloid fibrils.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Science History Images/Alamy Stock Photo"]
+        }
+      ],
+      "dc:creator": ["McKenzie Prillaman, Nature magazine"],
+      "category": ["Mind & Brain", "Neurology"]
+    },
+    {
+      "title": ["Truth under Attack"],
+      "link": [
+        "https://www.scientificamerican.com/article/truth-under-attack/"
+      ],
+      "guid": [
+        {
+          "_": "29C5B9C9-9EE1-4D43-8358AA2D48F87569",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 29 Sep 2022 13:30:00 GMT"],
+      "description": [""],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "241320",
+            "height": "496",
+            "type": "image/png",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/83767E97-C045-4C0E-BE56907C3FA474C3_source.png",
+            "width": "790"
+          },
+          "media:credit": ["Boris Zhitkov/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Andrea Gawrylewski"],
+      "category": ["From the Editor", "Mind & Brain", "Behavior"]
+    },
+    {
+      "title": [
+        "Dementia in Prison Is Turning into an Epidemic: The U.S. Penal System Is Badly Unprepared"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/dementia-in-prison-is-turning-into-an-epidemic-the-u-s-penal-system-is-badly-unprepared/"
+      ],
+      "guid": [
+        {
+          "_": "232C7094-2078-4C8F-80EC3F96AD1DF9D8",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 27 Sep 2022 10:45:00 GMT"],
+      "description": [
+        "<p>Older prisoners will make up a third of the prison population in a decade, and many of them will develop dementia</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "2023693",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/5B5CA1C7-3FE9-47BA-86D831C9E0DE2798_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Andy Sacks/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Sara Novak"],
+      "category": ["Mind & Brain", "Neurology"]
+    },
+    {
+      "title": ["How Squishy Math Is Revealing Doughnuts in the Brain"],
+      "link": [
+        "https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/"
+      ],
+      "guid": [
+        {
+          "_": "FB0A0C94-0C06-4793-B9E69CD0CF7E2B5B",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 26 Sep 2022 13:00:00 GMT"],
+      "description": [
+        "<p>Topology, sometimes called rubber sheet geometry, is finding patterns in the brain, drugs and evolution</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "418174",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/39A5434D-D7EB-45FD-897923D804BBD2A0_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Evangeline Gallagher"]
+        }
+      ],
+      "dc:creator": ["Kelsey Houston-Edwards"],
+      "category": ["Features", "Math", "Mind & Brain", "Neurology"]
+    },
+    {
+      "title": ["Readers Respond to the June 2022 Issue"],
+      "link": [
+        "https://www.scientificamerican.com/article/readers-respond-to-the-june-2022-issue/"
+      ],
+      "guid": [
+        {
+          "_": "1292B187-1F03-4E1C-90CE763123771045",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Sat, 24 Sep 2022 13:00:00 GMT"],
+      "description": [
+        "<p>Letters to the editor for the June 2022 issue of <em>Scientific American</em></p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "107721",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/FF2F04CA-6823-40C0-880E24D98D68088C_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["<em>Scientific American,</em> June 2022"]
+        }
+      ],
+      "category": ["Letters", "Biology", "Animals", "Mind & Brain", "Cognition"]
+    },
+    {
+      "title": ["How Gaslighting Manipulates Reality"],
+      "link": [
+        "https://www.scientificamerican.com/article/how-gaslighting-manipulates-reality/"
+      ],
+      "guid": [
+        {
+          "_": "08BDF184-C828-4C18-86B84AB6599811F0",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 22 Sep 2022 13:30:00 GMT"],
+      "description": [
+        "<p>Gaslighting isn&rsquo;t just between people in a relationship&mdash;it involves social power, too</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "1857306",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/B314D3C8-6229-4C49-9916DE7389D66283_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Illustration by Galen Dara Smith"]
+        }
+      ],
+      "dc:creator": ["Paige L. Sweet"],
+      "category": ["Features", "Mind & Brain", "Psychology", "Social Sciences"]
+    },
+    {
+      "title": [
+        "Voice Training Is a Medical Necessity for Many Transgender People"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/voice-training-is-a-medical-necessity-for-many-transgender-people/"
+      ],
+      "guid": [
+        {
+          "_": "1DD32238-DA0C-406F-9E7F730FF9DE3850",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 19 Sep 2022 14:00:00 GMT"],
+      "description": [
+        "<p>Multiple strategies&mdash;including speech therapy&mdash;can help those whose voice and gender identity are not aligned and can improve their quality of life</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "12518440",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/9176C6F8-98AA-4D13-A9CFF36DB260D6BC_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["We Are/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Z Paige Lerario"],
+      "category": ["Mind & Brain", "Neurology"]
+    },
+    {
+      "title": ["Moral Injury Is an Invisible Epidemic That Affects Millions"],
+      "link": [
+        "https://www.scientificamerican.com/article/moral-injury-is-an-invisible-epidemic-that-affects-millions/"
+      ],
+      "guid": [
+        {
+          "_": "F8745EB4-6298-436E-94BEB21EC47BEAD1",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 19 Sep 2022 10:45:00 GMT"],
+      "description": [
+        "<p>A specific kind of trauma results when a person&rsquo;s core principles are violated during wartime or a pandemic</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "6418961",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/35A2EEDA-5AB7-46E3-B17F8D05D7045B7F_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Xavier Lorenzo/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Elizabeth Svoboda"],
+      "category": ["Mind & Brain", "Psychology"]
+    },
+    {
+      "title": ["It's Time to Fight Light Pollution"],
+      "link": [
+        "https://www.scientificamerican.com/article/its-time-to-fight-light-pollution/"
+      ],
+      "guid": [
+        {
+          "_": "6375D6D1-4023-4F13-8050C11AB19CBD7F",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 15 Sep 2022 17:24:00 GMT"],
+      "description": [
+        "<p>Learn about Viking women, doughnuts in the brain, nuclear weapons, and more in the October issue of <em>Scientific American</em></p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "4588798",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/19878FF3-2BFE-4F9E-A99A596C706AB7F1_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["<em>Scientific American</em>, October 2022"]
+        }
+      ],
+      "dc:creator": ["Laura Helmuth"],
+      "category": [
+        "From the Editor",
+        "Environment",
+        "Pollution",
+        "Mind & Brain",
+        "Social Sciences",
+        "History",
+        "Space & Physics"
+      ]
+    },
+    {
+      "title": [
+        "U.S. Kids Are Falling behind Global Competition, but Brain Science Shows How to Catch Up"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/u-s-kids-are-falling-behind-global-competition-but-brain-science-shows-how-to-catch-up/"
+      ],
+      "guid": [
+        {
+          "_": "B16D41DA-7614-4FA9-887D06C018AE88C6",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 14 Sep 2022 13:00:00 GMT"],
+      "description": [
+        "<p>Paid parental leave and high-quality child care improve children&rsquo;s brain development and prospects for a better future</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "354494",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/7D7116D9-8BC3-4CBF-A6B7FA7C0FF87E31_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Islenia Milien"]
+        }
+      ],
+      "dc:creator": ["Dana Suskind, Lydia Denworth"],
+      "category": ["Features", "Mind & Brain", "Neuroscience"]
+    },
+    {
+      "title": [
+        "Cockatoos Work to Outsmart Humans in Escalating Garbage Bin Wars"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/cockatoos-work-to-outsmart-humans-in-escalating-garbage-bin-wars/"
+      ],
+      "guid": [
+        {
+          "_": "E9B502DE-91D6-4EE1-89DCC9B3E2F88E94",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 12 Sep 2022 15:00:00 GMT"],
+      "description": [
+        "<p>An innovation arms race may rage between birds and humans on the suburban streets of southeastern Australia&nbsp;</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "472482",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/EAA6D5E1-8CB5-4A05-A63D328B6983A110_source.jpg",
+            "width": "790"
+          },
+          "media:description": [
+            {
+              "_": "Sulphur-crested Cockatoo lifting garbage bin lid.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Ken Griffiths/Alamy Stock Photo"]
+        }
+      ],
+      "dc:creator": ["Darren Incorvaia"],
+      "category": ["Biology", "Animals", "Mind & Brain", "Behavior"]
+    },
+    {
+      "title": ["Why Kids Are Afraid to Ask for Help"],
+      "link": [
+        "https://www.scientificamerican.com/article/why-kids-are-afraid-to-ask-for-help/"
+      ],
+      "guid": [
+        {
+          "_": "AF7C276B-0046-4BA2-AFEC878836D83913",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 12 Sep 2022 13:00:00 GMT"],
+      "description": [
+        "<p>Children as young as seven years old may hesitate to ask questions in school because they worry classmates will think they are &ldquo;stupid&rdquo;</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "802154",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/B58C3FB5-0EEB-46CB-8FDA42CA0C109AA1_source.jpeg",
+            "width": "790"
+          },
+          "media:credit": ["Olga Hashim"]
+        }
+      ],
+      "dc:creator": ["Kayla Good, Alex Shaw"],
+      "category": ["Mind Matters", "Mind & Brain", "Psychology"]
+    },
+    {
+      "title": ["Spiky 'Sleep Spindles' Linked to Acts of Learning"],
+      "link": [
+        "https://www.scientificamerican.com/article/spiky-lsquo-sleep-spindles-rsquo-linked-to-acts-of-learning/"
+      ],
+      "guid": [
+        {
+          "_": "DD2D9213-428D-4281-A3E33A6EC7E58901",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 02 Sep 2022 10:45:00 GMT"],
+      "description": [
+        "<p>A study shows how bursts of brain activity during sleep could boost memory</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "127365",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/0553A2B6-FF4D-4224-8A1715DAED47C148_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Thomas Fuchs"]
+        }
+      ],
+      "dc:creator": ["Rebecca Sohn"],
+      "category": ["Advances", "Mind & Brain", "Neuroscience"]
+    },
+    {
+      "title": ["A Hormone May Boost Cognition in Down Syndrome"],
+      "link": [
+        "https://www.scientificamerican.com/article/a-hormone-may-boost-cognition-in-down-syndrome/"
+      ],
+      "guid": [
+        {
+          "_": "EB900FD9-D7CB-4F6C-98ABA47F6AFBACE6",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 01 Sep 2022 18:00:00 GMT"],
+      "description": [
+        "<p>The hormone GnRH may have potential for improving language, memory and other intellectual functions in people with Down syndrome, according to a pilot study</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "951606",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/10388F17-B1C2-4636-85299DFC37672763_source.jpg",
+            "width": "790"
+          },
+          "media:description": [
+            {
+              "_": "In most people with Down syndrome, the 21st set of chromosomes has three copies instead of two.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Kateryna Kon/Science Photo Library/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Simon Makin"],
+      "category": ["Mind & Brain", "Neuroscience"]
+    },
+    {
+      "title": ["Changing Perceptions about Harm Can Temper Moral Outrage"],
+      "link": [
+        "https://www.scientificamerican.com/article/changing-perceptions-about-harm-can-temper-moral-outrage/"
+      ],
+      "guid": [
+        {
+          "_": "3280B566-022E-48DF-B601F2D9FFD48FB7",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 01 Sep 2022 14:00:00 GMT"],
+      "description": [
+        "<p>If you can find ways to make an activity appear safer, you can also make it more morally acceptable to some people</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "7350054",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/7558C672-AC74-4C35-ADC4EE79863A568B_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Malte Mueller/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Jordan Wylie, Ana Gantman"],
+      "category": ["Mind & Brain", "Psychology"]
+    },
+    {
+      "title": ["Making Computer Chips Act More like Brain Cells"],
+      "link": [
+        "https://www.scientificamerican.com/article/making-computer-chips-act-more-like-brain-cells/"
+      ],
+      "guid": [
+        {
+          "_": "982C7EA3-0768-4A4A-942D2218F1BFE84A",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Mon, 29 Aug 2022 10:45:00 GMT"],
+      "description": [
+        "<p>Flexible organic circuits that mimic biological neurons could increase processing speed and might someday hook right into your head</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "5005472",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/32710234-1070-49A8-80DAF0809E245FCE_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["wigglestick/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Kurt Kleiner, Knowable Magazine"],
+      "category": [
+        "Mind & Brain",
+        "Memory",
+        "Neuroscience",
+        "Technology",
+        "Computing"
+      ]
+    },
+    {
+      "title": ["See the Top Entries in the Art of Neuroscience Competition"],
+      "link": [
+        "https://www.scientificamerican.com/article/see-the-top-entries-in-the-art-of-neuroscience-competition1/"
+      ],
+      "guid": [
+        {
+          "_": "4EA688EC-DAD7-44DC-B0A34D9E223902BB",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 26 Aug 2022 15:00:00 GMT"],
+      "description": [
+        "<p>Van Gogh and Ram&oacute;n y Cajal, like you&rsquo;ve never seen them before, in the annual Art of Neuroscience Competition</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "10975946",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/A22DD6FF-A017-450A-8A59B0472D10E4A0_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Sean Keating"]
+        }
+      ],
+      "dc:creator": ["Fionna M. D. Samuels, Liz Tormes"],
+      "category": [
+        "Mind & Brain",
+        "Consciousness",
+        "Creativity",
+        "Neuroscience"
+      ]
+    },
+    {
+      "title": ["Doctors Need to Learn to Talk about Suicide"],
+      "link": [
+        "https://www.scientificamerican.com/article/doctors-need-to-learn-to-talk-about-suicide/"
+      ],
+      "guid": [
+        {
+          "_": "BBF5F471-DBAC-4DCA-807FE73C8E49330E",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 26 Aug 2022 11:00:00 GMT"],
+      "description": [
+        "<p>Medical schools have neglected suicide, one of the leading causes of death. Teaching specific skills, including empathy, can help doctors save lives</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "4282124",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/3517E381-9534-463C-86F288A5E0668E1A_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["insta_photos/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Rodolfo Bonnin, Leonard M. Gralnik"],
+      "category": ["Health", "Mind & Brain", "Mental Health"]
+    },
+    {
+      "title": ["Eye Tests May Help Diagnose Alzheimer's Disease"],
+      "link": [
+        "https://www.scientificamerican.com/article/eye-tests-may-help-diagnose-alzheimer-rsquo-s-disease/"
+      ],
+      "guid": [
+        {
+          "_": "5E960E11-EDD1-43DD-93A05C6C8ED2F7D3",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Tue, 23 Aug 2022 10:45:00 GMT"],
+      "description": [
+        "<p>A host of different retinal exams are being evaluated as potential Alzheimer&rsquo;s screening methods</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "31315",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/6550B681-3728-4012-861F133088D8BF5A_source.jpg",
+            "width": "790"
+          },
+          "media:description": [
+            {
+              "_": "Human retinas, such as the one shown here, may reveal signs of Alzheimer's disease.",
+              "$": { "type": "html" }
+            }
+          ],
+          "media:credit": ["Jason Edwards/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Diana Kwon"],
+      "category": ["Advances", "Health", "Mind & Brain", "Memory"]
+    },
+    {
+      "title": [
+        "In Schools, Honest Talk about Racism Can Reduce Discrimination"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/in-schools-honest-talk-about-racism-can-reduce-discrimination/"
+      ],
+      "guid": [
+        {
+          "_": "39FEFFF9-D838-4B79-AFCB9C1F830FDE8F",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 19 Aug 2022 14:00:00 GMT"],
+      "description": [
+        "<p>New laws make it harder for teachers to discuss racism and inequality, but psychological evidence shows these conversations dispel causes of bias and distress</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "7598749",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/3F91157A-46E6-4210-A6388931D982442A_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Maskot/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Camilla Mutoni Griffiths, Nicky Sullivan"],
+      "category": ["Mind & Brain", "Psychology"]
+    },
+    {
+      "title": ["Newfound Brain Switch Labels Experiences as Good or Bad"],
+      "link": [
+        "https://www.scientificamerican.com/article/newfound-brain-switch-labels-experiences-as-good-or-bad/"
+      ],
+      "guid": [
+        {
+          "_": "D38CA74F-AC7F-45A2-9E0D4B3824294A30",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Fri, 12 Aug 2022 10:45:00 GMT"],
+      "description": [
+        "<p>A molecule tells the brain whether to put a positive or negative spin on events. Mental disorders may result when the up/down labeling goes awry</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "2261763",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/18BDF2D1-4D89-467D-835C7CB59718F0C5_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Maria Ponomariova/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Ingrid Wickelgren"],
+      "category": ["Mind & Brain", "Neuroscience"]
+    },
+    {
+      "title": ["Why Thinking Hard Wears You Out"],
+      "link": [
+        "https://www.scientificamerican.com/article/why-thinking-hard-wears-you-out/"
+      ],
+      "guid": [
+        {
+          "_": "FDDA6187-50CC-4528-AD3155DF930F458C",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Thu, 11 Aug 2022 18:10:00 GMT"],
+      "description": [
+        "<p>Concentrating for long periods builds up chemicals that disrupt brain functioning.</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "4552378",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/19E1D118-5D32-44FA-8E2A890006203100_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["Yobro10/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Diana Kwon"],
+      "category": ["Mind & Brain", "Psychology"]
+    },
+    {
+      "title": [
+        "When Students Acquire Spatial Skills, Their Verbal Abilities Get a Boost"
+      ],
+      "link": [
+        "https://www.scientificamerican.com/article/when-students-acquire-spatial-skills-their-verbal-abilities-get-a-boost/"
+      ],
+      "guid": [
+        {
+          "_": "4AB0DAB7-5E80-47A1-9EC5E8213FACADE8",
+          "$": { "isPermaLink": "false" }
+        }
+      ],
+      "pubDate": ["Wed, 10 Aug 2022 18:35:00 GMT"],
+      "description": [
+        "<p>Learning to visualize objects might improve thinking&nbsp;in words, a finding that could enhance teaching methods</p>"
+      ],
+      "media:content": [
+        {
+          "$": {
+            "expression": "full",
+            "fileSize": "5846603",
+            "height": "496",
+            "type": "image/jpeg",
+            "url": "https://static.scientificamerican.com/sciam/cache/file/70211717-2C78-4CB6-BDD300E27C479298_source.jpg",
+            "width": "790"
+          },
+          "media:credit": ["FatCamera/Getty Images"]
+        }
+      ],
+      "dc:creator": ["Emily Willingham"],
+      "category": ["Mind & Brain", "Psychology"]
+    }
+  ]
+}

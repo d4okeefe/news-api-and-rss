@@ -45,7 +45,7 @@ espn_addresses.forEach((itm, idx) => {
       .get(itm.url_ext)
       .then((response) => {
         var parseString = require('xml2js').parseString
-        parseString(response.data, function (err, result) {
+        parseString(response.data, { trim: true }, function (err, result) {
           const extractedData = result['rss']['channel'][0]
           // console.log(extractedData)
           res.json(extractedData)

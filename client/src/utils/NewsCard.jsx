@@ -11,6 +11,12 @@ const NewsCardProps = {
   date: '',
 }
 
+function removeTags(str) {
+  if (str === null || str === '') return false
+  else str = str.toString()
+  return str.replace(/(<([^>]+)>)/gi, '')
+}
+
 /**
  *
  * @param {NewsCardProps} props
@@ -33,7 +39,7 @@ export default function NewsCard(props) {
           <h5 className="card-title">{props.title}</h5>
         </a>
         <p className="card-text" align="justify">
-          {props.description}
+          {removeTags(props.description)}
         </p>
         <p className="card-text d-flex justify-content-between">
           <span>{props.byline}</span>

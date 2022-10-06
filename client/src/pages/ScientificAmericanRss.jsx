@@ -1,4 +1,4 @@
-import { Suspense, useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 
 import Col from 'react-bootstrap/Col'
 import NewsCard from '../utils/NewsCard'
@@ -6,21 +6,17 @@ import Row from 'react-bootstrap/Row'
 import { format } from 'date-fns'
 
 const parseDate = function (d) {
-  try {
-    let date = new Date(d)
-    return format(date, 'd MMM yyyy')
-  } catch {
-    return d
-  }
+  let date = new Date(d)
+  return format(date, 'd MMM yyyy')
 }
 
-export default function WaPoNews(props) {
+export default (props) => {
   const [data, setData] = useState(null)
 
-  const wa_po_url = props.url
+  const wired_url = props.url
 
   useEffect(() => {
-    fetch(wa_po_url)
+    fetch(wired_url)
       .then((res) => res.json())
       .then((data) => {
         setData(data.item)
@@ -30,22 +26,20 @@ export default function WaPoNews(props) {
   return (
     <div className="container">
       <h4 className="title-header">{props.title}</h4>
-      <Suspense fallback={<h1>Loading ... </h1>}>
-        <Row xs={1} md={1} lg={2}>
-          {data &&
-            data
-              // .filter((r, i) => r['dc:creator'][0] !== `Amy B Wang`)
-              .filter(
-                (r, index, arr) =>
-                  arr.findIndex((r2) => r.title[0] === r2.title[0]) === index,
-              )
+      <Row xs={1} md={1} lg={2}>
+        {!data
+          ? 'Loading'
+          : data
+              .filter((r) => {
+                return !(r.title[0].trim() === '')
+              })
               .map((r, index) => (
                 <Col key={index}>
                   <NewsCard
                     image_url={
-                      r['media:thumbnail'] && r['media:thumbnail'][0].$.url
+                      r['media:content'] && r['media:content'][0].$.url
                     }
-                    image_caption=""
+                    image_caption={r['media:keywords']}
                     url={r.link}
                     title={r.title}
                     description={r.description}
@@ -54,8 +48,7 @@ export default function WaPoNews(props) {
                   />
                 </Col>
               ))}
-        </Row>
-      </Suspense>
+      </Row>
     </div>
   )
 }

@@ -1,0 +1,1254 @@
+{
+  "title": ["Technology"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "http://www.washingtonpost.com/pb/business/technology/?resType=rss",
+        "rel": "self",
+        "type": "application/rss+xml"
+      }
+    }
+  ],
+  "link": ["http://www.washingtonpost.com/pb/business/technology/"],
+  "description": ["Washington Post technology news."],
+  "language": ["en-US"],
+  "sy:updatePeriod": ["hourly"],
+  "sy:updateFrequency": ["1"],
+  "br": ["", "", "", "", ""],
+  "item": [
+    {
+      "title": [
+        "For Google’s Pixel 7 phones, fixing little annoyances is a big deal"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/06/google-pixel-7-pixel-watch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Thu, 6 Oct 2022 10:45:00 EDT"],
+      "dc:creator": ["Chris Velazco"],
+      "description": [
+        "Google unveiled a pair of new Pixel 7 smartphones on Thursday and they're designed, in part, to fix mundane annoyances of phone life we’ve learned to put up with."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/06/google-pixel-7-pixel-watch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Prominent influencer sues TikTok over ads she says misused her image "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/06/bethenny-tiktok-influencer-ad-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Thu, 6 Oct 2022 09:13:59 EDT"],
+      "dc:creator": ["Taylor Lorenz"],
+      "description": [
+        "Online influencer and reality TV star Bethenny Frankel alleges that TikTok moved too slowly to remove fake ads that showed her promoting a product she had nothing to do with."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/06/bethenny-tiktok-influencer-ad-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Former Uber security chief convicted of covering up 2016 data breach"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 18:04:36 EDT"],
+      "dc:creator": ["Joseph Menn"],
+      "description": [
+        "The case was the first brought against a corporate executive over a breach by outsiders. It also may be the last — the payoff that prompted the charges has become common practice in hacking cases."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "For Google’s Pixel 7 phones, fixing little annoyances is a big deal"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/06/google-pixel-7-pixel-watch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Thu, 6 Oct 2022 10:45:00 EDT"],
+      "dc:creator": ["Chris Velazco"],
+      "description": [
+        "Google unveiled a pair of new Pixel 7 smartphones on Thursday and they're designed, in part, to fix mundane annoyances of phone life we’ve learned to put up with."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3T2OB7FGFE6NGSRR2C25V26JM.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/06/google-pixel-7-pixel-watch/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Prominent influencer sues TikTok over ads she says misused her image "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/06/bethenny-tiktok-influencer-ad-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Thu, 6 Oct 2022 09:13:59 EDT"],
+      "dc:creator": ["Taylor Lorenz"],
+      "description": [
+        "Online influencer and reality TV star Bethenny Frankel alleges that TikTok moved too slowly to remove fake ads that showed her promoting a product she had nothing to do with."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T2QZVQGEPRA33MSORVMMGV54DE.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/06/bethenny-tiktok-influencer-ad-lawsuit/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Former Uber security chief convicted of covering up 2016 data breach"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 18:04:36 EDT"],
+      "dc:creator": ["Joseph Menn"],
+      "description": [
+        "The case was the first brought against a corporate executive over a breach by outsiders. It also may be the last — the payoff that prompted the charges has become common practice in hacking cases."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2P7TX6BVQMI63IGWIFJJTP7L2U.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/05/uber-obstruction-sullivan-hacking/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "SpaceX launch is latest sign of lasting Russia-U.S. space partnership"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/05/spacex-launch-russia-nasa/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 15:03:15 EDT"],
+      "dc:creator": ["Christian Davenport"],
+      "description": [
+        "The latest SpaceX launch included two NASA astronauts, one Russian cosmonaut and one Japanese astronaut."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_6acecc0a8ccf41cc8d9e79e7f9fe5d71_name_oct9_spacex_falcon9.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_6acecc0a8ccf41cc8d9e79e7f9fe5d71_name_oct9_spacex_falcon9.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_6acecc0a8ccf41cc8d9e79e7f9fe5d71_name_oct9_spacex_falcon9.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_6acecc0a8ccf41cc8d9e79e7f9fe5d71_name_oct9_spacex_falcon9.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/05/spacex-launch-russia-nasa/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": ["Here’s what Elon Musk has said about his plans for Twitter"],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/05/10/elon-musk-twitter-plans/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 12:42:10 EDT"],
+      "dc:creator": ["Rachel Lerman"],
+      "description": [
+        "Elon Musk has said he wants to promote free speech on Twitter and open up the algorithm to increase transparency. Here's what else he has shared about his plans."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WD7AQFWLAAI6ZN7OOTYJ3AT4UY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WD7AQFWLAAI6ZN7OOTYJ3AT4UY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WD7AQFWLAAI6ZN7OOTYJ3AT4UY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WD7AQFWLAAI6ZN7OOTYJ3AT4UY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/05/10/elon-musk-twitter-plans/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": ["‘Overwatch 2’ launch plagued by DDoS attacks and disconnects"],
+      "link": [
+        "https://www.washingtonpost.com/video-games/2022/10/05/overwatch-2-servers-ddos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 11:58:12 EDT"],
+      "dc:creator": ["Jonathan Lee"],
+      "description": [
+        "The highly anticipated sequel suffered another setback in its development just as it went live."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LR45EEVNXZFDBE5JCOIOTLUMUE.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LR45EEVNXZFDBE5JCOIOTLUMUE.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LR45EEVNXZFDBE5JCOIOTLUMUE.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LR45EEVNXZFDBE5JCOIOTLUMUE.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/video-games/2022/10/05/overwatch-2-servers-ddos/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Political spam is out of control. Now Gmail is about to make it worse."
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/05/stop-political-spam-gmail/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 09:25:43 EDT"],
+      "dc:creator": ["Geoffrey A. Fowler"],
+      "description": [
+        "Campaign emails will soon get to bypass Gmail’s spam filter. Here's how you can banish them from your inbox and make democracy less annoying online."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZV5SGAM4BDPTJSQWSVKFAKMZI.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZV5SGAM4BDPTJSQWSVKFAKMZI.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZV5SGAM4BDPTJSQWSVKFAKMZI.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZV5SGAM4BDPTJSQWSVKFAKMZI.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/05/stop-political-spam-gmail/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Sharper than on PS4, ‘Nier: Automata’ on Switch remains virtuosic"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/video-games/reviews/nier-automata-switch-port/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 09:00:28 EDT"],
+      "dc:creator": ["Gene Park"],
+      "description": [
+        "One of the best games ever made lands on Nintendo's handheld."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEDH4STSDJDQDFMONJF66BGOAI.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEDH4STSDJDQDFMONJF66BGOAI.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEDH4STSDJDQDFMONJF66BGOAI.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEDH4STSDJDQDFMONJF66BGOAI.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/video-games/reviews/nier-automata-switch-port/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Elon Musk may soon own Twitter. What might it look like when he does?"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/05/twitter-elon-musk-future-trump/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Wed, 5 Oct 2022 06:28:38 EDT"],
+      "dc:creator": ["Elizabeth Dwoskin"],
+      "description": [
+        "The Tesla CEO’s fresh offer to buy Twitter for $44 billion represents a win for the firm’s board. But Musk is almost sure to transform the company."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6RQ6KCEEII63PQXRHF6NOGAUU.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6RQ6KCEEII63PQXRHF6NOGAUU.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6RQ6KCEEII63PQXRHF6NOGAUU.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K6RQ6KCEEII63PQXRHF6NOGAUU.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/05/twitter-elon-musk-future-trump/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "New Cyberpunk and Witcher video games announced by CD Projekt"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/video-games/2022/10/04/new-cyberpunk-game-witcher-trilogy-cd-projekt-red/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 17:09:35 EDT"],
+      "dc:creator": ["Jonathan Lee"],
+      "description": [
+        "In a Twitter thread, the company revealed Orion, Polaris, Canis Majoris and other codenames for upcoming Witcher and Cyberpunk projects."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BMZOHPBXFFGNLKQRV3DDSGJSQ.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BMZOHPBXFFGNLKQRV3DDSGJSQ.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BMZOHPBXFFGNLKQRV3DDSGJSQ.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2BMZOHPBXFFGNLKQRV3DDSGJSQ.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/video-games/2022/10/04/new-cyberpunk-game-witcher-trilogy-cd-projekt-red/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Elon Musk offers to buy Twitter for original price, weeks before trial"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/04/elon-musk-twitter-deal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 17:03:14 EDT"],
+      "dc:creator": ["Faiz Siddiqui"],
+      "description": [
+        "The offer marks the latest twist in a months-long campaign by Musk to acquire the influential social media platform."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_d67fc90c95194edb8dde2cb332a3979e_name_musk.png&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_d67fc90c95194edb8dde2cb332a3979e_name_musk.png&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_d67fc90c95194edb8dde2cb332a3979e_name_musk.png&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2022/t_d67fc90c95194edb8dde2cb332a3979e_name_musk.png&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/04/elon-musk-twitter-deal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Facebook closes down service it hoped would compete with Substack"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/04/facebook-bulletin-newsletter-close/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 16:53:45 EDT"],
+      "dc:creator": ["Taylor Lorenz"],
+      "description": [
+        "The decision to shut down Bulletin is an indication that Facebook found a subscriber-focused site was not as lucrative as hoped."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3EF7RCCYUI63PQXRHF6NOGAUU.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3EF7RCCYUI63PQXRHF6NOGAUU.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3EF7RCCYUI63PQXRHF6NOGAUU.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O3EF7RCCYUI63PQXRHF6NOGAUU.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/04/facebook-bulletin-newsletter-close/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": ["What Europe’s push to simplify chargers means for you "],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/06/10/europe-usb-c-charging-rule-iphone-what-it-means/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 12:45:51 EDT"],
+      "dc:creator": ["Chris Velazco"],
+      "description": [
+        "Europe’s push to end cord confusion could extend well beyond its borders."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EEUFZOHIIMI6ZJBCCG53SHNTBM.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EEUFZOHIIMI6ZJBCCG53SHNTBM.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EEUFZOHIIMI6ZJBCCG53SHNTBM.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EEUFZOHIIMI6ZJBCCG53SHNTBM.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/06/10/europe-usb-c-charging-rule-iphone-what-it-means/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Chipmaker Micron to build $20 billion N.Y. factory amid semiconductor boom"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/04/micron-chip-factory-new-york/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 11:16:55 EDT"],
+      "dc:creator": ["Jeanne Whalen"],
+      "description": [
+        "Micron will invest $20 billion in a new chip factory, and potentially up to $100 billion in additional plants, in Upstate New York in another sign of a semiconductor manufacturing boom."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F34NORSALEI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F34NORSALEI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F34NORSALEI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F34NORSALEI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/04/micron-chip-factory-new-york/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Sheryl Sandberg’s next chapter: Pledging millions to fight abortion bans"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/04/sandberg-facebook-meta-aclu-abortion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 08:58:46 EDT"],
+      "dc:creator": ["Elizabeth Dwoskin"],
+      "description": [
+        "Sandberg's announcement of her donation to the ACLU to fight abortion bans comes just a few days after she leaves Meta."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFTYE2S4AN5WNGDPEYWF3I3HLI.JPG&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/04/sandberg-facebook-meta-aclu-abortion/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "In bed with the Apple Watch Series 8 and its new temperature sensor "
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/04/apple-watch-series-8-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Tue, 4 Oct 2022 07:00:58 EDT"],
+      "dc:creator": ["Chris Velazco"],
+      "description": [
+        "Apple has crammed even more sensors into its new Watch 8 series, all in the hopes of offering a more complete picture of your health. Are they worth it?"
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNS73TB7QQI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNS73TB7QQI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNS73TB7QQI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNS73TB7QQI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/04/apple-watch-series-8-review/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "U.S. crafting new rules aimed at curbing China’s advanced computing"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/national-security/2022/10/03/us-fdpr-china-chips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 21:52:21 EDT"],
+      "dc:creator": ["Ellen Nakashima"],
+      "description": [
+        "The United States is preparing to use a draconian export ban called the foreign direct product rule to deprive China of advanced computing chips."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXIZHYWKYEI6XBYIMSMR6KWPFA.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXIZHYWKYEI6XBYIMSMR6KWPFA.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXIZHYWKYEI6XBYIMSMR6KWPFA.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EXIZHYWKYEI6XBYIMSMR6KWPFA.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/national-security/2022/10/03/us-fdpr-china-chips/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Labor board says Activision withheld raises from union activists"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/video-games/2022/10/03/activision-raven-union-raises-nlrb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 19:20:35 EDT"],
+      "dc:creator": ["Shannon Liao"],
+      "description": [
+        "The National Labor Relations Board found merit in a claim Activision Blizzard withheld raises from Raven QA testers seeking to unionize."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2NKTH2KMTVC2NPTGQRZMZFQOOQ.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2NKTH2KMTVC2NPTGQRZMZFQOOQ.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2NKTH2KMTVC2NPTGQRZMZFQOOQ.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2NKTH2KMTVC2NPTGQRZMZFQOOQ.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/video-games/2022/10/03/activision-raven-union-raises-nlrb/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": [
+        "Fight over social media’s role in terror content goes to Supreme Court"
+      ],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/03/scotus-section-230-supreme-court/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 15:10:14 EDT"],
+      "dc:creator": ["Rachel Lerman"],
+      "description": [
+        "A case involving Google and an ISIS attack in Paris in 2015 will give the high court a chance to review Section 230, the controversial law that shields websites from liability for users’ posts."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBQFYRSA3MI63DDOSODL27GYEY.jpg&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBQFYRSA3MI63DDOSODL27GYEY.jpg&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBQFYRSA3MI63DDOSODL27GYEY.jpg&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/jpeg",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBQFYRSA3MI63DDOSODL27GYEY.jpg&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/03/scotus-section-230-supreme-court/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    },
+    {
+      "title": ["How to vet mental health advice on TikTok and Instagram"],
+      "link": [
+        "https://www.washingtonpost.com/technology/2022/10/03/tiktok-instagram-mental-health/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ],
+      "pubDate": ["Mon, 3 Oct 2022 07:00:00 EDT"],
+      "dc:creator": ["Tatum Hunter"],
+      "description": [
+        "Not all information about mental health on TikTok, Instagram and YouTube is helpful and true. Here are six questions to ask as you scroll."
+      ],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TP4YVEX4QZAVHKEMFOVD3NCSAY.png&w=606",
+            "width": "606"
+          }
+        }
+      ],
+      "media:group": [
+        {
+          "media:content": [
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TP4YVEX4QZAVHKEMFOVD3NCSAY.png&w=90",
+                "width": "90"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TP4YVEX4QZAVHKEMFOVD3NCSAY.png&w=606",
+                "width": "606"
+              }
+            },
+            {
+              "$": {
+                "medium": "image",
+                "type": "image/png",
+                "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TP4YVEX4QZAVHKEMFOVD3NCSAY.png&w=1024",
+                "width": "1024"
+              }
+            }
+          ]
+        }
+      ],
+      "guid": [
+        "https://www.washingtonpost.com/technology/2022/10/03/tiktok-instagram-mental-health/?utm_source=rss&utm_medium=referral&utm_campaign=wp_business-technology"
+      ]
+    }
+  ]
+}

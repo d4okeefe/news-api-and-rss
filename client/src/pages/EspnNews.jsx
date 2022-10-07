@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react'
 import Col from 'react-bootstrap/Col'
 import NewsCard from '../utils/NewsCard'
 import Row from 'react-bootstrap/Row'
+import Spinner from 'react-bootstrap/Spinner'
 import { format } from 'date-fns'
 
 const parseDate = function (d) {
@@ -17,10 +18,8 @@ const parseDate = function (d) {
 export default function EspnNews(props) {
   const [data, setData] = useState(null)
 
-  const espn_url = props.url
-
   useEffect(() => {
-    fetch(espn_url)
+    fetch(props.url)
       .then((res) => res.json())
       .then((data) => {
         setData(data.item)
@@ -31,11 +30,16 @@ export default function EspnNews(props) {
     <div className="container">
       <h4 className="title-header">{props.title}</h4>
       <Row xs={1} md={1} lg={2}>
-        {data &&
+        {!data ? (
+          <Spinner animation="border" role="status">
+            <span className="visually-hidden">Loading...</span>
+          </Spinner>
+        ) : (
           data
-            .filter((r) => {
-              return !(r.title[0].trim() === '')
-            })
+            .filter(
+              (r, index, arr) =>
+                arr.findIndex((r2) => r.title[0] === r2.title[0]) === index,
+            )
             .map((r, index) => (
               <Col key={index}>
                 <NewsCard
@@ -43,12 +47,15 @@ export default function EspnNews(props) {
                   image_caption=""
                   url={r.link}
                   title={r.title}
-                  description={r.description}
+                  description={
+                    r.description[0].trim() !== 'Read more' ? r.description : ''
+                  }
                   byline={r['dc:creator']}
                   date={parseDate(r.pubDate)}
                 />
               </Col>
-            ))}
+            ))
+        )}
       </Row>
     </div>
   )

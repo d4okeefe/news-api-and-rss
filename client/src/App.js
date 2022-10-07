@@ -1,21 +1,17 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
-import {
-  EspnData,
-  NyerData,
-  NytData,
-  SciAmData,
-  WiredData,
-} from './Data/NewsData'
-
 import Container from 'react-bootstrap/Container'
+import { EspnData } from './Data/EspnData'
 import Nav from 'react-bootstrap/Nav'
 import Navbar from 'react-bootstrap/Navbar'
-import NewsNavDropDown from './utils/NewsNavDropDown'
-import NewsNavDropdown2 from './utils/NewsNavDropDown2'
+import NewsNavDropdown from './utils/NewsNavDropdown'
+import { NyerData } from './Data/NyerData'
+import { NytData } from './Data/NytData'
 import Routes from './components/Routes'
+import { SciAmData } from './Data/SciAmData'
 import { WapoData } from './Data/WapoData'
+import { WiredData } from './Data/WiredData'
 
 // import { useTracking } from 'react-tracking'
 
@@ -29,39 +25,39 @@ function App() {
             <Navbar.Toggle aria-controls="responsive-navbar-nav"></Navbar.Toggle>
             <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="me-auto">
-                <NewsNavDropDown
-                  title={NytData.newsdropdown.title}
-                  items={NytData.newsdropdown.items}
+                <NewsNavDropdown
+                  newspaper_title={NytData.newspaper_title}
+                  sections={NytData.sections}
                 />
               </Nav>
               <Nav className="me-auto">
-                <NewsNavDropdown2
+                <NewsNavDropdown
                   newspaper_title={WapoData.newspaper_title}
                   sections={WapoData.sections}
                 />
               </Nav>
               <Nav className="me-auto">
-                <NewsNavDropDown
-                  title={NyerData.newsdropdown.title}
-                  items={NyerData.newsdropdown.items}
+                <NewsNavDropdown
+                  newspaper_title={NyerData.newspaper_title}
+                  sections={NyerData.sections}
                 />
               </Nav>
               <Nav className="me-auto">
-                <NewsNavDropDown
-                  title={EspnData.newsdropdown.title}
-                  items={EspnData.newsdropdown.items}
+                <NewsNavDropdown
+                  newspaper_title={EspnData.newspaper_title}
+                  sections={EspnData.sections}
                 />
               </Nav>
               <Nav className="me-auto">
-                <NewsNavDropDown
-                  title={WiredData.newsdropdown.title}
-                  items={WiredData.newsdropdown.items}
+                <NewsNavDropdown
+                  newspaper_title={WiredData.newspaper_title}
+                  sections={WiredData.sections}
                 />
               </Nav>
               <Nav className="me-auto">
-                <NewsNavDropDown
-                  title={SciAmData.newsdropdown.title}
-                  items={SciAmData.newsdropdown.items}
+                <NewsNavDropdown
+                  newspaper_title={SciAmData.newspaper_title}
+                  sections={SciAmData.sections}
                 />
               </Nav>
             </Navbar.Collapse>

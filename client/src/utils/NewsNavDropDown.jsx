@@ -1,25 +1,31 @@
 import { Link } from 'wouter'
-import Nav from 'react-bootstrap/Nav'
 import NavDropdown from 'react-bootstrap/NavDropdown'
 
 const NewsNavDropdownProps = {
-  title: '',
-  items: [],
+  newspaper_title: '',
+  sections: [],
 }
 
 /**
  *
  * @param {NewsNavDropdownProps} props
  */
-export default (props) => {
+export default function NewsNavDropdown(props) {
+  let key_num_newsnavdropdown = 0
+  let key_num_newsnavdropdown_item = 0
+
   return (
-    <NavDropdown id="basic-nav-dropdown" title={props.title}>
-      {props.items.map((r, index) => (
+    <NavDropdown
+      key={key_num_newsnavdropdown++}
+      id="basic-nav-dropdown"
+      title={props.newspaper_title}
+    >
+      {props.sections.map((r, i) => (
         <>
-          <NavDropdown.Item key={index}>
-            <Link href={r.link}>{r.title}</Link>
+          <NavDropdown.Item key={key_num_newsnavdropdown_item++}>
+            <Link href={r.url}>{r.short_title}</Link>
           </NavDropdown.Item>
-          {index % 3 === 2 && index + 1 !== props.items.length && (
+          {i % 3 === 2 && i + 1 !== props.sections.length && (
             <NavDropdown.Divider></NavDropdown.Divider>
           )}
         </>

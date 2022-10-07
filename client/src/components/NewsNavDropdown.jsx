@@ -1,10 +1,10 @@
 import { Link } from 'wouter'
 import NavDropdown from 'react-bootstrap/NavDropdown'
 
-const NewsNavDropdownProps = {
-  newspaper_title: '',
-  sections: [],
-}
+// const NewsNavDropdownProps = {
+//   newspaper_title: '',
+//   sections: [],
+// }
 
 /**
  *

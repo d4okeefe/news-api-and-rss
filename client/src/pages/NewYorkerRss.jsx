@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 
 import Col from 'react-bootstrap/Col'
-import NewsCard from '../utils/NewsCard'
+import NewsCard from '../components/NewsCard'
 import Row from 'react-bootstrap/Row'
 import Spinner from 'react-bootstrap/Spinner'
 import { format } from 'date-fns'

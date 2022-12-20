@@ -86,7 +86,10 @@ nyt_addresses
             'api-key': api_key,
           },
         })
-        .then((response) => res.json(response.data.response.docs))
+        .then((response) => {
+          // console.log('typeof: ' + typeof result)
+          res.json(response.data.response.docs)
+        })
         .catch((err) => console.log(err))
     })
   })

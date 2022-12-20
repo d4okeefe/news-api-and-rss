@@ -13,13 +13,13 @@ const parseDate = function (d) {
 
 
 
-export default function WiredRss(props) {
+export default function EconomistRss(props) {
   const [data, setData] = useState(null)
 
-  const wired_url = props.url
+  const wired_url = 
 
   useEffect(() => {
-    fetch(wired_url)
+    fetch(props.url)
       .then((res) => res.json())
       .then((data) => {
         setData(data.item)

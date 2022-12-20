@@ -1,0 +1,1399 @@
+{
+  "title": ["Everything"],
+  "description": ["Channel Description"],
+  "link": ["https://www.newyorker.com/everything"],
+  "atom:link": [
+    {
+      "$": {
+        "href": "https://www.newyorker.com/feed/everything/rss",
+        "rel": "self",
+        "type": "application/atom+xml"
+      }
+    }
+  ],
+  "copyright": ["© Condé Nast 2022"],
+  "language": ["en-US"],
+  "lastBuildDate": ["Tue, 11 Oct 2022 19:53:32 +0000"],
+  "item": [
+    {
+      "title": [
+        "Roy Moore Was Banned from the Mall but Won His Defamation Suit"
+      ],
+      "link": [
+        "https://www.newyorker.com/news/letter-from-the-south/roy-moore-was-banned-from-the-mall-but-won-his-defamation-suit"
+      ],
+      "guid": [
+        { "_": "631f9548333a0d8ff7f29d53", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 17:04:58 +0000"],
+      "media:content": [""],
+      "description": [
+        "A jury in Alabama awarded the former Senate candidate more than eight million dollars. A lawyer for the defense says that the case reflects a worrying trend."
+      ],
+      "category": [
+        "News / Letter from the South",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": [
+        "Alabama, Roy Moore, Pedophilia, Lawsuits, Libel, Freedom of the Press"
+      ],
+      "dc:creator": ["Charles Bethea"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633d95876460886f83d96ab0/master/pass/Bethea-Roy-Moore.jpg",
+            "width": "2560",
+            "height": "1706"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Daily Cartoon: Tuesday, October 11th"],
+      "link": [
+        "https://www.newyorker.com/cartoons/daily-cartoon/tuesday-october-11th-not-guilty"
+      ],
+      "guid": [
+        { "_": "63458e7ed67fffa8daddeeae", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 16:11:35 +0000"],
+      "media:content": [""],
+      "description": [
+        "“We find the defendant not guilty, compared with you-know-who.”"
+      ],
+      "category": ["Cartoons / Daily Cartoon", "Humor"],
+      "media:keywords": ["Cartoons, Humor, Satire, Juries, Not Guilty, Guilty"],
+      "dc:creator": ["Julia Suits"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6345929c56a1863d5d9b4bdd/master/pass/A27179.jpeg",
+            "width": "1500",
+            "height": "1500"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Carrie Bradshaw Writes Her Column While Trapped in a Corn Maze"
+      ],
+      "link": [
+        "https://www.newyorker.com/humor/daily-shouts/carrie-bradshaw-writes-her-column-while-trapped-in-a-corn-maze"
+      ],
+      "guid": [
+        { "_": "633ecbf9eb8804a2771d37d9", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Women in their thirties have to be more realistic about love. Women in their thirties also have to be more realistic about their ability to finish a corn maze."
+      ],
+      "category": ["Humor / Daily Shouts", "Humor"],
+      "media:keywords": ["Humor, Satire, Sex and the City, Corn, Mazes, Fall"],
+      "dc:creator": ["Maeve Dunigan"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63405f2850d12e46ba872634/master/pass/Shouts-Dunigan-Carrie-Bradshaw.jpg",
+            "width": "2560",
+            "height": "1707"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Vices and Virtues of the Problematic-Male Confessional"],
+      "link": [
+        "https://www.newyorker.com/news/our-columnists/the-vices-and-virtues-of-the-problematic-male-confessional"
+      ],
+      "guid": [
+        { "_": "633f4c21c2b8b5c347e06c87", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "A strange new entry to the genre is “Predator,” an obsessive meditation on the 1987 Arnold Schwarzenegger blockbuster."
+      ],
+      "category": ["News / Our Columnists", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Authors, Books, Predator, Denis Johnson, Raymond Carver, Masculinity"
+      ],
+      "dc:creator": ["Jay Caspian Kang"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6344454ff88570e96e113ee6/master/pass/JCK-Predator-Book.jpg",
+            "width": "2560",
+            "height": "1719"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["A Man Who Loved Rattlesnakes"],
+      "link": [
+        "https://www.newyorker.com/news/afterword/a-man-who-loved-rattlesnakes"
+      ],
+      "guid": [
+        { "_": "63403a86c2b8b5c347e06cf8", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Eugene DeLeon liked that he was doing something helpful in town."
+      ],
+      "category": ["News / Afterword", "News / New Yorker Favorites"],
+      "media:keywords": ["Postscript, Texas, Snakes, Reptiles"],
+      "dc:creator": ["Susan Orlean"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63441fd5d67fffa8daddebc9/master/pass/Orlean_Final.jpg",
+            "width": "4671",
+            "height": "2669"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Herschel Walker Categorically Denies Ever Playing Football"],
+      "link": [
+        "https://www.newyorker.com/humor/borowitz-report/herschel-walker-categorically-denies-ever-playing-football"
+      ],
+      "guid": [
+        { "_": "63448359484e568a1eac08b6", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 21:34:54 +0000"],
+      "media:content": [""],
+      "description": [
+        "“And I will sue anyone who claims that I did,” Walker declared."
+      ],
+      "category": [
+        "Humor / Satire from The Borowitz Report",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": ["Satire, Humor, Football, Senate, Republicans"],
+      "dc:creator": ["Andy Borowitz"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/634485a742df18b22875353e/master/pass/Boro-Hershel-Walker.jpg",
+            "width": "2560",
+            "height": "1690"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["“Amsterdam” Is an Exemplary Work of Resistance Cinema"],
+      "link": [
+        "https://www.newyorker.com/culture/the-front-row/amsterdam-is-an-exemplary-work-of-resistance-cinema"
+      ],
+      "guid": [
+        { "_": "63440d34e69634d8d8e5dbf0", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 21:30:55 +0000"],
+      "media:content": [""],
+      "description": [
+        "Like the best of Chaplin’s work, David O. Russell’s star-crammed historical fantasy brims with both exuberance and rage."
+      ],
+      "category": ["Culture / The Front Row", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Film, Reviews, David O. Russell, Christian Bale, Margot Robbie, The Thirties, Conspiracies"
+      ],
+      "dc:creator": ["Richard Brody"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/634096d6228edc9783e004b9/master/pass/Amsterdam_dtlr2_4k_txtls_r709_still.088528.jpg",
+            "width": "2560",
+            "height": "1368"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Major Decisions Ahead for the Supreme Court"],
+      "link": [
+        "https://www.newyorker.com/podcast/politics-and-more/major-decisions-ahead-for-the-supreme-court"
+      ],
+      "guid": [
+        { "_": "63445eff484e568a1eac0878", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 21:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "David Remnick and Jeannie Suk Gersen discuss the cases that will be heard in the Court’s new term."
+      ],
+      "category": [
+        "Podcast / Politics and More Podcast",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": ["Podcasts, Politics, Supreme Court, Conservatism"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63446730ebf0c2ba7bdd40c5/master/pass/Politics-And-More-10-10.jpg",
+            "width": "2560",
+            "height": "1707"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Some Superhero Origin Stories"],
+      "link": [
+        "https://www.newyorker.com/humor/daily-shouts/some-superhero-origin-stories"
+      ],
+      "guid": [
+        { "_": "633b0b7d795134076d2a3d7a", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 18:00:00 +0000"],
+      "media:content": [""],
+      "description": ["“What about you, Batman?”"],
+      "category": ["Humor / Daily Shouts", "Humor"],
+      "media:keywords": [
+        "Humor, Satire, Illustrations, Spider-Man, Superman, Batman, Superheroes"
+      ],
+      "dc:creator": ["Eddie Ward"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63442e06f872deeff1c3aa69/master/pass/Batimage2.jpg",
+            "width": "2560",
+            "height": "1920"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Kyiv’s Peace Is Destroyed"],
+      "link": [
+        "https://www.newyorker.com/news/dispatch/kyivs-peace-is-destroyed"
+      ],
+      "guid": [
+        { "_": "63441789d67fffa8daddebc7", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 17:36:50 +0000"],
+      "media:content": [""],
+      "description": [
+        "After repelling Russia’s assault earlier this year, the city awakens to missile strikes."
+      ],
+      "category": ["News / Dispatch", "News / New Yorker Favorites"],
+      "media:keywords": ["Ukraine, War, Russia, Attack, Missiles"],
+      "dc:creator": ["Luke Mogelson"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63442015b5af9c9f372719e0/master/pass/Mogelson-Kyiv-OctoberAttack.jpg",
+            "width": "2560",
+            "height": "1708"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Using Distance to Fight Addiction and Estrangement"],
+      "link": [
+        "https://www.newyorker.com/culture/the-new-yorker-documentary/using-distance-to-fight-addiction-and-estrangement"
+      ],
+      "guid": [
+        { "_": "63404fad5c1031ef92eb43d1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 16:13:46 +0000"],
+      "media:content": [""],
+      "description": [
+        "An Indigenous Canadian’s unlikely journey to becoming an ultramarathoner, in Amar Chebib’s documentary short “The Runner.”"
+      ],
+      "category": [
+        "Culture / The New Yorker Documentary",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": [
+        "Video, Documentary, Running, Addiction, Indigenous People, Canada"
+      ],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340723c9eb801d1bdf646ba/master/pass/RUNNER_GIF_3.gif",
+            "width": "480",
+            "height": "360"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Daily Cartoon: Monday, October 10th"],
+      "link": [
+        "https://www.newyorker.com/cartoons/daily-cartoon/monday-october-10th-stress-acne"
+      ],
+      "guid": [
+        { "_": "63443252ebf0c2ba7bdd40c1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:18:02 +0000"],
+      "media:content": [""],
+      "description": [
+        "“Your acne is caused by stress, so I recommend reversing climate change, Supreme Court decisions, and the increasing cost of living. Or use ointment.”"
+      ],
+      "category": ["Cartoons / Daily Cartoon", "Humor"],
+      "media:keywords": ["Cartoons, Humor, Satire, Acne, Stress, Skin"],
+      "dc:creator": ["Mads Horwath"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/634433c5ebf0c2ba7bdd40c3/master/pass/A27178.jpg",
+            "width": "1500",
+            "height": "1500"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Bel-Canto Brilliance of Lawrence Brownlee"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/the-bel-canto-brilliance-of-lawrence-brownlee"
+      ],
+      "guid": [
+        { "_": "633da644c2b8b5c347e06afb", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The singer’s performance in Rossini’s “Otello,” at Opera Philadelphia, was a tour de force of tenor genius."
+      ],
+      "category": ["Magazine / Musical Events", "News / New Yorker Favorites"],
+      "dc:creator": ["Alex Ross"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633daa73228edc9783e001bd/master/pass/221017_r41187.jpg",
+            "width": "1125",
+            "height": "1431"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Briefly Noted Book Reviews"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/marigold-and-rose-the-slowworms-song-bridge-to-the-sun-and-the-chaos-machine"
+      ],
+      "guid": [
+        { "_": "633c6008228edc9783e00004", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "“Marigold and Rose,” “The Slowworm’s Song,” “Bridge to the Sun,” and “The Chaos Machine.”"
+      ],
+      "category": ["Magazine / Books", "News / New Yorker Favorites"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633ef3345c82e3a40fa19e73/master/pass/221017_r41183web-tout.jpg",
+            "width": "2134",
+            "height": "1200"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Invasion of the Sports Cheaters!"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/invasion-of-the-sports-cheaters"
+      ],
+      "guid": [
+        { "_": "633ef26f228edc9783e002ae", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "As Aaron Judge broke Roger Maris’s home-run record, weird vibes sullied professional chess and poker, and an angling tournament looked to be the target of a low-tech con: lead weights in the fish."
+      ],
+      "category": ["Magazine / Judge Not", "News / New Yorker Favorites"],
+      "dc:creator": ["Ben McGrath"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340a755327dd9f4b634e9de/master/pass/221017_r41191illuweb-site.jpg",
+            "width": "2560",
+            "height": "1440"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The People vs. Palm Trees"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/the-people-vs-palm-trees"
+      ],
+      "guid": [
+        { "_": "633ef288f01202c28aee250e", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The landscape designer Lily Kwong wants to replace L.A.’s exotic plants with native species, which require less water and satisfy the allergy constraints of her husband, Nick Kroll."
+      ],
+      "category": [
+        "Magazine / Your Own Back Yard",
+        "News / New Yorker Favorites"
+      ],
+      "dc:creator": ["Sheila Yasmin Marikar"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340a7bef01202c28aee2768/master/pass/221017_r41194illuweb-site.jpg",
+            "width": "2560",
+            "height": "1440"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Mail"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/letters-from-the-october-17-2022-issue"
+      ],
+      "guid": [
+        { "_": "633da5d650d12e46ba87226c", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Letters respond to Jonathan Blitzer’s article about Nayib Bukele, the President of El Salvador, and Adam Gopnik’s review of two recent books about democracy."
+      ],
+      "category": ["Magazine / The Mail"],
+      "dc:publisher": ["Condé Nast"]
+    },
+    {
+      "title": ["Helicopter Parents Are Last Year’s Model"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/helicopter-parents-are-last-years-model"
+      ],
+      "guid": [
+        { "_": "633da602ecce538542d9cbf0", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Aggressive but not really effective at cleaning up your kid’s messes? You’re a Leaf-Blower Parent. Quiet but sanctimonious? Tesla Parent, for sure."
+      ],
+      "category": [
+        "Magazine / Shouts & Murmurs",
+        "News / New Yorker Favorites"
+      ],
+      "dc:creator": ["Jay Martel"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633df99ac2b8b5c347e06b8e/master/pass/221017_r41170.jpg",
+            "width": "2421",
+            "height": "1816"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Ruben Östlund’s Cruise to Nowhere, with Bubbly"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/ruben-ostlunds-cruise-to-nowhere-with-bubbly"
+      ],
+      "guid": [
+        { "_": "633ef2756460886f83d96b6e", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The Swedish director of “Triangle of Sadness” set sail from New York Harbor with two of his actors, Dolly De Leon and Zlatko Burić, to talk about seasickness and class warfare."
+      ],
+      "category": ["Magazine / The Pictures", "News / New Yorker Favorites"],
+      "dc:creator": ["Michael Schulman"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340a78af01202c28aee2764/master/pass/221017_r41192illuweb-site.jpg",
+            "width": "2560",
+            "height": "1440"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Chris Ware’s “Lockdown”"],
+      "link": [
+        "https://www.newyorker.com/culture/cover-story/cover-story-2022-10-17"
+      ],
+      "guid": [
+        { "_": "63404d0dc2b8b5c347e06cfc", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The artist discusses using his daily life in his drawings, and his daughter’s experience with school-shooting drills."
+      ],
+      "category": ["Culture / Cover Story", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Covers, Illustrations, Chris Ware, School Shootings, Disable Inline Signup Unit"
+      ],
+      "dc:creator": ["Françoise Mouly"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63406b0a6460886f83d96e85/master/pass/CoverStory-web_box_ware_lockdown.jpg",
+            "width": "2560",
+            "height": "1282"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["When the Hindu Right Came for Bollywood"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/when-the-hindu-right-came-for-bollywood"
+      ],
+      "guid": [
+        { "_": "633da5f9eb8804a2771d35f7", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The industry used to honor India’s secular ideals—but, since the rise of Narendra Modi, it’s been flooded with stock Hindu heroes and Muslim villains."
+      ],
+      "category": [
+        "Magazine / Letter from India",
+        "News / New Yorker Favorites"
+      ],
+      "dc:creator": ["Samanth Subramanian"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633f5544c2b8b5c347e06c89/master/pass/221017_r41172_rd.jpg",
+            "width": "1500",
+            "height": "1908"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Science and Emotions of Lincoln Center’s New Sound"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/the-science-and-emotions-of-lincoln-centers-new-sound"
+      ],
+      "guid": [
+        { "_": "633da6073d22f85581b692a3", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": ["In renovating Geffen Hall, the acoustics came first."],
+      "category": [
+        "Magazine / Our Local Correspondents",
+        "News / New Yorker Favorites"
+      ],
+      "dc:creator": ["Rivka Galchen"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340439650d12e46ba872618/master/pass/221017_r41171web-site.gif",
+            "width": "900",
+            "height": "675"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Recipes from the Survivors of Auschwitz"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/recipes-from-the-survivors-of-auschwitz"
+      ],
+      "guid": [
+        { "_": "633ef27df01202c28aee250d", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Survivors of the Holocaust meet up to launch a cookbook—recipes for matzo-ball soup, kogel mogel, and Marion Wiesel’s onionless latkes, favored by her husband, Elie."
+      ],
+      "category": ["Magazine / Food Memories", "News / New Yorker Favorites"],
+      "dc:creator": ["Hannah Goldfield"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340a7a2f01202c28aee2766/master/pass/221017_r41193illuweb-site.jpg",
+            "width": "2560",
+            "height": "1440"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Alessandro Manzoni’s “The Betrothed,” Reconsidered"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/italys-great-historical-novel"
+      ],
+      "guid": [
+        { "_": "633da63eecce538542d9cbf1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Henry James decried the nineteenth century’s “loose baggy monsters,” but a new translation of Alessandro Manzoni’s “The Betrothed” demonstrates the genre’s power."
+      ],
+      "category": ["Magazine / Books", "News / New Yorker Favorites"],
+      "dc:creator": ["Joan Acocella"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633f84375e6bb9fc7842c4c3/master/pass/221017_r41186.jpg",
+            "width": "2055",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["“Come Softly to Me,” by David Gilbert"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/come-softly-to-me"
+      ],
+      "guid": [
+        { "_": "633da6236460886f83d96ab1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "“Now we are dead. Don’t ask us how we are dead, we are just dead.”"
+      ],
+      "category": ["Magazine / Fiction"],
+      "dc:creator": ["David Gilbert"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633da77e6460886f83d96ab5/master/pass/221017_r41179web-story.jpg",
+            "width": "1879",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Waiting for the School Bus in Uvalde"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/waiting-for-the-school-bus-in-uvalde"
+      ],
+      "guid": [
+        { "_": "633da61e5e6bb9fc7842c307", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "After a horrific shooting, a morning ritual takes on new meaning."
+      ],
+      "category": ["Magazine / Portfolio", "News / New Yorker Favorites"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633f0a493d22f85581b69309/master/pass/221017_r41173.jpg",
+            "width": "2560",
+            "height": "1706"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["David Gilbert Reads “Come Softly to Me”"],
+      "link": [
+        "https://www.newyorker.com/podcast/the-writers-voice/david-gilbert-reads-come-softly-to-me"
+      ],
+      "guid": [
+        { "_": "633f2cdd5e6bb9fc7842c453", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The author reads his story from the October 17, 2022, issue of the magazine."
+      ],
+      "category": [
+        "Podcast / The Writer’s Voice",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": [
+        "Short Stories, Authors, Podcasts, Literature, Fiction"
+      ],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633df587c2b8b5c347e06b8c/master/pass/TWV_David_Gilbert.jpg",
+            "width": "2800",
+            "height": "1600"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Slide Show: New Yorker Cartoons October 17, 2022"],
+      "link": [
+        "https://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-october-17-2022-issue"
+      ],
+      "guid": [
+        { "_": "633f4af2eb8804a2771d391c", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": ["New cartoons from the magazine."],
+      "category": ["Cartoons / Cartoons from the Issue"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/cartoons/6340bb48eb8804a2771d3c6f/master/pass/221017_a27035.jpg",
+            "width": "2560",
+            "height": "1744"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Story They Don’t Tell You About Mary’s Little Lamb"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/the-story-they-dont-tell-you-about-marys-little-lamb"
+      ],
+      "guid": [
+        { "_": "633da62d423149445fbb37f1", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": ["A song my son and I sang to his kid."],
+      "category": ["Magazine / Sketchbook"],
+      "dc:creator": ["Roz Chast"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63458885d67fffa8daddeead/master/pass/r41197web-site.png",
+            "width": "1858",
+            "height": "1394"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["David Gilbert on Finding Stories in Dreams"],
+      "link": [
+        "https://www.newyorker.com/books/this-week-in-fiction/david-gilbert-10-17-22"
+      ],
+      "guid": [
+        { "_": "633dc8863d22f85581b692b0", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The author discusses “Come Softly to Me,” his story from the latest issue of the magazine."
+      ],
+      "category": [
+        "Books / This Week in Fiction",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": [
+        "Short Stories, Literature, Interviews, Fiction, Disable Inline Signup Unit, Dreams, Send notifications on next schedule"
+      ],
+      "dc:creator": ["Cressida Leyshon"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633df5886460886f83d96af1/master/pass/TWIF_David_Gilbert.jpg",
+            "width": "2800",
+            "height": "1575"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Post-Roe Abortion Underground"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/the-post-roe-abortion-underground"
+      ],
+      "guid": [
+        { "_": "633da60df01202c28aee23cb", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "A multigenerational network of activists is getting abortion pills across the Mexican border to Americans."
+      ],
+      "category": [
+        "Magazine / A Reporter at Large",
+        "News / New Yorker Favorites"
+      ],
+      "dc:creator": ["Stephania Taladrid"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340d97a5c1031ef92eb45de/master/pass/221017_r41169web-story.jpg",
+            "width": "2560",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Secret Erotic Drawings of Duncan Grant"],
+      "link": [
+        "https://www.newyorker.com/culture/culture-desk/the-secret-erotic-drawings-of-duncan-grant"
+      ],
+      "guid": [
+        { "_": "633c824b55e285bc1b14ea64", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "For decades, the Bloomsbury-group artist quietly sketched his male lovers. These works, long kept hidden by the friends who inherited them, are finally going on display."
+      ],
+      "category": ["Culture / Culture Desk", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Art, LGBTQ, Bloomsbury, Exhibitions, Erotic, Drawings"
+      ],
+      "dc:creator": ["Anna Russell"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633f035cecce538542d9ccb9/master/pass/Russel-Duncan-Grant-Final.jpg",
+            "width": "1728",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["“Romantic Poetry,” by Diane Seuss"],
+      "link": ["https://www.newyorker.com/magazine/2022/10/17/romantic-poetry"],
+      "guid": [
+        { "_": "633da6174c62241ec37cd310", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Poetry by Diane Seuss: “I was twenty-three when I sold off / ‘Modern Poetry’ and sailed to Italy.”"
+      ],
+      "category": ["Magazine / Poems"],
+      "dc:creator": ["Diane Seuss"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/5d484de1d7f1280008aa97ae/master/pass/hp-poetryspots7.jpg",
+            "width": "1200",
+            "height": "900"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "“Before Notre Dame Burned, We Went on Vacation,” by Maya Phillips"
+      ],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/before-notre-dame-burned-we-went-on-vacation"
+      ],
+      "guid": [
+        { "_": "633da62855e285bc1b14eb15", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": ["Poetry by Maya Phillips: “My god was a private shame.”"],
+      "category": ["Magazine / Poems"],
+      "dc:creator": ["Maya Phillips"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/5d484e3142f3390009092872/master/pass/hp-poetryspots8.jpg",
+            "width": "1200",
+            "height": "900"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Lydia Millet’s Post-Human Prose"],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/lydia-millets-post-human-prose-dinosaurs"
+      ],
+      "guid": [
+        { "_": "633da6389eb801d1bdf64414", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "In “Dinosaurs,” Millet once again rejects the small, familiar world of the individual. Her subject is loss on a planetary scale."
+      ],
+      "category": ["Magazine / Books", "News / New Yorker Favorites"],
+      "dc:creator": ["Katy Waldman"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633db69255e285bc1b14eb1a/master/pass/221017_r41181.jpg",
+            "width": "1921",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Long March Toward a National Latino Museum"],
+      "link": [
+        "https://www.newyorker.com/news/daily-comment/the-long-march-toward-a-national-latino-museum"
+      ],
+      "guid": [
+        { "_": "633dacee55e285bc1b14eb18", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "A community whose role in U.S. history has been too often ignored is telling its story at the Smithsonian."
+      ],
+      "category": ["News / Daily Comment", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Latinos, Smithsonian, Civil Rights, Museums, American History"
+      ],
+      "dc:creator": ["Graciela Mochkofsky"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633e0af7c2b8b5c347e06bfc/master/pass/Mochkofsky-latino-gallery00.jpg",
+            "width": "1941",
+            "height": "1500"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Cartoon Caption Contest"],
+      "link": [
+        "https://www.newyorker.com/magazine/cartoon-caption-contest/this-weeks-contest-2022-10-17"
+      ],
+      "guid": [
+        { "_": "63407e8155e285bc1b14ed68", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 04:05:00 +0000"],
+      "media:content": [""],
+      "description": ["Submit your caption."],
+      "category": ["Magazine / Cartoon Caption Contest"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/cartoons/63407d7b228edc9783e004b5/master/pass/221017_a25276_823.jpg",
+            "width": "2547",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Annie Ernaux’s Justly Deserved Nobel"],
+      "link": [
+        "https://www.newyorker.com/culture/cultural-comment/annie-ernauxs-justly-deserved-nobel"
+      ],
+      "guid": [
+        { "_": "633f46e26460886f83d96c46", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 09 Oct 2022 17:07:05 +0000"],
+      "media:content": [""],
+      "description": [
+        "Her win marks the ascendancy of the memoir as the leading genre of our time."
+      ],
+      "category": ["Culture / Cultural Comment", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Writers, Literature, Memoir, Memoirs, France, Nobel Prize in Literature"
+      ],
+      "dc:creator": ["Adam Gopnik"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/634097656460886f83d96ef8/master/pass/Gopnik-Annie-Ernaux-Final.jpg",
+            "width": "2560",
+            "height": "1714"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "The War in Ukraine Launches a New Battle for the Russian Soul"
+      ],
+      "link": [
+        "https://www.newyorker.com/magazine/2022/10/17/the-war-in-ukraine-launches-a-new-battle-for-the-russian-soul"
+      ],
+      "guid": [
+        { "_": "633da5e6ecce538542d9cbef", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 09 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The last time people were writing in Russian so urgently was in the late nineteen-eighties, when Soviet citizens were confronted with the terror of the Stalinist past."
+      ],
+      "category": ["Magazine / Comment", "News / More on Ukraine"],
+      "dc:creator": ["Masha Gessen"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340c2334c62241ec37cd6e8/master/pass/Gessen-Comment-10-07.jpg",
+            "width": "2560",
+            "height": "1707"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["The Cryptic Crossword: Sunday, October 9, 2022"],
+      "link": [
+        "https://www.newyorker.com/puzzles-and-games-dept/cryptic-crossword/2022/10/09"
+      ],
+      "guid": [
+        { "_": "633322d0882c6ff52b2d3f4e", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 09 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": ["Wow . . . getting no inheritance (4)."],
+      "category": [
+        " Puzzles & Games Dept. / Cryptic Crossword",
+        "Magazine / Puzzles & Games Dept."
+      ],
+      "media:keywords": [
+        "Cryptic Crossword, Crossword, Puzzles, Puzzles & Games"
+      ],
+      "dc:creator": ["Neville Fogarty"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/625f1f928604b34946f0a298/master/pass/NewYorkerCrossword-Cryptic-PromoSocial-2.jpg",
+            "width": "1920",
+            "height": "1080"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["What Your First-Date Clothing Says About You"],
+      "link": [
+        "https://www.newyorker.com/humor/daily-shouts/what-your-first-date-clothing-says-about-you"
+      ],
+      "guid": [
+        { "_": "632364a94e18ec083d44174a", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 09 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Looking for a long-term commitment? Anticipating the need to sprint? Dress accordingly."
+      ],
+      "category": ["Humor / Daily Shouts", "Humor"],
+      "media:keywords": ["Humor, Satire, Fashion, Dating, Style"],
+      "dc:creator": ["Sarah Kempa, Sara K. Runnels"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63408edc9eb801d1bdf646c8/master/pass/b_KR_firstdate.jpg",
+            "width": "2560",
+            "height": "1920"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Iran’s Protests Are the First Counter-Revolution Led by Women"
+      ],
+      "link": [
+        "https://www.newyorker.com/news/daily-comment/irans-protests-are-the-first-counterrevolution-led-by-women"
+      ],
+      "guid": [
+        { "_": "634078b7228edc9783e004b3", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 09 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Women are still defying and dying in an uprising that is historically unique for being centered on women’s freedom."
+      ],
+      "category": ["News / Daily Comment", "News / New Yorker Favorites"],
+      "media:keywords": ["Iran, Protests, Women, Gender, Hijab, Revolutions"],
+      "dc:creator": ["Robin Wright"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63406fc1a14c7fd30eb6c387/master/pass/New%20Yorker%20Women%20in%20Iran.JPG",
+            "width": "2560",
+            "height": "1440"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Eileen Fisher Meditates on What’s Next"],
+      "link": [
+        "https://www.newyorker.com/culture/the-new-yorker-interview/eileen-fisher-meditates-on-whats-next"
+      ],
+      "guid": [
+        { "_": "6335eae6795134076d2a37c2", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sun, 09 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "The doyenne of elegant, comfortable, timeless clothes talks about hiring a C.E.O. for her eponymous company, her design philosophy, and being profiled by Janet Malcolm."
+      ],
+      "category": ["Culture / The New Yorker Interview"],
+      "media:keywords": [
+        "Designers, Fashion, Minimalism, Sustainability, Environmentalism"
+      ],
+      "dc:creator": ["Carrie Battan"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633dc73454bf2ae1623e04d5/master/pass/Lede%20resized.jpg",
+            "width": "2048",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["María Irene Fornés and the Garden of Our Potential"],
+      "link": [
+        "https://www.newyorker.com/culture/the-theatre/maria-irene-fornes-and-the-garden-of-our-potential"
+      ],
+      "guid": [
+        { "_": "634031d8a14c7fd30eb6c33a", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sat, 08 Oct 2022 16:19:41 +0000"],
+      "media:content": [""],
+      "description": [
+        "“Mud” and “Drowning,”two plays directed by JoAnne Akalaitis, with new music by Philip Glass, probe humanity’s desire for knowledge."
+      ],
+      "category": ["Culture / The Theatre", "News / New Yorker Favorites"],
+      "media:keywords": ["Theatre, Education, Literacy, Culture, Philip Glass"],
+      "dc:creator": ["Vinson Cunningham"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63406af850d12e46ba87263a/master/pass/Cunningham-Mud-Drowning.jpg",
+            "width": "2560",
+            "height": "1707"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["How Many Times Will You Get COVID?"],
+      "link": [
+        "https://www.newyorker.com/science/annals-of-medicine/how-many-times-will-you-get-covid"
+      ],
+      "guid": [
+        { "_": "6320ac52e1443b982bd17a5e", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sat, 08 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "When it comes to coronavirus infections, the third time is not the charm. What is?"
+      ],
+      "category": ["Science / Annals of Medicine", "News / Coronavirus"],
+      "media:keywords": [
+        "Coronavirus, Covid-19, Pandemic, Omicron, Delta variant, Vaccines"
+      ],
+      "dc:creator": ["Dhruv Khullar"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/633f3360228edc9783e0035f/master/pass/Khullar-Reinfection-Final.jpg",
+            "width": "2560",
+            "height": "1706"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["My Kid’s the One in the Harvard Tee"],
+      "link": [
+        "https://www.newyorker.com/humor/daily-shouts/my-kids-the-one-in-the-harvard-tee"
+      ],
+      "guid": [
+        { "_": "633ecb5ac2b8b5c347e06c0f", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Sat, 08 Oct 2022 10:00:00 +0000"],
+      "media:content": [""],
+      "description": [
+        "Judging by your child’s tee, he’s pinning his future less on a top-tier education and more on dinosaurs riding surfboards."
+      ],
+      "category": ["Humor / Daily Shouts", "Humor"],
+      "media:keywords": ["Humor, Satire, Harvard, Parents"],
+      "dc:creator": ["Jeremy Hooper"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63406d353d22f85581b69440/master/pass/Shouts-Harvard-Student.jpg",
+            "width": "2560",
+            "height": "1700"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["America: Pro or Con?"],
+      "link": [
+        "https://www.newyorker.com/culture/the-theatre/america-pro-or-con"
+      ],
+      "guid": [
+        { "_": "633c69ef4c62241ec37cd2d4", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 07 Oct 2022 23:40:07 +0000"],
+      "media:content": [""],
+      "description": [
+        "Debate and democracy in “1776” and “Baldwin and Buckley at Cambridge.”"
+      ],
+      "category": ["Culture / The Theatre", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Founding Fathers, Racism, Sexism, James Baldwin, Off Broadway, Broadway Musicals, Playwrights"
+      ],
+      "dc:creator": ["Helen Shaw"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/63405b9250d12e46ba872632/master/pass/Shaw-American-Debate.jpg",
+            "width": "2560",
+            "height": "2007"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["Biden Heads for the Midterms with Ten Million New Jobs"],
+      "link": [
+        "https://www.newyorker.com/news/our-columnists/biden-heads-for-the-midterms-with-ten-million-new-jobs"
+      ],
+      "guid": [
+        { "_": "633d8ba25c1031ef92eb407a", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 07 Oct 2022 23:18:06 +0000"],
+      "media:content": [""],
+      "description": [
+        "Inflation is still a cause for concern, but no other President has had this pace of job growth in their first two years in office."
+      ],
+      "category": ["News / Our Columnists", "News / New Yorker Favorites"],
+      "media:keywords": ["Economy, Jobs, Inflation, Wall Street, Joe Biden"],
+      "dc:creator": ["John Cassidy"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/634085ea327dd9f4b634e9b1/master/pass/Cassidy-Sept-Jobs-And-Dems.jpg",
+            "width": "2560",
+            "height": "1706"
+          }
+        }
+      ]
+    },
+    {
+      "title": ["At Eighty-five, Tom Stoppard Faces His Past"],
+      "link": [
+        "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/at-eighty-five-tom-stoppard-faces-his-past"
+      ],
+      "guid": [
+        { "_": "633ef1a1228edc9783e002ad", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 07 Oct 2022 21:15:50 +0000"],
+      "media:content": [""],
+      "description": [
+        "The legendary playwright is out with a new play, reflecting on his family’s history in the Holocaust. Plus, the contributor Jeannie Suk Gersen on what’s next for the Supreme Court."
+      ],
+      "category": [
+        "Podcast / The New Yorker Radio Hour",
+        "News / New Yorker Favorites"
+      ],
+      "media:keywords": [
+        "Podcasts, David Remnick, Broadway, Theater, Playwrights, The Holocaust, Supreme Court, Abortion, Geena Davis, Memoir"
+      ],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/634049a25c1031ef92eb43d0/master/pass/TNY_final_3.jpg",
+            "width": "3840",
+            "height": "2560"
+          }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Two Portraits of the Power and Menace of Image-Making, at the New York Film Festival"
+      ],
+      "link": [
+        "https://www.newyorker.com/culture/the-front-row/two-portraits-of-the-power-and-menace-of-image-making-at-the-new-york-film-festival"
+      ],
+      "guid": [
+        { "_": "6340248250d12e46ba872614", "$": { "isPermaLink": "false" } }
+      ],
+      "pubDate": ["Fri, 07 Oct 2022 20:34:01 +0000"],
+      "media:content": [""],
+      "description": [
+        "A pair of the strongest entries at this year’s festival spotlight brilliant artists at work: Jafar Panahi and Thelonious Monk."
+      ],
+      "category": ["Culture / The Front Row", "News / New Yorker Favorites"],
+      "media:keywords": [
+        "Film, Reviews, New York Film Festival, Movies, Jafar Panahi, Thelonious Monk, Documentaries"
+      ],
+      "dc:creator": ["Richard Brody"],
+      "dc:publisher": ["Condé Nast"],
+      "media:thumbnail": [
+        {
+          "$": {
+            "url": "https://media.newyorker.com/photos/6340631b5e6bb9fc7842c56a/master/pass/Brody-No-Bear.jpg",
+            "width": "2560",
+            "height": "1440"
+          }
+        }
+      ]
+    }
+  ]
+}

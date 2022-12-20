@@ -1,0 +1,447 @@
+{
+  "title": ["www.espn.com - SOCCER"],
+  "description": ["Latest SOCCER news from www.espn.com"],
+  "link": ["https://www.espn.com"],
+  "ttl": ["30"],
+  "language": ["en"],
+  "generator": ["ESPN Inc. https://www.espn.com"],
+  "copyright": ["Copyright 2015 ESPN Inc."],
+  "lastBuildDate": ["Mon, 10 Oct 2022 19:54:12 GMT"],
+  "image": [
+    {
+      "url": [
+        "https://a.espncdn.com/i/espn/teamlogos/lrg/trans/espn_dotcom_black.gif"
+      ],
+      "title": ["www.espn.com - SOCCER"],
+      "link": ["https://www.espn.com"],
+      "width": ["110"],
+      "height": ["110"]
+    }
+  ],
+  "item": [
+    {
+      "title": ["Crew fire coach Porter after missing playoffs"],
+      "description": [
+        "The Columbus Crew fired coach Caleb Porter on Monday after Sunday's loss eliminated them from postseason contention."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2020/1210/r788357_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/columbus-crew/story/4767043/columbus-crew-fire-coach-caleb-porter-after-missing-playoffs"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4767043", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["FA reviewing incident in Liverpool loss to Arsenal"],
+      "description": [
+        "A confrontation occured after ref Michael Oliver awarded a penalty to Arsenal. Afterwards, Oliver spoke with Mikel Arteta and Jurgen Klopp."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073586_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/liverpool-engliverpool/story/4765999/fa-reviewing-incident-during-liverpool-defeat-to-arsenal-on-sunday"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4765999", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Guardiola: Haaland one of my best strikers ever"],
+      "description": [
+        "Manchester City boss Pep Guardiola said the numbers speak for themselves as Erling Haaland continues his astonishing start to life in England."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073813_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/manchester-city-engman_city/story/4767075/man-citys-pep-guardiola-erling-haaland-one-of-my-best-strikers-ever"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4767075", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["UK bans 1300 fans from England, Wales at WC"],
+      "description": [
+        "More than 1,300 fans from England and Wales with banning orders will not be allowed to travel to Qatar for this year's World Cup."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2021/0719/r882201_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/fifa-world-cup/story/4767017/uk-bans-1300-fans-from-englandwales-at-world-cup"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4767017", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Chelsea's Silva hints at Milan coaching future"],
+      "description": [
+        "Thiago Silva hinted he could manage AC Milan one day, but said his more immediate concern is seeking clarity over his Chelsea future."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0227/r979908_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/chelsea-engchelsea/story/4767045/chelseas-thiago-silva-hints-at-future-ac-milan-coaching-job"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4767045", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Messi's calf still injured, will miss PSG-Benfica"],
+      "description": [
+        "Lionel Messi will not be involved vs. Benfica after failing to recover from a calf injury in time for the UCL match, the club said."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1005/r1071483_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/uefa-champions-league/story/4766972/lionel-messi-to-miss-psg-benfica-clash-with-calf-injury"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4766972", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Madrid's Courtois out for UCL, back for Clasico"],
+      "description": [
+        "Real Madrid manager Carlo Ancelotti said goalkeeper Thibaut Courtois is expected to return in time for Sunday's El Clasico clash with Barcelona."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0601/r1019624_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/real-madrid-espreal_madrid/story/4767040/real-madrid-keeper-thibaut-courtois-will-be-ready-for-clasico"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4767040", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Auba: 'Bad feelings' for Arsenal are in the past"],
+      "description": [
+        "Chelsea striker Pierre-Emerick Aubameyang has clarified his comments on Mikel Arteta after a video showed him criticising the Arsenal manager."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073741_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/arsenal-engarsenal/story/4766873/chelseas-aubameyang-bad-feelings-for-arsenal-in-past-after-leaked-arteta-criticism"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4766873", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Griezmann joins Atletico Madrid from Barcelona"],
+      "description": [
+        "Antoine Griezmann has rejoined Atletico Madrid on a permanent basis after Barcelona agreed to reduce the transfer fee from €40 million to €20m."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0908/r1059264_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/soccer-transfers/story/4763835/antoine-grizemann-joins-atletico-madrid-from-barcelona-on-permanent-deal"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:27:57 EST"],
+      "guid": [{ "_": "US-EN-4763835", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Premier League Big Six's seasons so far: How it started, how it's going"
+      ],
+      "description": [
+        "The Premier League title race is almost a quarter of the way through. It's still early, but how will things pan for the Big Six in the months ahead?"
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073659_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/english-premier-league/story/4766010/premier-leagues-big-six-how-it-startedhow-its-going"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 10:19:21 EST"],
+      "guid": [{ "_": "US-EN-4766010", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "17-year-old Alyssa Thompson might be the USWNT's future, but there's no rush"
+      ],
+      "description": [
+        "17-year-old Thompson replaced 37-year-old Megan Rapinoe for the USWNT against England -- a big moment. But this is only just the beginning."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1009/r1073441_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/united-states-usaw/story/4765686/uswnt-teenager-alyssa-thompson-high-school-megan-rapinoe"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 13:41:43 EST"],
+      "guid": [{ "_": "US-EN-4765686", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Saka offside; handball by Gabriel, Scamacca, Antonio and Rashford headline the VAR Review"
+      ],
+      "description": [
+        "A look at the big VAR rulings in the Premier League, with a whole host of handball offences and an offside against Bukayo Saka making the headlines."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073649_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/english-premier-league/story/4766004/handball-by-gabriel-scamacca-antonio-rashford-and-saka-offside-decision"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 13:10:00 EST"],
+      "guid": [{ "_": "US-EN-4766004", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Liverpool's title hopes in tatters, Dortmund's still alive: Weekend Review"
+      ],
+      "description": [
+        "From Dortmund's dramatic draw with Bayern, to Liverpool dropping out of the title race, there's no shortage of drama in ESPN's weekend review."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1009/r1073461_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/english-premier-league/story/4764669/arsenal-leave-liverpools-title-hopes-in-tatters-dortmund-keep-theirs-alive-weekend-review"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 09:52:29 EST"],
+      "guid": [{ "_": "US-EN-4764669", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Liverpool 10th in the Premier League: 10 facts and stats from their worst start in 10 years"
+      ],
+      "description": [
+        "Sunday's 3-2 loss at Arsenal left Liverpool 10th in the Premier League table, and the numbers from their season so far make for grim reading."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073621_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/blog-the-toe-poke/story/4766011/liverpool-10th-10-facts-about-terrible-premier-league-start"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 07:41:03 EST"],
+      "guid": [{ "_": "US-EN-4766011", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Teenagers Pedri and Gavi show Barca's future is now"],
+      "description": [
+        "After inspiring a narrow win over Celta Vigo, can the Barcelona youngsters repeat in Europe and El Clasico?"
+      ],
+      "link": [
+        "https://www.espn.com/soccer/spanish-laliga/story/4765429/teens-pedri-and-gavi-extend-barcelona-win-streak-to-7"
+      ],
+      "pubDate": ["Sun, 9 Oct 2022 21:33:49 EST"],
+      "guid": [{ "_": "US-EN-4765429", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "LIVE Transfer Talk: Chelsea look at Pellegrini, Pino to replace Mount"
+      ],
+      "description": [
+        "With Mason Mount's contract talks reportedly on hold, Chelsea are looking at alternatives in the transfer market. Transfer Talk has the latest."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0717/r1037246_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/blog-transfer-talk/story/4765800/transfer-talk-mason-mount-impasse-forces-chelsea-to-look-at-lorenzo-pellegrini-and-yeremi-pino"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 09:53:19 EST"],
+      "guid": [{ "_": "US-EN-4765800", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Q&A: How and why do clubs sack their head coach?"],
+      "description": [
+        "Football is a tough business, but how do clubs go about sacking their head coach? Here's how it works."
+      ],
+      "link": [
+        "https://www.espn.com/soccer/soccer-transfers/story/4761733/how-clubs-sack-a-boss-awkward-chatspayoffs-and-whatsapp"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 07:19:55 EST"],
+      "guid": [{ "_": "US-EN-4761733", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Arsenal edge Liverpool in five-goal thriller, send massive statement as title contenders"
+      ],
+      "description": [
+        "Arsenal prove why they are top of the Premier League in a five goal thriller against a Liverpool side struggling for form."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1009/r1073165_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/english-premier-league/story/4764897/arsenal-beat-liverpool-in-five-goal-thrillershow-title-contender-status"
+      ],
+      "pubDate": ["Sun, 9 Oct 2022 21:34:04 EST"],
+      "guid": [{ "_": "US-EN-4764897", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Cristiano Ronaldo proves himself in Man United's much-needed win over Everton"
+      ],
+      "description": [
+        "An injury to Anthony Martial cleared the way for Cristiano Ronaldo to come off the bench, and he sure made the most of it."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1009/r1073274_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/blog-the-match/story/4765344/cristiano-ronaldo-proves-value-in-man-united-win-vs-everton"
+      ],
+      "pubDate": ["Sun, 9 Oct 2022 16:16:49 EST"],
+      "guid": [{ "_": "US-EN-4765344", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Euro 2024 draw: Italy vs. England rematch"],
+      "description": [
+        "The Euro 2024 qualfying draw was made in Frankfurt on Sunday, with a repeat of the 2020 final as Italy and England were drawn together."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1009/r1072987_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/soccer/uefa-european-championship-qualifying/story/4764751/euro-2024-qualifying-draw-italy-vs-england-in-2020-final-rematch"
+      ],
+      "pubDate": ["Sun, 9 Oct 2022 07:12:07 EST"],
+      "guid": [{ "_": "US-EN-4764751", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "A day-by-day look at how alleged abuse by two NWSL coaches occurred"
+      ],
+      "description": [
+        "A day-by-day look at how alleged abuse was allowed by two NWSL coaches: Paul Riley at the Portland Thorns and Richie Burke at the Washington Spirit."
+      ],
+      "link": [
+        "https://www.espn.com/soccer/united-states-nwsl/story/4761558/nwsl-abuse-sally-yates-report-thorns-spirit-timeline"
+      ],
+      "pubDate": ["Fri, 7 Oct 2022 16:20:35 EST"],
+      "guid": [{ "_": "US-EN-4761558", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Yates NWSL report fallout: what the players say, who's been fired and what's next"
+      ],
+      "description": [
+        "Sponsors call out clubs, two high-ranking executives are fired, players express shock and more."
+      ],
+      "link": [
+        "https://www.espn.com/soccer/united-states-nwsl/story/4761896/yates-nwsl-abuse-fallout-playerssponsors-speak-execs-fired"
+      ],
+      "pubDate": ["Fri, 7 Oct 2022 16:20:35 EST"],
+      "guid": [{ "_": "US-EN-4761896", "$": { "isPermaLink": "false" } }]
+    }
+  ]
+}

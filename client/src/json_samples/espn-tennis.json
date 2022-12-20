@@ -39,7 +39,13 @@
         "https://www.espn.com/tennis/story/_/id/34643828/laver-cup-roger-federer-retires-tennis-playing-final-match-career"
       ],
       "pubDate": ["Fri, 23 Sep 2022 20:12:34 EST"],
-      "guid": [{ "_": "US-EN-34643828", "$": { "isPermaLink": "false" } }]
+      "guid": [
+        { 
+          "_": "US-EN-34643828", 
+          "$": { 
+            "isPermaLink": "false" 
+          } 
+      }]
     },
     {
       "title": ["Ranking Roger Federer's 20 Grand Slam titles"],

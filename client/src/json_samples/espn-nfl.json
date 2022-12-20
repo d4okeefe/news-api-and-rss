@@ -1,0 +1,409 @@
+{
+  "title": ["www.espn.com - NFL"],
+  "description": ["Latest NFL news from www.espn.com"],
+  "link": ["https://www.espn.com"],
+  "ttl": ["30"],
+  "language": ["en"],
+  "generator": ["ESPN Inc. https://www.espn.com"],
+  "copyright": ["Copyright 2015 ESPN Inc."],
+  "lastBuildDate": ["Tue, 11 Oct 2022 16:08:32 GMT"],
+  "image": [
+    {
+      "url": [
+        "https://a.espncdn.com/i/espn/teamlogos/lrg/trans/espn_dotcom_black.gif"
+      ],
+      "title": ["www.espn.com - NFL"],
+      "link": ["https://www.espn.com"],
+      "width": ["110"],
+      "height": ["110"]
+    }
+  ],
+  "item": [
+    {
+      "title": [
+        "Week 6 NFL Power Rankings: 1-32 poll, plus helping every team make the playoffs"
+      ],
+      "description": [
+        "Through five games, here's how we see the entire NFL. Where do the Bills, Giants and Titans rank?"
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/nfl_power6_cr_16x9_608x342.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34769141/nfl-week-6-power-rankings-2022-1-32-poll-playoff-chances-biggest-obstacles-every-team"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 11:37:44 EST"],
+      "guid": [{ "_": "US-EN-34769141", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Jarrett still in 'disbelief' over flagged Brady hit"],
+      "description": [
+        "Still in \"disbelief\" over getting penalized for sacking Bucs QB Tom Brady, Atlanta Falcons DT Grady Jarrett called for the NFL to consider in-game reviews of roughing the passer penalties."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1009/r1073420_1296x864_3-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34775025/falcons-grady-jarrett-disbelief-flagged-brady-hit"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34775025", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["WR Adams pushes person postgame, apologizes"],
+      "description": [
+        "Davante Adams shoved a credentialed person on the field carrying equipment in the aftermath of the Raiders' loss Monday night, later issuing an apology."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1074017_600x400_3-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34772685/raiders-davante-adams-pushes-person-postgame-apologizes"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34772685", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Source: NFL to mull roughing rules after season"],
+      "description": [
+        "The NFL plans to discuss roughing the passer penalties after the season amid outrage over two disputed calls in Week 5, a member of the league's competition committee, who wishes to remain anonymous told ESPN's Ed Werder."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2016/0701/r98851_600x400_3-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34774498/report-nfl-mull-roughing-passer-rules-amid-outrage"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34774498", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Ref defends roughing penalty that drew Chiefs' ire"],
+      "description": [
+        "Referee Carl Cheffers explained why he threw a flag for roughing the passer after Chiefs DT Chris Jones stripped Raiders QB Derek Carr."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1073998_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34772852/chiefs-baffled-roughing-passer-penalty-chris-jones"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34772852", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Raiders don't second-guess failed 2-point attempt"],
+      "description": [
+        "Neither Raiders coach Josh McDaniels nor his players were second-guessing a crucial decision to go for 2 points while down 30-29 late in Monday night's loss to the Chiefs."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1074021_600x600_1-1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34772807/josh-mcdaniels-raiders-all-aggressive-play-call-late"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34772807", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Panthers fire HC Rhule, DC Snow after 1-4 start"],
+      "description": [
+        "The Panthers fired coach Matt Rhule on Monday after a 1-4 start to the season and with four seasons left on a seven-year, $62 million contract he received in 2020."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/0920/r1064698_1296x864_3-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34768697/carolina-panthers-fire-coach-matt-rhule-1-4-start"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34768697", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Bolts' Staley 'closer' with Allen after critical tweet"],
+      "description": [
+        "Chargers coach Brandon Staley says he grew \"closer\" with Keenan Allen after his tweet critical of Staley's decision to go for it on fourth down late in Sunday's loss."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073918_600x400_3-2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34771126/grew-closer-keenan-allen-critical-tweet"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34771126", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["Rivera has 'no regrets' about acquiring QB Wentz"],
+      "description": [
+        "With his team in last place in the NFC East, three games behind the field, Washington Commanders coach Ron Rivera said he had no regrets about trading for quarterback Carson Wentz."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073866_600x600_1-1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34770609/despite-washington-commanders-1-4-start-ron-rivera-no-regrets-adding-carson-wentz"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:51:09 EST"],
+      "guid": [{ "_": "US-EN-34770609", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["How do the 1-4 Steelers move on after Buffalo debacle?"],
+      "description": [
+        "The Steelers were trounced in Buffalo, and just might be rebuilding after all."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073886_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/blog/pittsburgh-steelers/post/_/id/33495/how-do-the-1-4-steelers-move-on-after-buffalo-debacle"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 11:34:36 EST"],
+      "guid": [
+        {
+          "_": "US-EN-pittsburgh-steelers-33495",
+          "$": { "isPermaLink": "false" }
+        }
+      ]
+    },
+    {
+      "title": ["Commanders in familiar spot, but already running out of time"],
+      "description": [
+        "This season a late surge might not be enough to get the team back into playoff contention."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1073990_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/blog/washington-commanders/post/_/id/42556/washington-commanders-in-familiar-spot-but-already-running-out-of-time"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 11:34:36 EST"],
+      "guid": [
+        {
+          "_": "US-EN-washington-commanders-42556",
+          "$": { "isPermaLink": "false" }
+        }
+      ]
+    },
+    {
+      "title": [
+        "Kelce, Chiefs rally from 17-point deficit to take down Raiders"
+      ],
+      "description": [
+        "The Chiefs fought a 17-0 deficit and some questionable officiating to rally behind Kelce's four scores."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1073874_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34771208/patrick-mahomes-travis-kelce-chiefs-rally-17-0-deficit-defeat-raiders-monday-night-football"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 11:14:55 EST"],
+      "guid": [{ "_": "US-EN-34771208", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["The magic behind the New York Giants' 4-1 start"],
+      "description": [
+        "The Giants are 4-1 following an upset over Aaron Rodgers and the Packers. Here's how they got here."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073858_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/blog/new-york-giants/post/_/id/64015/the-magic-behind-giants-4-1-start"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 09:15:42 EST"],
+      "guid": [
+        { "_": "US-EN-new-york-giants-64015", "$": { "isPermaLink": "false" } }
+      ]
+    },
+    {
+      "title": [
+        "Lamar to the rescue: How the Ravens' QB saved the day after rough start"
+      ],
+      "description": [
+        "For more than three quarters vs. the Bengals, Jackson was not having his best night, but when the game was on the line, he showed his MVP form."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073816_576x324_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/blog/baltimore-ravens/post/_/id/56294/lamar-to-the-rescue-how-the-ravens-qb-saved-the-day-after-rough-start"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 06:00:45 EST"],
+      "guid": [
+        { "_": "US-EN-baltimore-ravens-56294", "$": { "isPermaLink": "false" } }
+      ]
+    },
+    {
+      "title": [
+        "Daily Notes: Darren Waller exits MNF early, Josh Jacobs thriving"
+      ],
+      "description": [
+        "Darren Waller suffered a hamstring injury early in Monday's game, Josh Jacobs put up another terrific performance and we check in on the status of key players injured Sunday heading into Week 6 and the start of bye weeks."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1074054_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/fantasy/football/story/_/id/34774250/darren-waller-josh-jacobs-tee-higgins-baker-mayfield"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 12:00:34 EST"],
+      "guid": [{ "_": "US-EN-34774250", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Week 5 recap: Denver's offense, Taysom Hill's staying power, and more"
+      ],
+      "description": [
+        "Our NFL Nation reporters focus on injury news, changes in roles and other pressing questions."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073828_576x324_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/fantasy/football/story/_/id/34769742/espn-nfl-nation-week-5-fantasy-football-denver-broncos-taysom-hill"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 11:23:49 EST"],
+      "guid": [{ "_": "US-EN-34769742", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": ["With Rhule gone, what's next for the Panthers?"],
+      "description": [
+        "The Panthers let Matt Rhule go after losing 11 of their past 12 games. What does their future look like now?"
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1010/r1073754_608x342_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/nfl/story/_/id/34768733/panthers-fire-head-coach-matt-rhule-1-4-record-next-steve-wilks-named-interim"
+      ],
+      "pubDate": ["Mon, 10 Oct 2022 15:18:01 EST"],
+      "guid": [{ "_": "US-EN-34768733", "$": { "isPermaLink": "false" } }]
+    },
+    {
+      "title": [
+        "Cheat codes, safeties and the best of the bad beats of the week"
+      ],
+      "description": [
+        "Jason Fitz recaps some of the weirdest plays from the weekend through social media."
+      ],
+      "enclosure": [
+        {
+          "$": {
+            "url": "https://a.espncdn.com/photo/2022/1011/r1073972_1296x729_16-9.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        }
+      ],
+      "link": [
+        "https://www.espn.com/chalk/story/_/id/34771458/cheat-codes-safeties-best-bad-beats-week"
+      ],
+      "pubDate": ["Tue, 11 Oct 2022 10:05:55 EST"],
+      "guid": [{ "_": "US-EN-34771458", "$": { "isPermaLink": "false" } }]
+    }
+  ]
+}

@@ -16,13 +16,13 @@ const parseDate = function (d) {
 }
 
 export default function EspnNews(props) {
-  const [data, setData] = useState(null)
+  const [data, setData] = useState([])
 
   useEffect(() => {
     fetch(props.url)
       .then((res) => res.json())
       .then((data) => {
-        setData(data.item)
+        setData(data)
       })
   }, [])
 
@@ -36,21 +36,27 @@ export default function EspnNews(props) {
           </Spinner>
         ) : (
           data
-            .filter(
-              (r, index, arr) =>
-                arr.findIndex((r2) => r.title[0] === r2.title[0]) === index,
+            // filter out duplicates
+            // .filter(
+            //   (r, index, arr) =>
+            //     arr.findIndex((r2) => r.title[0] === r2.title[0]) === index,
+            // )
+            // sort by date, descending: subtract 2nd from 1st
+            .sort(
+              (a, b) =>
+                Date.parse(new Date(b.pubDate)) -
+                Date.parse(new Date(a.pubDate)),
             )
-            .map((r, index) => (
-              <Col key={index}>
+            // only first 10 records
+            // .slice(0, 10)
+            // Espn Rss does not provide author
+            .map((r) => (
+              <Col key={r._id}>
                 <NewsCard
-                  image_url={r.enclosure && r.enclosure[0].$.url}
-                  image_caption=""
-                  url={r.link}
                   title={r.title}
-                  description={
-                    r.description[0].trim() !== 'Read more' ? r.description : ''
-                  }
-                  byline={r['dc:creator']}
+                  description={r.description}
+                  image_url={r.image_link}
+                  url={r.link}
                   date={parseDate(r.pubDate)}
                 />
               </Col>

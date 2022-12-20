@@ -1,19 +1,28 @@
 import { Route, Router } from 'wouter'
+import { useEffect, useState } from 'react'
 
-import { EspnData } from '../Data/EspnData'
 import EspnNews from '../pages/EspnNews'
 import NewYorkerRss from '../pages/NewYorkerRss'
 import NyTimesNews from '../pages/NyTimesNews'
-import { NyerData } from '../Data/NyerData'
-import { NytData } from '../Data/NytData'
-import { SciAmData } from '../Data/SciAmData'
 import ScientificAmericanRss from '../pages/ScientificAmericanRss'
 import WaPoNews from '../pages/WaPoNews'
-import { WapoData } from '../Data/WapoData'
-import { WiredData } from '../Data/WiredData'
 import WiredRss from '../pages/WiredRss'
 
-export default function Routes() {
+export default function Routes(props) {
+  const [data, setData] = useState([])
+  // const [routeUrl, setRouteUrl] = useState('')
+  const staticUrl = '/api/new-yorker/news'
+
+  // setRouteUrl(props.path)
+
+  useEffect(() => {
+    fetch(staticUrl)
+      .then((res) => res)
+      .then((data) => {
+        setData(JSON.parse(data))
+      })
+  }, [])
+
   let key_num = 0
 
   return (
@@ -24,40 +33,44 @@ export default function Routes() {
           url="/api/new-york-times/topstories"
         />
       </Route>
-      {EspnData.sections.map((r, i) => (
+      {props.espn.sections.map((r, i) => (
         <Route key={key_num++} path={r.url}>
           <EspnNews title={r.long_title} url={'/api' + r.url} />
         </Route>
       ))}
-      {NyerData.sections.map((r, i) => (
+      {props.nyer.sections.map((r, i) => (
         <>
           <Route key={key_num++} path={r.url}>
-            <NewYorkerRss title={r.long_title} url={'/api' + r.url} />
+            <NewYorkerRss
+              title={r.long_title}
+              url={'/api' + r.url}
+              mongodata={data}
+            />
           </Route>
         </>
       ))}
-      {NytData.sections.map((r, i) => (
+      {props.nyt.sections.map((r, i) => (
         <>
           <Route key={key_num++} path={r.url}>
             <NyTimesNews title={r.long_title} url={'/api' + r.url} />
           </Route>
         </>
       ))}
-      {SciAmData.sections.map((r, i) => (
+      {props.sciam.sections.map((r, i) => (
         <>
           <Route key={key_num++} path={r.url}>
             <ScientificAmericanRss title={r.long_title} url={'/api' + r.url} />
           </Route>
         </>
       ))}
-      {WapoData.sections.map((r, i) => (
+      {props.wapo.sections.map((r, i) => (
         <>
           <Route key={key_num++} path={r.url}>
             <WaPoNews title={r.long_title} url={'/api' + r.url} />
           </Route>
         </>
       ))}
-      {WiredData.sections.map((r, i) => (
+      {props.wired.sections.map((r, i) => (
         <>
           <Route key={key_num++} path={r.url}>
             <WiredRss title={r.long_title} url={'/api' + r.url} />

@@ -1,0 +1,231 @@
+/**
+ * THE PLAN:
+ *
+ * 1. When client calls for info, server sends json.data from mongodb
+ * 2. Meanwhile, server compares rss feed to mongo and ...
+ *    a. sends new info to client
+ *    b. updates mongodb
+ *
+ */
+
+var router = global.router
+const axios = require('axios')
+// const NewsEspnSchema = require('../models/NewsEspn')
+const mongo_uri =
+  'mongodb+srv://d4okeefe:U2q9sx6vdvzE7n_@cluster0.jdy6d.gcp.mongodb.net/?retryWrites=true&w=majority'
+const { MongoClient, ServerApiVersion } = require('mongodb')
+const uri = mongo_uri
+
+const espn_addresses = [
+  {
+    title: 'mlb',
+    api_route: '/api/espn/mlb',
+    url_ext: 'mlb/news',
+  },
+  {
+    title: 'f1',
+    api_route: '/api/espn/f1',
+    url_ext: 'f1/news',
+  },
+  {
+    title: 'nba',
+    api_route: '/api/espn/nba',
+    url_ext: 'nba/news',
+  },
+  {
+    title: 'tennis',
+    api_route: '/api/espn/tennis',
+    url_ext: 'tennis/news',
+  },
+  {
+    title: 'soccer',
+    api_route: '/api/espn/soccer',
+    url_ext: 'soccer/news',
+  },
+  {
+    title: 'nfl',
+    api_route: '/api/espn/nfl',
+    url_ext: 'nfl/news',
+  },
+]
+
+const axios_espn = axios.create({
+  baseURL: `https://www.espn.com/espn/rss/`,
+  timeout: 30000,
+})
+
+const getMongoDbData = (res, client, itm) => {
+  client.connect((err) => {
+    const collection = client.db('news_data').collection('espn')
+    collection.find({ topic: itm.title }).toArray(function (err, results) {
+      res.json(results)
+    })
+  })
+}
+
+const updateMongoDbWithRssData = async (itm) => {
+  const client = await new MongoClient(uri, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  const itm_title = itm.title
+  await axios_espn.get(itm.url_ext).then((response) => {
+    var parseString = require('xml2js').parseString
+
+    parseString(response.data, { trim: true }, function (err, result) {
+      const extractedData = result['rss']['channel'][0]
+
+      const espn_data = []
+
+      extractedData.item
+        .filter((v) => {
+          !v.title ||
+            !v.description ||
+            !v.image_link ||
+            !v.link ||
+            !v.pubDate ||
+            !v.guid
+        })
+        .forEach((v) => {
+          let d = new Object()
+          d.source = 'espn'
+          d.topic = itm_title
+          d.title = v.title ? v.title[0] : ''
+          d.description = v.description ? v.description[0] : ''
+          d.image_link = v.enclosure ? v.enclosure[0].$.url : ''
+          d.link = v.link ? v.link[0] : ''
+          d.pubDate = v.pubDate ? v.pubDate[0] : ''
+          d._id = v.guid ? v.guid[0]?._ : ''
+          espn_data.push(d)
+        })
+
+      client.connect((err) => {
+        const collection = client.db('news_data').collection('espn')
+        espn_data.forEach((r) => {
+          var key = { _id: r._id }
+          var data = { $setOnInsert: { ...r } }
+          collection.updateOne(key, data, { upsert: true })
+        })
+      })
+    })
+  })
+}
+
+espn_addresses.forEach((itm, idx) => {
+  router.get(itm.api_route, async (req, res) => {
+    const client = await new MongoClient(uri, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    })
+
+    getMongoDbData(res, client, itm)
+
+    // client.connect((err) => {
+    //   const collection = client.db('news_data').collection('espn')
+    //   collection.find({ topic: itm.title }).toArray(function (err, results) {
+    //     res.json(results)
+    //   })
+    // })
+    updateMongoDbWithRssData(itm)
+  })
+})
+module.exports = router
+
+// let espn_data_item = {
+//   _id: String,
+//   title: String,
+//   description: String,
+//   image_link: String,
+//   link: String,
+//   pubDate: String,
+// }
+
+// async function mongo_fetch_for_client() {
+//   const mongo_uri =
+//     'mongodb+srv://d4okeefe:U2q9sx6vdvzE7n_@cluster0.jdy6d.gcp.mongodb.net/?retryWrites=true&w=majority'
+
+//   const { MongoClient, ServerApiVersion } = require('mongodb')
+//   const uri = mongo_uri
+//   const client = await new MongoClient(uri, {
+//     useNewUrlParser: true,
+//     useUnifiedTopology: true,
+//     serverApi: ServerApiVersion.v1,
+//   })
+//   client.connect((err) => {
+//     const collection = client.db('news_data').collection('espn')
+//     // collection.insertMany(espn_data)
+//     espn_data.forEach((r) => {
+//       var key = { _id: r._id }
+//       var data = { $setOnInsert: { ...r } }
+//       collection.updateOne(key, data, { upsert: true })
+//     })
+//   })
+// }
+
+// async function mongo_update(espn_data) {
+//   const mongo_uri =
+//     'mongodb+srv://d4okeefe:U2q9sx6vdvzE7n_@cluster0.jdy6d.gcp.mongodb.net/?retryWrites=true&w=majority'
+
+//   const { MongoClient, ServerApiVersion } = require('mongodb')
+//   const uri = mongo_uri
+//   const client = await new MongoClient(uri, {
+//     useNewUrlParser: true,
+//     useUnifiedTopology: true,
+//     serverApi: ServerApiVersion.v1,
+//   })
+//   client.connect((err) => {
+//     const collection = client.db('news_data').collection('espn')
+//     // collection.insertMany(espn_data)
+//     espn_data.forEach((r) => {
+//       var key = { _id: r._id }
+//       var data = { $setOnInsert: { ...r } }
+//       collection.updateOne(key, data, { upsert: true })
+//     })
+//   })
+// }
+
+// function get_via_axios() {
+//   espn_addresses.forEach((itm, idx) => {
+//     router.get(itm.api_route, async (req, res) => {
+//       const itm_title = itm.title
+//       await axios_espn
+//         .get(itm.url_ext)
+//         .then((response) => {
+//           var parseString = require('xml2js').parseString
+//           parseString(response.data, { trim: true }, function (err, result) {
+//             const extractedData = result['rss']['channel'][0]
+
+//             // if (itm_title !== 'soccer') {
+//             const espn_data = []
+
+//             extractedData.item
+//               .filter((v) => {
+//                 !v.title ||
+//                   !v.description ||
+//                   !v.image_link ||
+//                   !v.link ||
+//                   !v.pubDate ||
+//                   !v.guid
+//               })
+//               .forEach((v) => {
+//                 let d = new Object()
+//                 d.source = 'espn'
+//                 d.topic = itm_title
+//                 d.title = v.title ? v.title[0] : ''
+//                 d.description = v.description ? v.description[0] : ''
+//                 d.image_link = v.enclosure ? v.enclosure[0].$.url : ''
+//                 d.link = v.link ? v.link[0] : ''
+//                 d.pubDate = v.pubDate ? v.pubDate[0] : ''
+//                 d._id = v.guid ? v.guid[0]?._ : ''
+//                 espn_data.push(d)
+//               })
+
+//             mongo_update(espn_data)
+//             // }
+//             res.json(extractedData)
+//           })
+//         })
+//         .catch((err) => console.log(err))
+//     })
+//   })
+// }
